@@ -9,24 +9,6 @@
 <script>document.body.className += ' fade-out';</script>
 {% endif %}
 
-<div class="off-canvas-wrapper">
-    <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
-      <div class="off-canvas position-right" id="offCanvasRight" data-off-canvas data-position="right">
-
-        <!-- Menu -->
-        <ul class="vertical menu">
-	      <li><a href="#">About</a></li>
-          <li><a href="#">Drinks</a></li>
-          <li><a href="#">Menu</a></li>
-          <li><a href="#">Bookings</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
-
-      </div>
-	  
-<!-- Page Content -->
-      <div class="off-canvas-content" data-off-canvas-content>
-		
 		<!-- Content -->  
 		{{ content }}
 		<!-- End Content --> 
@@ -34,12 +16,6 @@
 		<!-- Content -->  
 		{% include footer.html %}
 		<!-- End Content -->  
-
-
-      </div>
-<!-- End Page Content -->
-    </div>
-</div>
   
   
 </body>
