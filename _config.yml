@@ -1,0 +1,44 @@
+---
+title: EARN Studios
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: true
+  carousel:
+    title: Carousel
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+url: http://earnstudios.com
+permalink: pretty
+gems:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+exclude:
+- bower_components
+description: We are a modern brand innovation agency, our mission is to move brands from like to love, turn customers into fans and ideas into revenue
+domain: http://earnstudios.com
+company: EARN Media
+email: hello@earnstudios.com
+googleplus: 
+logo: "/assets/img/layout/logo.svg"
+per_page: 12
+date_format: "%b %d, %Y"
+future: true
