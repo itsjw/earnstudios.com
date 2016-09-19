@@ -15,13 +15,62 @@ if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && lo
 }
 });
 
-$('.hero-carousel').flickity({
+var $heroCarouselText;
+
+var $heroCarousel = $('.hero-carousel');
+
+var prevIndex;
+
+function animateText(e){
+	
+	var flkty = Flickity.data( $heroCarousel[0] );
+	
+	
+	var index =  flkty.selectedIndex;
+	
+	if( prevIndex === index){
+		return;
+	}
+	prevIndex = index;
+	
+	if(!$heroCarouselText){
+		$heroCarouselText = $( ".hero-carousel-text-inside" );
+	}
+	$heroCarouselText.addClass( "animated fadeInUp" );
+	setTimeout(function(){
+		 $heroCarouselText.removeClass( "animated fadeInUp" );
+	}, 1000);
+}
+
+$(function(){
+	animateText();
+});
+
+
+$heroCarousel.flickity({
   // options
   contain: true,
+  draggable: false,
   setGallerySize: false,
   wrapAround: true,
-  autoPlay: false,
+  autoPlay: true,
   prevNextButtons: false,
-  pageDots: false,
+  pageDots: true,
   arrowShape: 'M100,46.875H11.9688l17.4688-17.4688L25,25L0,50l25,25l4.4062-4.4062L11.9688,53.125H100V46.875z'
-});
+}).on( 'select.flickity', animateText );
+
+
+
+wow = new WOW(
+                      {
+                      boxClass:     'wow',      // default
+                      animateClass: 'animated', // default
+                      offset:       0,          // default
+                      mobile:       true,       // default
+                      live:         true        // default
+                    }
+                    )
+wow.init();
+  
+
+

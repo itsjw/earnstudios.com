@@ -74,12 +74,42 @@ a {
 .navigation {
 	font-family: $header-font-family;
 	font-size: 1.5rem;
-	padding-top: 1rem;
+	padding: 3rem;
+/*
 	@include breakpoint(xlarge) {
 	padding: 2rem;
   	}
+*/
 }
 
+.navigation-left {
+	position: absolute;
+	top: 3rem;
+	left: 3rem;
+	z-index: 100;
+	a {
+    color: $color--white;
+    }
+    a:hover {
+    color: $color--light-gray;
+    }
+}
+
+.navigation-right {
+	position: absolute;
+	top: 3rem;
+	right: 3rem;
+	z-index: 5000;
+	a {
+    color: $color--white;
+    }
+    a:hover {
+    color: $color--light-gray;
+    }
+}
+
+
+/*
 .navigation-white {
 	position: absolute;
 	top: 0;
@@ -102,6 +132,7 @@ a {
     color: $color--light-gray;
     }
 }
+*/
 
 
 // 404
@@ -119,6 +150,16 @@ a {
 
 //Index
 
+.index-about-text {
+	padding: 3rem;
+}
+
+.index-about-text .link {
+    color: $color--amber;
+    border-bottom: $color--amber 1px solid;
+    padding-bottom: 0.25rem;
+}
+
 .index__description {
 	margin-top: 3rem;
 	margin-bottom: 3rem;
@@ -131,8 +172,6 @@ a {
 }
 
 .index__content {
-	padding-top: 0rem;
-	padding-bottom: 3rem;
 }
 
 
@@ -182,12 +221,14 @@ a {
 // Excerpt
 
 .excerpt {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+	position:relative;
 }
 
 .excerpt__image {
     position:relative;
+    img {
+    width:100%;
+    }
 }
 
 .excerpt__image:after {
@@ -197,24 +238,32 @@ a {
     height:100%;
     top:0; 
     left:0;
-    background:rgba(0,0,0,0.2);
-    opacity:0;
+    background:$color--black;
+    opacity:0.2;
     transition: $primary-transition;
 }
 
 .excerpt__image:hover:after {
-    opacity:1;
+    background:$color--amber;
+    opacity:0.8;
 }
 
 
 .excerpt__title {
-	padding-top: 1rem;
-	margin-bottom: 0.25rem;
-	line-height: $line-height--tight
+	position:absolute;
+	top: 3rem;
+	left: 3rem;
+	a {
+    color: $color--white;
+    }
+    a:hover {
+    color: $color--light-gray;
+    }
 }
 
-.excerpt p {
-	margin-bottom: 0;
+.excerpt__link {
+    border-bottom: $color--yellow 1px solid;
+    padding-bottom: 0.25rem;
 }
 
 // About
@@ -239,8 +288,7 @@ a {
 footer {
 	background-color: $color--light-gray;
 	color: $color--dark-gray;
-	padding-bottom: 1rem;
-	padding-top: 1rem;
+	padding: 3rem;
 	a {
     color: $color--black;
     }
@@ -258,9 +306,6 @@ footer .detail {
 }
 
 .footer__bottom {
-	@include breakpoint(large) {
-   padding: 2rem;
-  	}
 	a {
     color: $color--dark-gray;
     }
@@ -270,19 +315,28 @@ footer .detail {
 
 
 .hero-carousel-text {
+	padding: 3rem;
 	height: 100%;
 }
 
 
 .hero-carousel-text h1 a {
+	font-family: $header-font-family-bold;
 	color: $color--white;
 	&:hover {
-      color: $color--dark-gray;
+      color: $color--amber;
+    }
+}
+
+.hero-carousel-text .link {
+	color: $color--white;
+	&:hover {
+      color: $color--amber;
     }
 }
 
 .hero-carousel {
-  height: 100vh; 
+  height: 80vh; 
 }
 
 .hero-carousel-cell {
@@ -291,23 +345,8 @@ footer .detail {
   /* inherit height from gallery */
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center;
+  background-position: center center;
   z-index: 1; }
-  
-.hero-address {
-	position: absolute;
-	bottom: 2rem;
-	width: 100%;
-	z-index: 110;
-	font-family: $header-font-family;
-	font-size: 1.5rem;
-	a {
-    color: $color--white;
-    }
-    a:hover {
-    color: $color--light-gray;
-    }
-}
 
 .hero-arrow {
 	position: absolute;
@@ -331,8 +370,3 @@ footer .detail {
 
   
 // Testing
-
-.teaser {
-	padding-left: 2rem;
-	padding-right: 2rem;
-}
