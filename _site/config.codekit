@@ -382,110 +382,20 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
-	"\/_site\/projects\/beach-is-back\/index.html": {
+	"\/_site\/projects\/merchants-heart\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/beach-is-back\/index.html",
+		"inputAbbreviatedPath": "\/_site\/projects\/merchants-heart\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/projects\/casualty-eighteen\/index.html": {
+	"\/_site\/projects\/qualcomm\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/casualty-eighteen\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/projects\/casualty-seventeen\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/casualty-seventeen\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/projects\/emmerdale\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/emmerdale\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/projects\/luther-season-one\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/luther-season-one\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/projects\/luther-season-two\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/luther-season-two\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/projects\/marvellous\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/marvellous\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/projects\/peaky-blinders\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/peaky-blinders\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/projects\/spooks-season-five\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/spooks-season-five\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/projects\/spooks-season-four\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/spooks-season-four\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/projects\/spooks-season-seven\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/spooks-season-seven\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/projects\/spooks-season-six\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/projects\/spooks-season-six\/index.html",
+		"inputAbbreviatedPath": "\/_site\/projects\/qualcomm\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -511,222 +421,90 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/_site\/uploads\/burger.jpg": {
+	"\/_site\/uploads\/merchants-heart-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 212028,
-		"inputAbbreviatedPath": "\/_site\/uploads\/burger.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/burger.jpg",
+		"initialSize": 147914,
+		"inputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-feature.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-feature.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/luther-season-one.jpg": {
+	"\/_site\/uploads\/merchants-heart.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 103399,
-		"inputAbbreviatedPath": "\/_site\/uploads\/luther-season-one.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/luther-season-one.jpg",
+		"initialSize": 54058,
+		"inputAbbreviatedPath": "\/_site\/uploads\/merchants-heart.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/merchants-heart.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/luther-season-two.jpg": {
+	"\/_site\/uploads\/qualcomm-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 172143,
-		"inputAbbreviatedPath": "\/_site\/uploads\/luther-season-two.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/luther-season-two.jpg",
+		"initialSize": 207459,
+		"inputAbbreviatedPath": "\/_site\/uploads\/qualcomm-feature.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/qualcomm-feature.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/marvellous.jpg": {
+	"\/_site\/uploads\/qualcomm.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 121381,
-		"inputAbbreviatedPath": "\/_site\/uploads\/marvellous.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/marvellous.jpg",
+		"initialSize": 87363,
+		"inputAbbreviatedPath": "\/_site\/uploads\/qualcomm.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/qualcomm.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/outside.jpg": {
+	"\/_uploads\/merchants-heart-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 310969,
-		"inputAbbreviatedPath": "\/_site\/uploads\/outside.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/outside.jpg",
+		"initialSize": 147914,
+		"inputAbbreviatedPath": "\/_uploads\/merchants-heart-feature.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/merchants-heart-feature.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/peaky-blinders.jpg": {
+	"\/_uploads\/merchants-heart.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 70461,
-		"inputAbbreviatedPath": "\/_site\/uploads\/peaky-blinders.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/peaky-blinders.jpg",
+		"initialSize": 54058,
+		"inputAbbreviatedPath": "\/_uploads\/merchants-heart.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/merchants-heart.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/spooks-season-five.jpg": {
+	"\/_uploads\/qualcomm-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 130297,
-		"inputAbbreviatedPath": "\/_site\/uploads\/spooks-season-five.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/spooks-season-five.jpg",
+		"initialSize": 207459,
+		"inputAbbreviatedPath": "\/_uploads\/qualcomm-feature.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/qualcomm-feature.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/spooks-season-four.jpg": {
+	"\/_uploads\/qualcomm.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 143383,
-		"inputAbbreviatedPath": "\/_site\/uploads\/spooks-season-four.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/spooks-season-four.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/spooks-season-seven.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 110846,
-		"inputAbbreviatedPath": "\/_site\/uploads\/spooks-season-seven.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/spooks-season-seven.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/spooks-season-six.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 114695,
-		"inputAbbreviatedPath": "\/_site\/uploads\/spooks-season-six.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/spooks-season-six.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/burger.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 212028,
-		"inputAbbreviatedPath": "\/_uploads\/burger.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/burger.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/luther-season-one.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 103399,
-		"inputAbbreviatedPath": "\/_uploads\/luther-season-one.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/luther-season-one.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/luther-season-two.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 172143,
-		"inputAbbreviatedPath": "\/_uploads\/luther-season-two.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/luther-season-two.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/marvellous.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 121381,
-		"inputAbbreviatedPath": "\/_uploads\/marvellous.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/marvellous.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/outside.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 310969,
-		"inputAbbreviatedPath": "\/_uploads\/outside.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/outside.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/peaky-blinders.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 70461,
-		"inputAbbreviatedPath": "\/_uploads\/peaky-blinders.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/peaky-blinders.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/spooks-season-five.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 130297,
-		"inputAbbreviatedPath": "\/_uploads\/spooks-season-five.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/spooks-season-five.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/spooks-season-four.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 143383,
-		"inputAbbreviatedPath": "\/_uploads\/spooks-season-four.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/spooks-season-four.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/spooks-season-seven.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 110846,
-		"inputAbbreviatedPath": "\/_uploads\/spooks-season-seven.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/spooks-season-seven.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/spooks-season-six.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 114695,
-		"inputAbbreviatedPath": "\/_uploads\/spooks-season-six.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/spooks-season-six.jpg",
+		"initialSize": 87363,
+		"inputAbbreviatedPath": "\/_uploads\/qualcomm.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/qualcomm.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -738,8 +516,8 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/about.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/about.html",
@@ -14339,7 +14117,7 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "The Windsor Castle",
+	"displayValue": "EARN Studios",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-fry"
 	},
