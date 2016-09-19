@@ -2186,18 +2186,13 @@ Copyright (c) 2015 Daniel Eden
   animation-name: slideOutUp; }
 
 @font-face {
-  font-family: 'SortsMillGoudy-Regular';
-  src: url("../fonts/SortsMillGoudy-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/SortsMillGoudy-Regular.woff") format("woff"), url("../fonts/SortsMillGoudy-Regular.ttf") format("truetype"), url("../fonts/SortsMillGoudy-Regular.svg#SortsMillGoudy-Regular") format("svg");
+  font-family: 'Apercu-Regular';
+  src: url("../fonts/Apercu-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Apercu-Regular.woff") format("woff"), url("../fonts/Apercu-Regular.ttf") format("truetype"), url("../fonts/Apercu-Regular.svg#Apercu-Regular") format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
-  font-family: 'ApercuPro-Regular';
-  src: url("../fonts/ApercuPro-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/ApercuPro-Regular.woff") format("woff"), url("../fonts/ApercuPro-Regular.ttf") format("truetype"), url("../fonts/ApercuPro-Regular.svg#ApercuPro-Regular") format("svg");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'Graphik-Light-Web';
-  src: url("../fonts/Graphik-Light-Web.eot?#iefix") format("embedded-opentype"), url("../fonts/Graphik-Light-Web.woff") format("woff"), url("../fonts/Graphik-Light-Web.ttf") format("truetype"), url("../fonts/Graphik-Light-Web.svg#Graphik-Light-Web") format("svg");
+  font-family: 'Apercu-Bold';
+  src: url("../fonts/Apercu-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Apercu-Bold.woff") format("woff"), url("../fonts/Apercu-Bold.ttf") format("truetype"), url("../fonts/Apercu-Bold.svg#Apercu-Bold") format("svg");
   font-weight: normal;
   font-style: normal; }
 /*!
@@ -3377,7 +3372,7 @@ html {
 body {
   padding: 0;
   margin: 0;
-  font-family: "ApercuPro-Regular", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Apercu-Regular", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
   color: #0a0a0a;
@@ -3430,7 +3425,7 @@ button {
   display: none !important; }
 
 .row {
-  max-width: 75rem;
+  max-width: 90rem;
   margin-left: auto;
   margin-right: auto;
   display: -webkit-box;
@@ -4610,7 +4605,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Graphik-Light-Web", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Apercu-Regular", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   color: inherit;
@@ -4674,7 +4669,7 @@ a {
     border: 0; }
 
 hr {
-  max-width: 75rem;
+  max-width: 90rem;
   height: 0;
   border-right: 0;
   border-top: 0;
@@ -6125,7 +6120,7 @@ body {
 
 .off-canvas {
   position: absolute;
-  background: #99694a;
+  background: #e6e6e6;
   z-index: -1;
   max-height: 100%;
   overflow-y: auto;
@@ -6509,7 +6504,7 @@ html.is-reveal-open body {
   @media screen and (min-width: 40em) {
     .reveal {
       width: 600px;
-      max-width: 75rem; } }
+      max-width: 90rem; } }
   @media screen and (min-width: 40em) {
     .reveal .reveal {
       left: auto;
@@ -6520,15 +6515,15 @@ html.is-reveal-open body {
   @media screen and (min-width: 40em) {
     .reveal.tiny {
       width: 30%;
-      max-width: 75rem; } }
+      max-width: 90rem; } }
   @media screen and (min-width: 40em) {
     .reveal.small {
       width: 50%;
-      max-width: 75rem; } }
+      max-width: 90rem; } }
   @media screen and (min-width: 40em) {
     .reveal.large {
       width: 90%;
-      max-width: 75rem; } }
+      max-width: 90rem; } }
   .reveal.full {
     top: 0;
     left: 0;
@@ -8188,6 +8183,94 @@ Example showing how to change the color/size of the icons:
 svg.icon.icon-envelop2 {
   vertical-align: text-bottom; }
 
+.overlay {
+  z-index: 1000;
+  position: fixed;
+  background: #FFD600;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0%;
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: opacity .35s, visibility .35s, height .35s;
+  transition: opacity .35s, visibility .35s, height .35s;
+  overflow: hidden; }
+  .overlay.open {
+    opacity: .95;
+    visibility: visible;
+    height: 100%; }
+    .overlay.open li {
+      -webkit-animation: fadeInUp .5s ease forwards;
+              animation: fadeInUp .5s ease forwards;
+      -webkit-animation-delay: .35s;
+              animation-delay: .35s;
+      /*
+            &:nth-of-type(2) {
+              animation-delay: .4s;
+            }
+            &:nth-of-type(3) {
+              animation-delay: .45s;
+            }
+            &:nth-of-type(4) {
+              animation-delay: .50s;
+            }
+      */ }
+  .overlay nav {
+    position: relative;
+    height: 70%;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+    font-size: 3rem;
+    text-align: center; }
+  .overlay ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    display: inline-block;
+    position: relative;
+    height: 100%; }
+    .overlay ul li {
+      display: block;
+      height: 25%;
+      height: calc(100% / 6);
+      min-height: 3rem;
+      position: relative;
+      opacity: 0; }
+      .overlay ul li a {
+        display: block;
+        position: relative;
+        color: #FFF;
+        text-decoration: none;
+        overflow: hidden; }
+        .overlay ul li a:hover:after, .overlay ul li a:focus:after, .overlay ul li a:active:after {
+          width: 100%; }
+        .overlay ul li a:after {
+          content: '';
+          position: absolute;
+          bottom: 0;
+          left: 50%;
+          width: 0%;
+          -webkit-transform: translateX(-50%);
+                  transform: translateX(-50%);
+          height: 3px;
+          background: #222222;
+          -webkit-transition: .35s;
+          transition: .35s; }
+
+/*
+@keyframes fadeInRight {
+  0% {
+    opacity: 0;
+    left: 20%;
+  }
+  100% {
+    opacity: 1;
+    left: 0;
+  }
+}
+*/
 body {
   opacity: 1;
   -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
@@ -8230,7 +8313,7 @@ a {
 
 .detail {
   font-size: 0.9rem;
-  font-family: "ApercuPro-Regular", Helvetica, Roboto, Arial, sans-serif; }
+  font-family: "Apercu-Regular", Helvetica, Roboto, Arial, sans-serif; }
 
 .underline-black {
   display: inline-block;
@@ -8265,30 +8348,59 @@ a {
   position: relative; }
 
 .navigation {
-  font-family: "Graphik-Light-Web", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Apercu-Regular", Helvetica, Roboto, Arial, sans-serif;
   font-size: 1.5rem;
-  padding-top: 1rem; }
-  @media screen and (min-width: 75em) {
-    .navigation {
-      padding: 2rem; } }
+  padding: 3rem;
+  /*
+  	@include breakpoint(xlarge) {
+  	padding: 2rem;
+    	}
+  */ }
 
-.navigation-white {
+.navigation-left {
   position: absolute;
-  top: 0;
-  width: 100%;
-  z-index: 110; }
-  .navigation-white a {
+  top: 3rem;
+  left: 3rem;
+  z-index: 100; }
+  .navigation-left a {
     color: #ffffff; }
-  .navigation-white a:hover {
+  .navigation-left a:hover {
     color: #d6d6d6; }
+
+.navigation-right {
+  position: absolute;
+  top: 3rem;
+  right: 3rem;
+  z-index: 5000; }
+  .navigation-right a {
+    color: #ffffff; }
+  .navigation-right a:hover {
+    color: #d6d6d6; }
+
+/*
+.navigation-white {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 110;
+	a {
+    color: $color--white;
+    }
+    a:hover {
+    color: $color--light-gray;
+    }
+}
 
 .navigation-black {
-  position: relative; }
-  .navigation-black a {
-    color: #222222; }
-  .navigation-black a:hover {
-    color: #d6d6d6; }
-
+	position: relative;
+	a {
+    color: $color--black;
+    }
+    a:hover {
+    color: $color--light-gray;
+    }
+}
+*/
 .missing {
   margin-top: 3rem;
   margin-bottom: 3rem; }
@@ -8297,6 +8409,14 @@ a {
   .missing a:hover {
     color: #222222; }
 
+.index-about-text {
+  padding: 3rem; }
+
+.index-about-text .link {
+  color: #FFD600;
+  border-bottom: #FFD600 1px solid;
+  padding-bottom: 0.25rem; }
+
 .index__description {
   margin-top: 3rem;
   margin-bottom: 3rem; }
@@ -8304,10 +8424,6 @@ a {
     color: #949494; }
   .index__description a:hover {
     color: #222222; }
-
-.index__content {
-  padding-top: 0rem;
-  padding-bottom: 3rem; }
 
 .project__meta {
   padding-top: 2rem; }
@@ -8342,11 +8458,12 @@ a {
   padding-top: 2rem; }
 
 .excerpt {
-  padding-top: 1rem;
-  padding-bottom: 1rem; }
+  position: relative; }
 
 .excerpt__image {
   position: relative; }
+  .excerpt__image img {
+    width: 100%; }
 
 .excerpt__image:after {
   content: '\A';
@@ -8355,30 +8472,36 @@ a {
   height: 100%;
   top: 0;
   left: 0;
-  background: rgba(0, 0, 0, 0.2);
-  opacity: 0;
+  background: #222222;
+  opacity: 0.2;
   -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
   transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
 
 .excerpt__image:hover:after {
-  opacity: 1; }
+  background: #FFD600;
+  opacity: 0.8; }
 
 .excerpt__title {
-  padding-top: 1rem;
-  margin-bottom: 0.25rem;
-  line-height: 1.16; }
+  position: absolute;
+  top: 3rem;
+  left: 3rem; }
+  .excerpt__title a {
+    color: #ffffff; }
+  .excerpt__title a:hover {
+    color: #d6d6d6; }
 
-.excerpt p {
-  margin-bottom: 0; }
+.excerpt__link {
+  border-bottom: #FFFF00 1px solid;
+  padding-bottom: 0.25rem; }
 
 .about__content {
-  font-family: "Graphik-Light-Web", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Apercu-Regular", Helvetica, Roboto, Arial, sans-serif;
   font-size: 1.5rem;
   padding-top: 3rem;
   padding-bottom: 3rem; }
 
 .about__cv {
-  font-family: "Graphik-Light-Web", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Apercu-Regular", Helvetica, Roboto, Arial, sans-serif;
   font-size: 1.5rem;
   padding-top: 3rem;
   padding-bottom: 3rem; }
@@ -8386,36 +8509,39 @@ a {
 footer {
   background-color: #d6d6d6;
   color: #949494;
-  padding-bottom: 1rem;
-  padding-top: 1rem; }
+  padding: 3rem; }
   footer a {
     color: #222222; }
 
 .footer__top {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  font-family: "Graphik-Light-Web", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Apercu-Regular", Helvetica, Roboto, Arial, sans-serif;
   font-size: 1.5rem; }
 
 footer .detail {
   padding-bottom: 1rem; }
 
-@media screen and (min-width: 64em) {
-  .footer__bottom {
-    padding: 2rem; } }
 .footer__bottom a {
   color: #949494; }
 
 .hero-carousel-text {
+  padding: 3rem;
   height: 100%; }
 
 .hero-carousel-text h1 a {
+  font-family: "Apercu-Bold", Helvetica, Roboto, Arial, sans-serif;
   color: #ffffff; }
   .hero-carousel-text h1 a:hover {
-    color: #949494; }
+    color: #FFD600; }
+
+.hero-carousel-text .link {
+  color: #ffffff; }
+  .hero-carousel-text .link:hover {
+    color: #FFD600; }
 
 .hero-carousel {
-  height: 100vh; }
+  height: 80vh; }
 
 .hero-carousel-cell {
   width: 100%;
@@ -8423,27 +8549,15 @@ footer .detail {
   /* inherit height from gallery */
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top center;
+  background-position: center center;
   z-index: 1; }
-
-.hero-address {
-  position: absolute;
-  bottom: 2rem;
-  width: 100%;
-  z-index: 110;
-  font-family: "Graphik-Light-Web", Helvetica, Roboto, Arial, sans-serif;
-  font-size: 1.5rem; }
-  .hero-address a {
-    color: #ffffff; }
-  .hero-address a:hover {
-    color: #d6d6d6; }
 
 .hero-arrow {
   position: absolute;
   bottom: 2rem;
   right: 2rem;
   z-index: 110;
-  font-family: "Graphik-Light-Web", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Apercu-Regular", Helvetica, Roboto, Arial, sans-serif;
   font-size: 1.5rem; }
   .hero-arrow a {
     color: #ffffff; }
@@ -8452,13 +8566,5 @@ footer .detail {
 
 .hero-wrapper {
   position: relative; }
-
-.teaser {
-  padding-left: 2rem;
-  padding-right: 2rem; }
-
-.about {
-  background-color: #99694a;
-  color: #ffffff; }
 
 /*# sourceMappingURL=app.css.map */

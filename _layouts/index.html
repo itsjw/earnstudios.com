@@ -2,82 +2,77 @@
 layout: default
 ---
 
-<!-- Hero Wrapper -->
-<div class="hero-wrapper">
+<!-- Overlay Menu -->
+<div class="overlay" id="overlay" data-toggler=".open">
+  <nav class="overlay-menu">
+    <ul>
+	{% for link in site.data.navigation %}
+        <li class="element">
+            <a href="{{ link.url }}">{{ link.title }}</a>
+        </li>
+    {% endfor %}
+    
+<!--
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Work</a></li>
+      <li><a href="#">Contact</a></li>
+-->
+    </ul>
+  </nav>
+</div>
+<!-- End Overlay Menu -->
 
 <!-- Navigation -->
-<div class="navigation navigation-white row expanded">
-	
-	<div class="text-left small-6 columns">
-		<a href="/">{{ site.title }}</a>
-	</div>
-	
-	<div class="text-right small-6 columns">
-		<button class="hamburger hamburger--collapse" id="menuBar" data-toggler=".is-active" type="button" data-toggle="menuBar offCanvasRight">
-		<span class="hamburger-box">
-		<span class="hamburger-inner"></span>
-		</span>
-		</button>
-	</div>
-	
+<div class="navigation-left">
+<a href="/"><svg class="icon icon-logo"><use xlink:href="#icon-logo"></use></svg></a>
+</div>
+
+<div class="navigation-right">
+<button class="hamburger hamburger--collapse" id="toggle" data-toggler=".is-active" type="button" data-toggle="overlay toggle">
+<span class="hamburger-box">
+<span class="hamburger-inner"></span>
+</span>
+</button>
 </div>
 <!-- End Navigation -->
 
 <!-- Carousel -->
 <div class="hero-carousel">
-{% assign slide_documents = site.carousel %}
+{% assign slide_documents = site.projects | sort: 'date' | reverse | where: "is-carousel", "true" %}
 {% for slide in slide_documents %}
-<div class="hero-carousel-cell" style="background-image: url({{slide.img}})">	
+<div class="hero-carousel-cell" style="background-image: url({{slide.feature-image}})">	
 	
-<div class="row hero-carousel-text align-middle align-center">
-	<div class="shrink columns">
+<div class="row hero-carousel-text align-middle">
+	<div class="small-12 medium-8 large-8 columns hero-carousel-text-inside">
 	<h1><a href="{{ slide.url }}">{{slide.carousel-text}}</a></h1>
+	<p><a href="{{ slide.url }}" class="link">Read More</a></p>
 	</div>
 </div>
 
 </div>
 {% endfor %}
-
 </div>
 <!-- End Carousel -->
 
 
-<!-- Address -->
-<div class="hero-address row columns text-center expanded">
-<a href="/">135 Lower Clapton Road, Hackney, London E5 8EQ</a>
-</div>
-<!-- End Address -->
-
-<!-- Arrow -->
-<div class="hero-arrow">
-<a href="/">Down</a>
-</div>
-<!-- End Address -->
-
-
-</div>
-<!-- End Hero Wrapper -->
-
-
-<div class="expanded row align-middle collapse about" data-equalizer data-equalize-by-row="true">
-  <div class="small-6 columns">
-  <div class="teaser text-center">
-	  <h2>The Windsor Castle is a big Victorian pub located at 135 Lower Clapton Road, Hackney.</h2>
+<div class="row index-about-text">
+  <div class="small-10 columns wow fadeInUp" data-wow-duration="1s" data-wow-offset="100">
+	  <h2>{{page.about-text}}</h2>
+	  <p><a href="/about" class="link">Read More</a></p>
   </div>
-  </div>
-  
-  <div class="small-6 columns"><img src= "{{page.about-image}}"></div>
 </div>
 
 
-<div class="expanded row align-middle collapse" data-equalizer data-equalize-by-row="true">
-  
-  <div class="small-6 columns"><img src= "{{page.about-image}}"></div>
-  
-  <div class="small-6 columns">
-  <div class="teaser text-center">
-	  <h2>The kitchen serves hearty pub food with a focus on local and seasonal produce seven days a week, including a classic Sunday roast.</h2>
-  </div>
-  </div>
-  
-</div>
+<!-- Content -->
+<!-- <section class="index__content"> -->
+	<div class="row expanded collapse">
+		{% assign projects = site.projects | sort: 'date' | reverse | where: "is-featured", "true" %}
+		{% for project in projects limit:9 %}
+		<div class="small-12 medium-6 large-6 columns">
+		{% include excerpt.html %}
+		</div>
+		{% endfor %}
+	</div>
+<!-- </section> -->
+<!-- End Content -->
