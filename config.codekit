@@ -14939,6 +14939,38 @@
 	],
 "lastSavedByUser": "Gareth Johns",
 "manualImportLinks": {
+	"\/assets\/js\/app.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/bower_components\/jquery\/dist\/jquery.js",
+			"position": 0,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation-sites\/dist\/foundation.js",
+			"position": 1,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/bower_components\/what-input\/what-input.js",
+			"position": 2,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/bower_components\/flickity\/dist\/flickity.pkgd.js",
+			"position": 3,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/bower_components\/wow\/dist\/wow.js",
+			"position": 4,
+			"type": 0
+			}
+		]
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
