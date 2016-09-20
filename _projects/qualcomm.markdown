@@ -1,6 +1,6 @@
 ---
 title: Qualcomm
-date: 2013-09-12 00:00:00 Z
+date: 2016-04-01 00:00:00 Z
 image: "/uploads/qualcomm.jpg"
 feature-image: "/uploads/qualcomm-feature.jpg"
 images: 
