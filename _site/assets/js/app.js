@@ -66,7 +66,7 @@ $('.hero-carousel').flickity({
   // options
   contain: true,
   setGallerySize: false,
-  wrapAround: true,
+  wrapAround: false,
   autoPlay: false,
   prevNextButtons: false,
   pageDots: false,

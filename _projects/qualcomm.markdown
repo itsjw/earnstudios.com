@@ -3,9 +3,10 @@ title: Qualcomm
 date: 2013-09-12 00:00:00 Z
 image: "/uploads/qualcomm.jpg"
 feature-image: "/uploads/qualcomm-feature.jpg"
+images: 
 company: Qualcomm
-is-featured: true
-featured-text: 
+is-featured:
+excerpt-text: Defining a moment for a global brand
 is-carousel: true
 carousel-text: Defining a moment for a global brand
 brief-text: |-

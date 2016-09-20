@@ -1,45 +1,17 @@
 ---
-layout: default
+layout: light
 ---
 
-<!-- Navigation -->
-{% include navigation-dark.html %}
-<!-- End Navigation -->
-
-<!-- Title and Meta -->
-<div class="row project__meta">
-	<div class="small-12 medium-8 columns">
-		<h1>{{ page.title }}</h1>
-		{{ page.company }}<br>
-		{{ page.runtime }}<br>
-		{% if page.awards %}{{ page.awards }}<br>{% endif %}
-		<span class="detail">Director(s)</span> {{ page.director }}<br>
-		<span class="detail">Writer(s)</span> {{ page.writer }}<br>
-		<span class="detail">Producer(s)</span> {{ page.producers }}<br>
-		<span class="detail">With</span> {{ page.with }}<br>
-		<a class="detail" href="{{ page.imdb}}" target="_blank">IMDB</a>
+<!-- Hero -->
+<div class="project__hero tint" style="background-image: url({{page.feature-image}})">	
+<div class="row hero-carousel-text align-middle">
+	<div class="small-12 medium-8 large-8 columns hero-carousel-text-inside">
+	<h1><a href="{{ slide.url }}">{{page.carousel-text}}</a></h1>
+	<h3>{{page.company}}</a></h3>
 	</div>
 </div>
-<!-- End Title and Meta -->
-
-<!-- Video or Image -->
-{% if page.video or page.img %}
-<div class="row project__hero">
-	<div class="small-12 medium-10 large-8 columns">
-	
-	{% if page.video %}
-	<div class="flex-video widescreen vimeo">
-	<iframe src="https://player.vimeo.com/video/{{page.video}}?autoplay=0&color=FFFFFF&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-	</div>
-	
-	{% elsif page.img %}
-	<img src="{{page.img}}" alt="{{page.title}}" />
-	{% endif %}
-	
-	</div>
 </div>
-{% endif %}
-<!-- End Video or Image -->
+<!-- End Hero -->
 
 <!-- Content -->
 <div class="row project__content">
@@ -50,7 +22,7 @@ layout: default
 <!-- End Content -->
 
 <!-- Share -->
-<div class="row project__share__bottom">
+<div class="row project__share">
 	<div class="small-12 columns">
 		<ul class="menu simple">
 			{% include sharing.html %}
