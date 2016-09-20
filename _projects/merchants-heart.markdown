@@ -7,6 +7,7 @@ span: April 2012 – April 2013
 company: Lucozade Ribena Suntory
 layout: project
 is-featured: 'true'
-is-carousel:
+is-carousel: 
 carousel-text: Creating a brand from inception to product
 ---
+

@@ -8,5 +8,6 @@ company: Castrol
 layout: project
 is-featured: 'true'
 is-carousel: 'true'
-carousel-text: Creators of the most shared video in the world 
+carousel-text: Creators of the most shared video in the world
 ---
+
