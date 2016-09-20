@@ -16,7 +16,7 @@ layout: light
 <!-- End About -->
 
 
-<!-- Content -->
+<!-- Projects -->
 <div class="row expanded collapse">
 	{% assign projects = site.projects | sort: 'date' | reverse | where: "is-featured", "true" %}
 	{% for project in projects limit:9 %}
@@ -24,13 +24,28 @@ layout: light
 	{% include excerpt.html %}
 	</div>
 	{% endfor %}
+
 	
+</div>
+<!-- End Projects -->
+
+<!-- Ventures About -->
+<div class="row index-about-text">
+  <div class="small-12 medium-10 large-9 columns wow fadeIn">
+	  <h3>{{page.ventures-about-text}}</h3>
+  </div>
+</div>
+<!-- End Ventures About -->
+
+<!-- Ventures -->
+<div class="row expanded collapse">
 	{% assign projects = site.ventures | sort: 'date' | reverse | where: "is-featured", "true" %}
 	{% for project in projects limit:9 %}
 	<div class="small-12 medium-6 large-6 columns">
 	{% include excerpt-venture.html %}
 	</div>
 	{% endfor %}
-	
 </div>
-<!-- End Content -->
+<!-- End Ventures -->
+
+

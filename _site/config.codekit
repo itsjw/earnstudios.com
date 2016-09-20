@@ -749,7 +749,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 207459,
+		"initialSize": 78822,
 		"inputAbbreviatedPath": "\/_site\/uploads\/qualcomm-feature.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/qualcomm-feature.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -14838,6 +14838,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/index.md": {
 		"criticStyle": 0,

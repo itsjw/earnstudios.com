@@ -16,9 +16,6 @@
 <loc>http://earnstudios.com/ventures/</loc>
 </url>
 <url>
-<loc>http://earnstudios.com/projects/castrol/</loc>
-</url>
-<url>
 <loc>http://earnstudios.com/projects/ee/</loc>
 </url>
 <url>
@@ -40,6 +37,9 @@
 <loc>http://earnstudios.com/projects/slimfast/</loc>
 </url>
 <url>
+<loc>http://earnstudios.com/projects/castrol/</loc>
+</url>
+<url>
 <loc>http://earnstudios.com/ventures/happiness-school/</loc>
 </url>
 <url>
@@ -50,5 +50,9 @@
 </url>
 <url>
 <loc>http://earnstudios.com/ventures/pow/</loc>
+</url>
+<url>
+<loc>http://earnstudios.com/index.html</loc>
+<lastmod>2016-09-20T21:19:23+00:00</lastmod>
 </url>
 </urlset>

@@ -1,19 +1,20 @@
-<article class="excerpt">
+<a href="{{ project.url }}">
+<div class="excerpt">
+
+<!-- Title -->
+<div class="excerpt__title">
+<div class="wow fadeInUp">
+<h3>{{ project.excerpt-text }}</h3>
+<p><span>View Venture</span></p>
+</div>
+</div>
+<!-- End Title -->
 
 <!-- Image -->
-<a href="{{ project.url }}">
 <div class="excerpt__image">
 <img src="{{project.image}}" alt="{{project.title}}" />
 </div>
-</a>
 <!-- End Image -->
 
-<!-- Title -->
-<div class="excerpt__title wow fadeInUp" data-wow-duration="1s" data-wow-offset="100">
-<h3><a href="{{ project.url }}">{{ project.excerpt-text }}</a></h3>
-<p><a href="{{ project.url }}" class="excerpt__link">View Venture</a></p>
 </div>
-<!-- End Tile -->
-
-
-</article>
+</a>
