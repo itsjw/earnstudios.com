@@ -5,9 +5,9 @@ image: "/uploads/castrol.jpg"
 feature-image: "/uploads/castrol-feature.jpg"
 images: 
 company: Castrol
-is-featured: 
+is-featured: true
 excerpt-text: Creators of the most shared video in the world
-is-carousel: true
+is-carousel: 
 carousel-text: Creators of the most shared video in the world
 brief-text: To communicate Castrol’s heritage and relevance to the World Cup audience
   through the brand’s sponsorship of the 2014 tournament.

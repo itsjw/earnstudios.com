@@ -4,10 +4,10 @@ layout: light
 
 <!-- Hero -->
 <div class="project__hero tint" style="background-image: url({{page.feature-image}})">	
-<div class="row hero-carousel-text align-middle">
-	<div class="small-12 medium-8 large-8 columns hero-carousel-text-inside">
-	<h1><a href="{{ slide.url }}">{{page.carousel-text}}</a></h1>
-	<h3>{{page.company}}</a></h3>
+<div class="row project__hero__text align-middle">
+	<div class="small-12 medium-8 large-8 columns">
+	<h1>{{page.carousel-text}}</h1>
+	<h3>{{page.company}}</h3>
 	</div>
 </div>
 </div>
@@ -15,7 +15,7 @@ layout: light
 
 <!-- Content -->
 <div class="row project__content">
-	<div class="small-11 medium-10 large-7 column">
+	<div class="small-11 medium-10 large-8 column">
 		{{ page.content }}
 	</div>
 </div>
@@ -35,19 +35,21 @@ layout: light
 <div class="project__pagination">
 	<div class="row">
 		
-		{% if page.previous.url %}
+		
 		<div class="small-6 columns">
+		{% if page.previous.url %}
 		<p><a class="prev" href="{{page.previous.url}}"><svg class="icon icon-arrow-left8"><use xlink:href="#icon-arrow-left8"></use></svg> Previous</a></p>
 		<p class="hide-for-small-only"><a class="dark-gray prev" href="{{page.previous.url}}">{{page.previous.title}}</a></p>
-		</div>
 		{% endif %}
+		</div>
+
 		
-		{% if page.next.url %}
 		<div class="small-6 columns text-right">
+		{% if page.next.url %}
 		<p><a class="next text-right" href="{{page.next.url}}">Next <svg class="icon icon-arrow-right8"><use xlink:href="#icon-arrow-right8"></use></svg></a></p>
 		<p class="hide-for-small-only"><a class="dark-gray next text-right" href="{{page.next.url}}">{{page.next.title}}</a></p>
-		</div>
 		{% endif %}
+		</div>
 		
 	</div>
 </div>

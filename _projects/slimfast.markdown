@@ -2,13 +2,13 @@
 title: SlimFast
 date: 2015-09-01 00:00:00 Z
 image: "/uploads/slimfast.jpg"
-feature-image: 
+feature-image: "/uploads/slimfast-feature.jpg"
 images: 
 company: SlimFast
 is-featured: true
 excerpt-text: Creating content through challenges
 is-carousel: 
-carousel-text: 
+carousel-text: Creating content through challenges
 brief-text: SlimFast brought us a brief to develop an idea to amplify their existing
   2016 marketing plan.
 solution-text: |-
