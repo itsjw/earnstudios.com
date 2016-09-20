@@ -1,5 +1,5 @@
 ---
-title: Ventures
-layout: ventures
+title: Contact
+layout: contact
 ---
 
