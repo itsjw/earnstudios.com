@@ -2237,7 +2237,7 @@ Copyright (c) 2015 Daniel Eden
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 40px;
     height: 3px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     border-radius: 0px;
     position: absolute;
     -webkit-transition-property: -webkit-transform;
@@ -2255,6 +2255,9 @@ Copyright (c) 2015 Daniel Eden
     top: -9px; }
   .hamburger-inner::after {
     bottom: -9px; }
+
+.hamburger-inner-dark, .hamburger-inner-dark::before, .hamburger-inner-dark::after {
+  background-color: #222222; }
 
 /*
  * Collapse
@@ -8357,6 +8360,10 @@ a {
     	}
   */ }
 
+.navigation-wrapper {
+  height: 9rem;
+  width: 100%; }
+
 .navigation-left {
   position: absolute;
   top: 3rem;
@@ -8376,6 +8383,11 @@ a {
     color: #ffffff; }
   .navigation-right a:hover {
     color: #d6d6d6; }
+
+.dark a {
+  color: #222222; }
+.dark a:hover {
+  color: #d6d6d6; }
 
 /*
 .navigation-white {
