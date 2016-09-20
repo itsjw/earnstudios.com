@@ -2191,6 +2191,11 @@ Copyright (c) 2015 Daniel Eden
   font-weight: normal;
   font-style: normal; }
 @font-face {
+  font-family: 'Apercu-Medium';
+  src: url("../fonts/Apercu-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/Apercu-Medium.woff") format("woff"), url("../fonts/Apercu-Medium.ttf") format("truetype"), url("../fonts/Apercu-Medium.svg#Apercu-Medium") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
   font-family: 'Apercu-Bold';
   src: url("../fonts/Apercu-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Apercu-Bold.woff") format("woff"), url("../fonts/Apercu-Bold.ttf") format("truetype"), url("../fonts/Apercu-Bold.svg#Apercu-Bold") format("svg");
   font-weight: normal;
@@ -8350,16 +8355,6 @@ a {
 .content {
   position: relative; }
 
-.navigation {
-  font-family: "Apercu-Regular", Helvetica, Roboto, Arial, sans-serif;
-  font-size: 1.5rem;
-  padding: 3rem;
-  /*
-  	@include breakpoint(xlarge) {
-  	padding: 2rem;
-    	}
-  */ }
-
 .navigation-wrapper {
   height: 9rem;
   width: 100%; }
@@ -8438,7 +8433,7 @@ a {
   height: 100%; }
 
 .project__hero__text h1 {
-  font-family: "Apercu-Bold", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Apercu-Medium", Helvetica, Roboto, Arial, sans-serif;
   color: #ffffff; }
 .project__hero__text h3 {
   font-family: "Apercu-Regular", Helvetica, Roboto, Arial, sans-serif;
@@ -8451,6 +8446,9 @@ a {
   color: #949494; }
   .project__content a:hover {
     color: #222222; }
+
+.project__step {
+  padding-bottom: 2rem; }
 
 .project__share {
   padding: 3rem;
@@ -8554,7 +8552,7 @@ footer .detail {
   /* hack */ }
 
 .hero-carousel-text h1 a {
-  font-family: "Apercu-Bold", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Apercu-Medium", Helvetica, Roboto, Arial, sans-serif;
   color: #ffffff; }
   .hero-carousel-text h1 a:hover {
     color: #FFD600; }

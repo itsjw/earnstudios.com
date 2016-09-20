@@ -71,17 +71,6 @@ a {
 
 // Header
 
-.navigation {
-	font-family: $header-font-family;
-	font-size: 1.5rem;
-	padding: 3rem;
-/*
-	@include breakpoint(xlarge) {
-	padding: 2rem;
-  	}
-*/
-}
-
 .navigation-wrapper {
 	height: 9rem;
 	width: 100%;
@@ -190,7 +179,7 @@ a {
 
 .project__hero__text {
 	h1 {
-	font-family: $header-font-family-bold;
+	font-family: $header-font-family-medium;
 	color: $color--white;
 	}
 	h3 {
@@ -208,6 +197,10 @@ a {
   &:hover {
     color: $color--black;
   }
+}
+
+.project__step {
+  padding-bottom: 2rem;
 }
 
 .project__share {
@@ -344,7 +337,7 @@ footer .detail {
 
 
 .hero-carousel-text h1 a {
-	font-family: $header-font-family-bold;
+	font-family: $header-font-family-medium;
 	color: $color--white;
 	&:hover {
       color: $color--amber;
