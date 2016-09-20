@@ -1,6 +1,6 @@
 ---
 title: SlimFast
-date: 2013-09-12 00:00:00 Z
+date: 2015-09-01 00:00:00 Z
 image: "/uploads/slimfast.jpg"
 feature-image: 
 images: 
