@@ -1,6 +1,6 @@
 ---
 title: Samsung
-date: 2013-09-12 00:00:00 Z
+date: 2014-01-01 00:00:00 Z
 image: "/uploads/samsung.jpg"
 feature-image: "/uploads/samsung-feature.jpg"
 images: 
