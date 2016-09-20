@@ -7,7 +7,7 @@ images:
 company: EARN
 is-featured: 'true'
 excerpt-text: Happiness Workshops
-is-carousel:
+is-carousel: 
 carousel-text: Happiness Workshops
 brief-text: |-
   Sed brief posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam.

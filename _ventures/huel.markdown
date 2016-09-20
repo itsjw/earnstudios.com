@@ -7,8 +7,6 @@ images:
 company: Huel
 is-featured: 
 excerpt-text: The future of food
-is-carousel:
-carousel-text: The future of food
 is-carousel: 
 carousel-text: 
 brief-text: |-
