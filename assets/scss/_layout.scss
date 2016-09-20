@@ -135,6 +135,12 @@ a {
     color: $color--amber;
     border-bottom: $color--amber 1px solid;
     padding-bottom: 0.25rem;
+    transition: $primary-transition;
+}
+
+.index-about-text .link:hover {
+	color: $color--black;
+    padding-bottom: 0.5rem;
 }
 
 // Project
