@@ -2,7 +2,7 @@
 title: Merchant's Heart
 date: 2013-09-12 00:00:00 Z
 image: "/uploads/merchants-heart.jpg"
-feature-image:
+feature-image: 
 images: 
 company: Lucozade Ribena Suntory
 is-featured: true

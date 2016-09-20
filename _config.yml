@@ -8,11 +8,11 @@ collections:
   projects:
     title: Projects
     output: true
-  ventures:
-    title: Ventures
-    output: true
   uploads:
     title: Uploads
+    output: true
+  ventures:
+    title: Ventures
     output: true
 defaults:
 - scope:

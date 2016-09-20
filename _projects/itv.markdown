@@ -2,12 +2,12 @@
 title: ITV
 date: 2013-09-12 00:00:00 Z
 image: "/uploads/itv.jpg"
-feature-image:
+feature-image: 
 images: 
 company: ITV
-is-featured:
+is-featured: 
 excerpt-text: Launching a new channel
-is-carousel:
+is-carousel: 
 carousel-text: Defining a moment for a global brand
 brief-text: |-
   Sed brief posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
