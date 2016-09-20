@@ -8,7 +8,7 @@ layout: light
 
 <!-- About -->
 <div class="row index-about-text">
-  <div class="small-12 medium-10 large-8 columns wow fadeIn">
+  <div class="small-12 medium-10 large-9 columns wow fadeIn">
 	  <h3>{{page.about-text}}</h3>
 	  <p><a href="/about" class="link">Find out more</a></p>
   </div>
@@ -24,5 +24,13 @@ layout: light
 	{% include excerpt.html %}
 	</div>
 	{% endfor %}
+	
+	{% assign projects = site.ventures | sort: 'date' | reverse | where: "is-featured", "true" %}
+	{% for project in projects limit:9 %}
+	<div class="small-12 medium-6 large-6 columns">
+	{% include excerpt-venture.html %}
+	</div>
+	{% endfor %}
+	
 </div>
 <!-- End Content -->

@@ -8502,7 +8502,7 @@ a {
   top: 0;
   left: 0;
   background: #222222;
-  opacity: 0.2;
+  opacity: 0.1;
   -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
   transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
 
@@ -8537,7 +8537,7 @@ a {
   padding-bottom: 3rem; }
 
 footer {
-  background-color: #d6d6d6;
+  background-color: #f8f8f8;
   color: #949494;
   padding: 3rem; }
   footer a {

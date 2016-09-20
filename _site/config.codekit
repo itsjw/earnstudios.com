@@ -41,6 +41,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/excerpt-venture.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/excerpt-venture.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/excerpt.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -538,6 +547,17 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/_site\/uploads\/about.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 353481,
+		"inputAbbreviatedPath": "\/_site\/uploads\/about.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/about.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/castrol-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -604,6 +624,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/hows-your-day-feature.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120857,
+		"inputAbbreviatedPath": "\/_site\/uploads\/hows-your-day-feature.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/hows-your-day-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/hows-your-day.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120857,
+		"inputAbbreviatedPath": "\/_site\/uploads\/hows-your-day.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/hows-your-day.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/huel-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -641,7 +683,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 147914,
+		"initialSize": 169586,
 		"inputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-feature.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-feature.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -758,20 +800,20 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/ventures.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/ventures.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/ventures\/happiness-school\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/ventures\/happiness-school\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/ventures\/hows-your-day\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/ventures\/hows-your-day\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -802,6 +844,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/_uploads\/about.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 353481,
+		"inputAbbreviatedPath": "\/_uploads\/about.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/about.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/_uploads\/castrol-feature.jpg": {
 		"fileType": 16384,
@@ -865,6 +918,28 @@
 		"initialSize": 66111,
 		"inputAbbreviatedPath": "\/_uploads\/happiness-school.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/happiness-school.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/hows-your-day-feature.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120857,
+		"inputAbbreviatedPath": "\/_uploads\/hows-your-day-feature.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/hows-your-day-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/hows-your-day.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43581,
+		"inputAbbreviatedPath": "\/_uploads\/hows-your-day.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/hows-your-day.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14838,15 +14913,6 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/ventures.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/ventures.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/ventures.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
@@ -14854,8 +14920,8 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/ventures.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/ventures.html",
