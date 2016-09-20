@@ -1,78 +1,36 @@
 ---
-layout: default
+layout: light
 ---
 
-<!-- Overlay Menu -->
-<div class="overlay" id="overlay" data-toggler=".open">
-  <nav class="overlay-menu">
-    <ul>
-	{% for link in site.data.navigation %}
-        <li class="element">
-            <a href="{{ link.url }}">{{ link.title }}</a>
-        </li>
-    {% endfor %}
-    
-<!--
-      <li><a href="#">Home</a></li>
-      <li><a href="#">About</a></li>
-      <li><a href="#">Work</a></li>
-      <li><a href="#">Contact</a></li>
--->
-    </ul>
-  </nav>
-</div>
-<!-- End Overlay Menu -->
-
-<!-- Navigation -->
-<div class="navigation-left">
-<a href="/"><svg class="icon icon-logo"><use xlink:href="#icon-logo"></use></svg></a>
-</div>
-
-<div class="navigation-right">
-<button class="hamburger hamburger--collapse" id="toggle" data-toggler=".is-active" type="button" data-toggle="overlay toggle">
-<span class="hamburger-box">
-<span class="hamburger-inner"></span>
-</span>
-</button>
-</div>
-<!-- End Navigation -->
-
 <!-- Carousel -->
-<div class="hero-carousel">
-{% assign slide_documents = site.projects | sort: 'date' | reverse | where: "is-carousel", "true" %}
-{% for slide in slide_documents %}
-<div class="hero-carousel-cell" style="background-image: url({{slide.feature-image}})">	
-	
-<div class="row hero-carousel-text align-middle">
-	<div class="small-12 medium-8 large-8 columns hero-carousel-text-inside">
-	<h1><a href="{{ slide.url }}">{{slide.carousel-text}}</a></h1>
-	<p><a href="{{ slide.url }}" class="link">Read More</a></p>
-	</div>
-</div>
-
-</div>
-{% endfor %}
-</div>
+{% include carousel.html %}
 <!-- End Carousel -->
 
-
+<!-- About -->
 <div class="row index-about-text">
-  <div class="small-10 columns wow fadeInUp" data-wow-duration="1s" data-wow-offset="100">
-	  <h2>{{page.about-text}}</h2>
-	  <p><a href="/about" class="link">Read More</a></p>
+  <div class="small-12 medium-10 large-9 columns wow fadeIn">
+	  <h3>{{page.about-text}}</h3>
+	  <p><a href="/about" class="link">Find out more</a></p>
   </div>
 </div>
+<!-- End About -->
 
 
 <!-- Content -->
-<!-- <section class="index__content"> -->
-	<div class="row expanded collapse">
-		{% assign projects = site.projects | sort: 'date' | reverse | where: "is-featured", "true" %}
-		{% for project in projects limit:9 %}
-		<div class="small-12 medium-6 large-6 columns">
-		{% include excerpt.html %}
-		</div>
-		{% endfor %}
+<div class="row expanded collapse">
+	{% assign projects = site.projects | sort: 'date' | reverse | where: "is-featured", "true" %}
+	{% for project in projects limit:9 %}
+	<div class="small-12 medium-6 large-6 columns">
+	{% include excerpt.html %}
 	</div>
-<!-- </section> -->
+	{% endfor %}
+	
+	{% assign projects = site.ventures | sort: 'date' | reverse | where: "is-featured", "true" %}
+	{% for project in projects limit:9 %}
+	<div class="small-12 medium-6 large-6 columns">
+	{% include excerpt-venture.html %}
+	</div>
+	{% endfor %}
+	
+</div>
 <!-- End Content -->

@@ -82,6 +82,11 @@ a {
 */
 }
 
+.navigation-wrapper {
+	height: 9rem;
+	width: 100%;
+}
+
 .navigation-left {
 	position: absolute;
 	top: 3rem;
@@ -102,6 +107,15 @@ a {
 	z-index: 5000;
 	a {
     color: $color--white;
+    }
+    a:hover {
+    color: $color--light-gray;
+    }
+}
+
+.dark {
+	a {
+    color: $color--black;
     }
     a:hover {
     color: $color--light-gray;
@@ -190,11 +204,28 @@ a {
 }
 
 .project__hero {
-	padding-top: 3rem;
+  position: relative;
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  z-index: 1; 
+}
+
+.project__hero:before {
+  position: absolute;
+  content:" ";
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  display: block;
+  z-index:0;
+  background-color: rgba(0,0,0,0.2);
 }
 
 .project__content {
-	padding-top: 3rem;
+	padding: 3rem;
 }
 
 .project__content a {
@@ -205,6 +236,7 @@ a {
 }
 
 .project__share {
+	padding: 3rem;
 	@include accent-text;
 }
 
@@ -214,7 +246,7 @@ a {
 }
 
 .project__pagination {
-	padding-top: 2rem;
+	padding: 3rem;
 }
 
 
@@ -239,7 +271,7 @@ a {
     top:0; 
     left:0;
     background:$color--black;
-    opacity:0.2;
+    opacity:0.1;
     transition: $primary-transition;
 }
 
@@ -251,8 +283,9 @@ a {
 
 .excerpt__title {
 	position:absolute;
-	top: 3rem;
-	left: 3rem;
+	top: 0rem;
+	left: 0rem;
+	padding: 3rem;
 	a {
     color: $color--white;
     }
@@ -286,7 +319,7 @@ a {
 // Footer
 
 footer {
-	background-color: $color--light-gray;
+	background-color: $color--lighter-gray;
 	color: $color--dark-gray;
 	padding: 3rem;
 	a {
@@ -297,8 +330,7 @@ footer {
 .footer__top {
 	padding-top: 3rem;
 	padding-bottom: 3rem;
-	font-family: $header-font-family;
-	font-size: 1.5rem;
+	font-size: 1rem;
 }
 
 footer .detail {
@@ -317,6 +349,11 @@ footer .detail {
 .hero-carousel-text {
 	padding: 3rem;
 	height: 100%;
+}
+
+.tint * {
+    position: relative;
+    /* hack */
 }
 
 
@@ -346,7 +383,20 @@ footer .detail {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  z-index: 1; }
+  z-index: 1; 
+}
+
+.hero-carousel-cell:before {
+  position: absolute;
+  content:" ";
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  display: block;
+  z-index:0;
+  background-color: rgba(0,0,0,0.2);
+}
 
 .hero-arrow {
 	position: absolute;

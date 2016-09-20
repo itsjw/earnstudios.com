@@ -3,16 +3,26 @@ title: Merchant's Heart
 date: 2013-09-12 00:00:00 Z
 image: "/uploads/merchants-heart.jpg"
 feature-image: "/uploads/merchants-heart-feature.jpg"
-span: April 2012 – April 2013
+images: 
 company: Lucozade Ribena Suntory
-layout: project
-is-featured: 'true'
-is-carousel: 'true'
+is-featured: true
+excerpt-text: Creating a brand from inception to product
+is-carousel: true
 carousel-text: Creating a brand from inception to product
+brief-text: |-
+  Sed brief posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+
+  Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Curabitur blandit tempus porttitor.
+solution-text: |-
+  Sed solution posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+
+  Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Curabitur blandit tempus porttitor.
+results-text: Sed results posuere consectetur est at lobortis. Nullam id dolor id
+  nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis
+  lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum.
+  Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+video: 
+layout: project
 ---
 
-Peaky Blinders is an epic gangster family saga that takes place in a dangerous, romantic, elevated, visceral world, where the men are handsome and heroic and the women are beautiful and indomitable. The setting is the back streets of 1920s Birmingham, a city of steel plants, criminal gangs, gypsies, canals… an unseen side of Britain’s history. The world of the original British gangster.
-
-The series focuses on the Shelby family, whose many brothers and sisters, cousins and uncles, make up the fiercest gang of all, the ‘Peaky Blinders’. Named for their practice of sewing razor blades into the peaks of their caps, the Peaky Blinders make their money from off-track betting, protection and robbery.
-
-The Peaky Blinders are led by Tommy Shelby (Cillian Murphy), the most violent brother of them all, but his leadership is about to be put to the test. A merciless Police Chief C.I. Campbell (Sam Neill) arrives from Belfast to clean up the city and, perhaps even more dangerous, a beautiful woman named Grace Burgess (Annabelle Wallis) arrives in the neighbourhood with a mysterious past and a dangerous secret.
+This is a brief overview of the project. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis.
