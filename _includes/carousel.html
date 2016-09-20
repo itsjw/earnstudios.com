@@ -1,12 +1,12 @@
-<!-- Flickity HTML init -->
-<div class="animated fadeIn gallery">
-{% assign slide_documents = site.projects | sort: 'date' | reverse | where: "is-featured", "true" %}
+<div class="hero-carousel">
+{% assign slide_documents = site.projects | sort: 'date' | reverse | where: "is-carousel", "true" %}
 {% for slide in slide_documents %}
-<div class="gallery-cell" style="background-image: url({{slide.img}})">
+<div class="hero-carousel-cell tint" style="background-image: url({{slide.feature-image}})">	
 	
-<div class="row carousel__text align-middle align-center">
-	<div class="small-8 medium-6 large-4 columns">
-	<h1 class="animated fadeInUp" data-animation="zoomInDown"><a href="{{ slide.url }}">{{slide.title}}</a></h1>
+<div class="row hero-carousel-text align-middle">
+	<div class="small-12 medium-8 large-8 columns hero-carousel-text-inside">
+	<h1><a href="{{ slide.url }}">{{slide.carousel-text}}</a></h1>
+	<p><a href="{{ slide.url }}" class="link">Read More</a></p>
 	</div>
 </div>
 
