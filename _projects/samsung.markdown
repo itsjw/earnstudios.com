@@ -5,7 +5,7 @@ image: "/uploads/samsung.jpg"
 feature-image: "/uploads/samsung-feature.jpg"
 images: 
 company: Samsung
-is-featured:
+is-featured: 
 excerpt-text: Writers of the strategy that wins millions of brand fans
 is-carousel:
 carousel-text: Writers of the strategy that wins millions of brand fans

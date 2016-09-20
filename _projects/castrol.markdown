@@ -5,7 +5,7 @@ image: "/uploads/castrol.jpg"
 feature-image: "/uploads/castrol-feature.jpg"
 images: 
 company: Castrol
-is-featured:
+is-featured: 
 excerpt-text: Creators of the most shared video in the world
 is-carousel: 'true'
 carousel-text: Creators of the most shared video in the world

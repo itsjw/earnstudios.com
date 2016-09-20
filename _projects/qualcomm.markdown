@@ -5,7 +5,7 @@ image: "/uploads/qualcomm.jpg"
 feature-image: "/uploads/qualcomm-feature.jpg"
 images: 
 company: Qualcomm
-is-featured:
+is-featured: 
 excerpt-text: Defining a moment for a global brand
 is-carousel: true
 carousel-text: Defining a moment for a global brand
