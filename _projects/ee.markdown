@@ -1,6 +1,6 @@
 ---
 title: EE Limited Edition
-date: 2013-09-12 00:00:00 Z
+date: 2015-01-01 00:00:00 Z
 image: "/uploads/ee.jpg"
 feature-image: "/uploads/ee-feature.jpg"
 images: 
