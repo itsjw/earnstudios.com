@@ -7,20 +7,16 @@ images:
 company: Castrol
 is-featured: 
 excerpt-text: Creators of the most shared video in the world
-is-carousel: 'true'
+is-carousel: true
 carousel-text: Creators of the most shared video in the world
-brief-text: |-
-  Sed brief posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-  Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Curabitur blandit tempus porttitor.
-solution-text: |-
-  Sed solution posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-  Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Curabitur blandit tempus porttitor.
-results-text: Sed results posuere consectetur est at lobortis. Nullam id dolor id
-  nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis
-  lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum.
-  Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+brief-text: To communicate Castrol’s heritage and relevance to the World Cup audience
+  through the brand’s sponsorship of the 2014 tournament.
+solution-text: EARN Studios worked with Brazilian football superstar Neymar Jr. and
+  motorsports king Ken Block to become Castrol ambassadors and co-create Castrol Footkhana,
+  creating buzz and talkability for Castrol and helping them to become the most shared
+  sponsor of the FIFA World Cup 2014.
+results-text: Over 1 million shares of the Castrol Footkhana video on YouTube. Over
+  25 million views of the video worldwide
 video: 
 layout: project
 ---
