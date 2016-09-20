@@ -1,6 +1,6 @@
 ---
 title: Samsung
-date: 2013-09-12 00:00:00 Z
+date: 2014-01-01 00:00:00 Z
 image: "/uploads/samsung.jpg"
 feature-image: "/uploads/samsung-feature.jpg"
 images: 
@@ -9,18 +9,16 @@ is-featured:
 excerpt-text: Writers of the strategy that wins millions of brand fans
 is-carousel: 
 carousel-text: Writers of the strategy that wins millions of brand fans
-brief-text: |-
-  Sed brief posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-  Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Curabitur blandit tempus porttitor.
-solution-text: |-
-  Sed solution posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-  Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Curabitur blandit tempus porttitor.
-results-text: Sed results posuere consectetur est at lobortis. Nullam id dolor id
-  nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis
-  lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum.
-  Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+brief-text: To help Samsung activate their brand in a meaningful way that engages
+  an audience of young influencers. Whilst Samsung has phenomenal products and sales
+  success across Europe, the brand personality and vision is inconsistent across its
+  marketing platforms. 
+solution-text: EARN delved deep into the Samsung brand and its history and created
+  a set of guidelines that determined how the Samsung brand should manifest itself
+  across a variety of touch points that resonate with their target audience of young
+  consumers, whilst still being true to the brand’s heritage.
+results-text: The creation of a Samsung Brand Manual, used by Samsung marketing teams
+  across Europe
 video: 
 layout: project
 ---

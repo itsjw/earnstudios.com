@@ -1,26 +1,24 @@
 ---
 title: SlimFast
-date: 2013-09-12 00:00:00 Z
+date: 2015-09-01 00:00:00 Z
 image: "/uploads/slimfast.jpg"
-feature-image: 
+feature-image: "/uploads/slimfast-feature.jpg"
 images: 
 company: SlimFast
 is-featured: true
 excerpt-text: Creating content through challenges
 is-carousel: 
-carousel-text: 
-brief-text: |-
-  Sed brief posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-  Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Curabitur blandit tempus porttitor.
+carousel-text: Creating content through challenges
+brief-text: SlimFast brought us a brief to develop an idea to amplify their existing
+  2016 marketing plan.
 solution-text: |-
-  Sed solution posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+  EARN Studios developed a modern version of the SlimFast Challenge. Building on the legacy and awareness of the original SlimFast Challenge, we developed the next generation version; one that is in line with the SlimFast brand’s vision to modernise and drive reappraisal amongst consumers, whilst also winning new consumers.
 
-  Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Curabitur blandit tempus porttitor.
-results-text: Sed results posuere consectetur est at lobortis. Nullam id dolor id
-  nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis
-  lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum.
-  Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+  Our solution gave SlimFast an authentic reason to engage with consumers and provided a wealth of content, tools and assets to be activated across all of their channels (Twitter, Instagram, website, newsletters, PR, advertising and ambassadors.)
+results-text: |-
+  Over 20,000 registrations for the SlimFast Challenge via the newly created app.
+
+  Over 1,000 active and vocal Facebook group members; helping to establish a community around the brand supporting each other and engaging with SlimFast.
 video: 
 layout: project
 ---
