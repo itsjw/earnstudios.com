@@ -5,13 +5,17 @@ carousel-text: A collaborative creative team who earn brand love with brave clie
 layout: about
 ---
 
+#### In a world where the average customer grows up seeing 170,000 marketing messages by their 17th birthday; where 86% of people admit to sharing social media content in the bathroom; where 20% of smartphone users have installed adblocking browsers because of their loathing of advertising; customers only talk about the brands they LOVE. And, if customers aren't talking about your brand, you might as well not exist.
+
+#### Fans don't just "like" these brands, they love them and help build them. And the good news is that it's not exclusive to cool, cutting-edge brands. Brand Love is as achievable to all brands. Whether you're a bank, an airline or selling drinks.
+
 ### What we do
 
-Our mission is to invent and launch ideas the world talks about to accelerate our client’s business growth.
+We are an entrepreneurial creative team.
 
-In our connection economy businesses can grow faster than ever before if they focus on making their brand and business loved through their marketing.
+We exist to earn brand love with brave clients.
 
-We move brands from like to love by inventing pioneering products, services, experiences or content platforms people participate in and share on our client’s behalf.
+We do this by inventing pioneering products, services, experiences and content platforms that people will love.
 
 ### Who we are
 
@@ -25,12 +29,12 @@ We also invest in our own ideas to learn by doing for the benefit of our client 
 
 ### How we do it
 
-We started by asking what the audience would love our client’s brand to invent for them, so if we do it they will share it on our behalf. Our motto is dream big, experiment small.
+We start by asking what the audience would love our client’s brand to invent for them, so if we do it well enough they’ll share it on our behalf. We dream big, experiment small.
 
 One of our most important principles is to work as quickly as we can on your toughest problems. The harder the solution the more we want to prove it can be done. In this way our ideas become stronger faster. We then work with the right partners to help us bring our ambitious ideas into the world
 
 ### Our history
 
-Established in 2012, in our relatively short existence EARN has worked in many countries, with a wide range of blue chip clients include Castrol, EE, ITV, Lucozade Ribena Suntory, Pepsico, Qualcomm, Samsung, Universal Studios and Veuve Clicquot. Through this experience, the team has acquired a high level of expertise in building global brand platforms that drive significant engagement and advocacy with our clients’ brands.
+Established in 2012, in our relatively short existence, EARN has worked in many countries, with a wide range of blue chip clients include Castrol, EE, ITV, Lucozade Ribena Suntory, Pepsico, Qualcomm, Samsung, Universal Studios and Veuve Clicquot. Through this experience, the team has acquired a high level of expertise in building global brand platforms that drive significant engagement and advocacy with our clients’ brands.
 
 EARN’s first ever project made Castrol the most shared sponsor of the FIFA World Cup with the Castrol Footkhana film being shared by over 1 million people. Another project, for EE broke records in customer acquisition with 50,000 new customers in the first 10 hours of our EE Limited Editions SIM video launching on YouTube.
