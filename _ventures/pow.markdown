@@ -19,4 +19,4 @@ POW Energy Water brings together the hydrating power of water with natural caffe
 
 Each POW Energy Water starts with sparkling water with guarana, ginseng root and vitamin B for energy.  100% natural fruit and the plant extract Stevia are used to sweeten, and to aid hydration mineral salts are added leaving you with a product that is refreshing, lightly flavoured and has a natural lift to provide good energy through your day.
 
-powerfulwater.co.uk
+[powerfulwater.co.uk](http://www.powenergywater.com)
