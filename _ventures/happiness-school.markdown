@@ -5,7 +5,7 @@ image: "/uploads/happiness-school.jpg"
 feature-image: "/uploads/happiness-school-feature.jpg"
 images: 
 company: EARN
-is-featured:
+is-featured: 
 excerpt-text: We invest in happiness to enhance our creativity
 is-carousel: 
 carousel-text: We invest in happiness to enhance our creativity
