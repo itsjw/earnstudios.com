@@ -1,7 +1,6 @@
 ---
 title: Huel
 date: 2013-09-12 00:00:00 Z
-published: true
 image: "/uploads/huel.jpg"
 feature-image: "/uploads/huel-feature.jpg"
 images: 
@@ -13,7 +12,6 @@ carousel-text: The future of food
 video: 
 layout: venture
 ---
-
 
 We are investors in the future of fast food.
 
