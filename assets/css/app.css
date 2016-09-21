@@ -8262,7 +8262,7 @@ svg.icon.icon-envelop2 {
           width: 0%;
           -webkit-transform: translateX(-50%);
                   transform: translateX(-50%);
-          height: 3px;
+          height: 2px;
           background: #222222;
           -webkit-transition: .35s;
           transition: .35s; }
