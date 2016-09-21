@@ -8193,7 +8193,7 @@ svg.icon.icon-envelop2 {
 
 .icon-arrow-up8 {
   font-size: 2rem;
-  color: #949494; }
+  color: #d7d7d7; }
 
 .overlay {
   z-index: 1000;
@@ -8371,6 +8371,10 @@ a {
   top: 3rem;
   left: 3rem;
   z-index: 100; }
+  @media screen and (max-width: 39.9375em) {
+    .navigation-left {
+      top: 2rem;
+      left: 2rem; } }
   .navigation-left a {
     color: #ffffff; }
   .navigation-left a:hover {
@@ -8381,6 +8385,10 @@ a {
   top: 3rem;
   right: 3rem;
   z-index: 5000; }
+  @media screen and (max-width: 39.9375em) {
+    .navigation-right {
+      top: 2rem;
+      right: 2rem; } }
   .navigation-right a {
     color: #ffffff; }
   .navigation-right a:hover {
@@ -8401,6 +8409,9 @@ a {
 
 .index-about-text {
   padding: 3rem; }
+  @media screen and (max-width: 39.9375em) {
+    .index-about-text {
+      padding: 2rem; } }
 
 .index-about-text .link {
   color: #FFD600;
@@ -8448,6 +8459,9 @@ a {
 .project__hero__text {
   padding: 3rem;
   height: 100%; }
+  @media screen and (max-width: 39.9375em) {
+    .project__hero__text {
+      padding: 2rem; } }
 
 .project__hero__text h1 {
   font-family: "Apercu-Medium", Helvetica, Roboto, Arial, sans-serif;
@@ -8458,6 +8472,9 @@ a {
 
 .project__content {
   padding: 3rem; }
+  @media screen and (max-width: 39.9375em) {
+    .project__content {
+      padding: 2rem; } }
 
 .project__content a {
   color: #949494; }
@@ -8471,6 +8488,9 @@ a {
   padding: 3rem;
   text-transform: uppercase;
   letter-spacing: 0.15em; }
+  @media screen and (max-width: 39.9375em) {
+    .project__share {
+      padding: 2rem; } }
 
 .project__share__bottom {
   padding-top: 2rem;
@@ -8479,6 +8499,9 @@ a {
 
 .project__pagination {
   padding: 3rem; }
+  @media screen and (max-width: 39.9375em) {
+    .project__pagination {
+      padding: 2rem; } }
 
 .excerpt {
   position: relative; }
@@ -8491,6 +8514,9 @@ a {
   height: 100%;
   padding: 3rem;
   z-index: 500; }
+  @media screen and (max-width: 39.9375em) {
+    .excerpt__title {
+      padding: 2rem; } }
   .excerpt__title h3 {
     color: #ffffff;
     -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
@@ -8535,12 +8561,20 @@ a {
   font-size: 1.5rem;
   padding-top: 3rem;
   padding-bottom: 3rem; }
+  @media screen and (max-width: 39.9375em) {
+    .about__content {
+      padding-top: 2rem;
+      padding-bottom: 2rem; } }
 
 .about__cv {
   font-family: "Apercu-Regular", Helvetica, Roboto, Arial, sans-serif;
   font-size: 1.5rem;
   padding-top: 3rem;
   padding-bottom: 3rem; }
+  @media screen and (max-width: 39.9375em) {
+    .about__cv {
+      padding-top: 2rem;
+      padding-bottom: 2rem; } }
 
 .about_book {
   padding-bottom: 2rem;
@@ -8550,6 +8584,9 @@ footer {
   background-color: #f8f8f8;
   color: #949494;
   padding: 3rem; }
+  @media screen and (max-width: 39.9375em) {
+    footer {
+      padding: 2rem; } }
   footer a {
     color: #222222; }
 
@@ -8567,6 +8604,9 @@ footer .detail {
 .hero-carousel-text {
   padding: 3rem;
   height: 100%; }
+  @media screen and (max-width: 39.9375em) {
+    .hero-carousel-text {
+      padding: 2rem; } }
 
 .tint * {
   position: relative;
@@ -8667,6 +8707,9 @@ footer .detail {
 .mailing-list {
   padding: 3rem;
   display: none; }
+  @media screen and (max-width: 39.9375em) {
+    .mailing-list {
+      padding: 2rem; } }
 
 .mailing-list-signup {
   margin-bottom: 0rem; }
@@ -8674,4 +8717,5 @@ footer .detail {
 label.middle {
   margin-bottom: 0rem;
   padding-bottom: 0rem; }
+
 /*# sourceMappingURL=app.css.map */
