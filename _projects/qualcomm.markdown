@@ -6,9 +6,9 @@ feature-image: "/uploads/qualcomm-feature.jpg"
 images: 
 company: Qualcomm
 is-featured: 
-excerpt-text: Launching the first EVER drone race at Wembley Stadium
+excerpt-text: Launching the first ever drone race at Wembley Stadium
 is-carousel: true
-carousel-text: Launching the first EVER drone race at Wembley Stadium
+carousel-text: Launching the first ever drone race at Wembley Stadium
 quote: Very innovative, driven, lean, agile and fun inventors that get the job done
 quote-cite: Andrew Garrihy, VP Marketing, Qualcomm
 brief-text: Qualcomm asked us for help demonstrating the groundbreaking power of their

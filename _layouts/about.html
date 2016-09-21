@@ -7,16 +7,66 @@ layout: light
 <div class="row hero-carousel-text align-middle">
 	<div class="small-12 medium-8 large-8 columns hero-carousel-text-inside">
 	<h1><a href="{{ slide.url }}">{{page.carousel-text}}</a></h1>
-	<h3>{{page.company}}</a></h3>
 	</div>
 </div>
 </div>
 <!-- End Hero -->
 
-<!-- Content -->
-<div class="row project__content">
-	<div class="small-11 medium-10 large-7 column">
-		{{ content }}
+
+<div class="project__content">
+
+<!-- Intro -->
+<div class="row project__results project__step">
+	<div class="small-12 medium-10 large-10 columns">
+	<h5>{{ content }}</h5>
 	</div>
 </div>
-<!-- End Content -->
+<!-- End Intro -->
+
+<!-- What We Do -->
+<div class="row project__results project__step align-justify">
+	<div class="small-12 medium-6 large-5 columns">
+	<h3>What We Do</h3>
+	</div>
+	<div class="small-12 medium-6 large-6 columns">
+	{{page.what-we-do-text}}
+	</div>
+</div>
+<!-- End What We Do -->
+
+<!-- Who We Are -->
+<div class="row project__results project__step align-justify">
+	<div class="small-12 medium-6 large-5 columns">
+	<h3>Who We Are</h3>
+	</div>
+	<div class="small-12 medium-6 large-6 columns">
+	{{page.who-we-are-text}}
+	</div>
+</div>
+<!-- End Who We Are -->
+
+<!-- How We Do It -->
+<div class="row project__results project__step align-justify">
+	<div class="small-12 medium-6 large-5 columns">
+	<h3>How We Do It</h3>
+	</div>
+	<div class="small-12 medium-6 large-6 columns">
+	{{page.how-we-do-it-text}}
+	</div>
+</div>
+<!-- End How We Do It -->
+
+<!-- Logos -->
+<div class="row project__results project__step align-justify">
+	<div class="small-12 medium-6 large-5 columns">
+	<h3>Clients</h3>
+	</div>
+	<div class="small-12 medium-6 large-6 columns">
+	<img src="{{page.client-logos-image}}" alt="clients" />
+	</div>
+</div>
+<!-- End Logos -->
+
+
+</div>
+

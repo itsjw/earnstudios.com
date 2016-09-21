@@ -8564,9 +8564,14 @@ footer .detail {
     color: #FFD600; }
 
 .hero-carousel-text .link {
-  color: #ffffff; }
+  border-bottom: #ffffff 1px solid;
+  padding-bottom: 0.25rem;
+  color: #ffffff;
+  -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
+  transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
   .hero-carousel-text .link:hover {
-    color: #FFD600; }
+    color: #FFD600;
+    padding-bottom: 0.5rem; }
 
 .hero-carousel {
   height: 85vh; }
@@ -8595,7 +8600,7 @@ footer .detail {
   position: absolute;
   bottom: 2rem;
   right: 2rem;
-  z-index: 110;
+  z-index: 5000;
   font-family: "Apercu-Regular", Helvetica, Roboto, Arial, sans-serif;
   font-size: 1.5rem; }
   .hero-arrow a {
