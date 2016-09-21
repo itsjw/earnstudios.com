@@ -175,7 +175,7 @@ a {
   height:100%;
   display: block;
   z-index:0;
-  background-color: rgba(0,0,0,0.2);
+  background-color: rgba(0,0,0,0.3);
 }
 
 .project__hero__text {
@@ -265,13 +265,13 @@ a {
     top:0; 
     left:0;
     background:$color--black;
-    opacity:0.2;
+    opacity:0.25;
     transition: $primary-transition;
 }
 
 .excerpt:hover .excerpt__image:after {
 	background:$color--amber;
-    opacity:0.8;
+    opacity:0.9;
 }
 
 .excerpt:hover .excerpt__title {
@@ -384,7 +384,7 @@ footer .detail {
   height:100%;
   display: block;
   z-index:0;
-  background-color: rgba(0,0,0,0.1);
+  background-color: rgba(0,0,0,0.2);
 }
 
 .hero-arrow {
@@ -414,6 +414,10 @@ i, cite, em, var, address, dfn {
 	font-style: normal;
 }
 
+.contact-new-business {
+	border-top: solid 1px $color--light-gray;
+	padding-top: 3rem;
+}
 
 .embed-container-small {
     position: relative;

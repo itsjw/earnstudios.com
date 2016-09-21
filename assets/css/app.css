@@ -8205,7 +8205,7 @@ svg.icon.icon-envelop2 {
   transition: opacity .35s, visibility .35s, height .35s;
   overflow: hidden; }
   .overlay.open {
-    opacity: .95;
+    opacity: 0.98;
     visibility: visible;
     height: 100%; }
     .overlay.open li {
@@ -8432,7 +8432,7 @@ a {
   height: 100%;
   display: block;
   z-index: 0;
-  background-color: rgba(0, 0, 0, 0.2); }
+  background-color: rgba(0, 0, 0, 0.3); }
 
 .project__hero__text {
   padding: 3rem;
@@ -8505,13 +8505,13 @@ a {
   top: 0;
   left: 0;
   background: #222222;
-  opacity: 0.2;
+  opacity: 0.25;
   -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
   transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
 
 .excerpt:hover .excerpt__image:after {
   background: #FFD600;
-  opacity: 0.8; }
+  opacity: 0.9; }
 
 .excerpt:hover .excerpt__title h3 {
   color: #222222; }
@@ -8594,7 +8594,7 @@ footer .detail {
   height: 100%;
   display: block;
   z-index: 0;
-  background-color: rgba(0, 0, 0, 0.1); }
+  background-color: rgba(0, 0, 0, 0.2); }
 
 .hero-arrow {
   position: absolute;
@@ -8613,6 +8613,10 @@ footer .detail {
 
 i, cite, em, var, address, dfn {
   font-style: normal; }
+
+.contact-new-business {
+  border-top: solid 1px #d6d6d6;
+  padding-top: 3rem; }
 
 .embed-container-small {
   position: relative;

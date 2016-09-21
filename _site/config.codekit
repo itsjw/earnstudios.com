@@ -266,15 +266,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/about.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/about.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/about\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -767,7 +758,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 317329,
+		"initialSize": 314989,
 		"inputAbbreviatedPath": "\/_site\/uploads\/qualcomm-feature.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/qualcomm-feature.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -822,7 +813,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 72183,
+		"initialSize": 80922,
 		"inputAbbreviatedPath": "\/_site\/uploads\/slimfast.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/slimfast.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1129,15 +1120,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/about.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/about.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/about.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
@@ -1145,8 +1127,8 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/about.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/about.html",
