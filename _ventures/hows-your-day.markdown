@@ -21,4 +21,4 @@ The How’s Your Day? is an app and book designed in collaboration with leading
 
 Monitor your happiness performance through weekly, monthly and yearly stats we provide as well as your own personal timeline.
 
-howsyourday.today
+[howsyourday.today](http://howsyourday.today)
