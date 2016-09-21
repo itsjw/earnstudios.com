@@ -20,3 +20,5 @@ These principles help to shape the way we work as a team and we wanted to put so
 The How’s Your Day? is an app and book designed in collaboration with leading positive psychology expert Bridget Grenville-Cleave (MAPP, MBA, FCCA) to help people track how happy and fulfilled they feel and receive tips on how to increase happiness and wellbeing levels.
 
 Monitor your happiness performance through weekly, monthly and yearly stats we provide as well as your own personal timeline.
+
+howsyourday.today

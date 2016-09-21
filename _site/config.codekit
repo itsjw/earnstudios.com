@@ -569,7 +569,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 353481,
+		"initialSize": 311783,
 		"inputAbbreviatedPath": "\/_site\/uploads\/about.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/about.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -583,6 +583,28 @@
 		"initialSize": 293999,
 		"inputAbbreviatedPath": "\/_site\/uploads\/castrol-feature.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/castrol-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/castrol-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93112,
+		"inputAbbreviatedPath": "\/_site\/uploads\/castrol-one.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/castrol-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/castrol-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85794,
+		"inputAbbreviatedPath": "\/_site\/uploads\/castrol-two.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/castrol-two.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -605,6 +627,28 @@
 		"initialSize": 220291,
 		"inputAbbreviatedPath": "\/_site\/uploads\/ee-feature.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/ee-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/ee-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69792,
+		"inputAbbreviatedPath": "\/_site\/uploads\/ee-one.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/ee-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/ee-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29565,
+		"inputAbbreviatedPath": "\/_site\/uploads\/ee-two.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/ee-two.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -708,6 +752,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/merchants-heart-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58920,
+		"inputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-one.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/merchants-heart-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48204,
+		"inputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-two.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-two.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/merchants-heart.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -774,6 +840,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/qualcomm-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89728,
+		"inputAbbreviatedPath": "\/_site\/uploads\/qualcomm-one.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/qualcomm-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/qualcomm-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108078,
+		"inputAbbreviatedPath": "\/_site\/uploads\/qualcomm-two.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/qualcomm-two.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/qualcomm.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -818,6 +906,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/slimfast-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82580,
+		"inputAbbreviatedPath": "\/_site\/uploads\/slimfast-one.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/slimfast-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/slimfast-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39427,
+		"inputAbbreviatedPath": "\/_site\/uploads\/slimfast-two.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/slimfast-two.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/slimfast.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -843,6 +953,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/ventures\/hows-your-day\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/ventures\/huel\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/ventures\/huel\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -887,6 +1006,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/castrol-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93112,
+		"inputAbbreviatedPath": "\/_uploads\/castrol-one.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/castrol-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/castrol-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85794,
+		"inputAbbreviatedPath": "\/_uploads\/castrol-two.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/castrol-two.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/castrol.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -905,6 +1046,28 @@
 		"initialSize": 220291,
 		"inputAbbreviatedPath": "\/_uploads\/ee-feature.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/ee-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/ee-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69792,
+		"inputAbbreviatedPath": "\/_uploads\/ee-one.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/ee-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/ee-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29565,
+		"inputAbbreviatedPath": "\/_uploads\/ee-two.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/ee-two.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1008,6 +1171,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/merchants-heart-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58920,
+		"inputAbbreviatedPath": "\/_uploads\/merchants-heart-one.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/merchants-heart-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/merchants-heart-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48204,
+		"inputAbbreviatedPath": "\/_uploads\/merchants-heart-two.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/merchants-heart-two.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/merchants-heart.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1074,6 +1259,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/qualcomm-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89728,
+		"inputAbbreviatedPath": "\/_uploads\/qualcomm-one.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/qualcomm-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/qualcomm-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108078,
+		"inputAbbreviatedPath": "\/_uploads\/qualcomm-two.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/qualcomm-two.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/qualcomm.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1114,6 +1321,28 @@
 		"initialSize": 224844,
 		"inputAbbreviatedPath": "\/_uploads\/slimfast-feature.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/slimfast-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/slimfast-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82580,
+		"inputAbbreviatedPath": "\/_uploads\/slimfast-one.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/slimfast-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/slimfast-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39427,
+		"inputAbbreviatedPath": "\/_uploads\/slimfast-two.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/slimfast-two.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
