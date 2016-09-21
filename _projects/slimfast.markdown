@@ -6,17 +6,20 @@ feature-image: "/uploads/slimfast-feature.jpg"
 images: 
 company: SlimFast
 is-featured: true
-excerpt-text: Creating content through challenges
+excerpt-text: Rejuvenating the SlimFast Challenge
 is-carousel: 
-carousel-text: Creating content through challenges
+carousel-text: Rejuvenating the SlimFast Challenge
 quote: 
 quote-cite: 
-brief-text: SlimFast brought us a brief to develop an idea to amplify their existing
-  2016 marketing plan.
-solution-text: |-
-  EARN Studios developed a modern version of the SlimFast Challenge. Building on the legacy and awareness of the original SlimFast Challenge, we developed the next generation version; one that is in line with the SlimFast brand’s vision to modernise and drive reappraisal amongst consumers, whilst also winning new consumers.
-
-  Our solution gave SlimFast an authentic reason to engage with consumers and provided a wealth of content, tools and assets to be activated across all of their channels (Twitter, Instagram, website, newsletters, PR, advertising and ambassadors.)
+brief-text: 'SlimFast brought us a brief to develop an idea to amplify their existing
+  2016 marketing plan. '
+solution-text: "EARN developed a modern version of the SlimFast Challenge. Building
+  on the legacy and awareness of the original SlimFast Challenge, we developed the
+  next generation version; one that is in line with the SlimFast brand’s vision to
+  modernise and drive reappraisal amongst consumers, whilst also winning new consumers.
+  \n\nOur solution gave SlimFast an authentic reason to engage with consumers and
+  provided a wealth of content, tools and assets to be activated across all of their
+  channels (Twitter, Instagram, website, newsletters, PR, advertising and ambassadors.)"
 results-text: |-
   Over 20,000 registrations for the SlimFast Challenge via the newly created app.
 
