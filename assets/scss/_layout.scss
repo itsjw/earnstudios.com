@@ -409,3 +409,44 @@ footer .detail {
 i, cite, em, var, address, dfn {
 	font-style: normal;
 }
+
+
+.embed-container-small {
+    position: relative;
+    padding-bottom: 50%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container-small iframe,.embed-container-small object,.embed-container-small embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.embed-container-medium {
+    position: relative;
+    padding-bottom: 25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container-medium iframe,.embed-container-medium object,.embed-container-medium embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.location-details {
+    padding-top: 2rem;
+}
+
+.maps iframe{
+    pointer-events: none;
+}
