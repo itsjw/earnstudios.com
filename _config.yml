@@ -33,8 +33,8 @@ kramdown:
 highlighter: rouge
 exclude:
 - bower_components
-description: We are a modern brand innovation agency, our mission is to move brands
-  from like to love, turn customers into fans and ideas into revenue
+description: We are an entrepreneurial creative agency, our mission is to earn brand
+  love with brave clients
 domain: http://earnstudios.com
 company: EARN Media
 email: hello@earnstudios.com
