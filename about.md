@@ -2,6 +2,9 @@
 title: About
 feature-image: "/uploads/about.jpg"
 carousel-text: A collaborative creative team who earn brand love with brave clients
+what-we-do-text: 
+who-we-are-text: 
+how-we-do-it-text: 
 layout: about
 ---
 
