@@ -22,3 +22,5 @@ We sit on the board of the company and provide strategic consultancy to the foun
 Huel has grown phenomenally quickly in its first 12 months due to a ground breaking product and focus on social media marketing to earn brand love and revenue simultaneously. The brand ambassadors, Huelers, are a group of people who are already committed to the brand and are involved in all aspects of building the business with constant communication between the brand and consumer to always improve the Huel products. In this way Huel acts more like an ever evolving tech company than a traditional food business. Huel 2.0 was launched in August 2016, with Huel 2.1 only a few months away.
 
 As the business grows so will our role to fuel the development of the brand, business and Huelers community.
+
+[huel.com](https://huel.com)
