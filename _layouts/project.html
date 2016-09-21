@@ -5,7 +5,7 @@ layout: light
 <!-- Hero -->
 <div class="project__hero tint" style="background-image: url({{page.feature-image}})">	
 <div class="row project__hero__text align-middle">
-	<div class="small-12 medium-8 large-6 columns">
+	<div class="small-12 medium-8 large-7 columns animated fadeInUp">
 	<h1>{{page.carousel-text}}</h1>
 	<h3>{{page.company}}</h3>
 	</div>
@@ -27,6 +27,21 @@ layout: light
 </div>
 <!-- End Brief -->
 
+{% if page.brief-image-one %}
+<!-- Video -->
+<div class="row project__image project__step align-left">
+<div class="small-12 medium-6 large-6 columns">
+<img src="{{page.brief-image-one}}" alt="{{ page.title }}" />
+</div>
+{% if page.brief-image-two %}
+<div class="small-12 medium-6 large-6 columns project__image__second">
+<img src="{{page.brief-image-two}}" alt="{{ page.title }}" />
+</div>
+{% endif %}
+</div>
+<!-- End Video -->
+{% endif %}
+
 <!-- Solution -->
 <div class="row project__solution project__step">
 	<div class="small-12 medium-6 large-6 columns">
@@ -37,6 +52,19 @@ layout: light
 	</div>
 </div>
 <!-- End Solution -->
+
+{% if page.video %}
+<!-- Video -->
+<div class="row project__video project__step align-right">
+<div class="small-12 medium-10 large-8 columns">
+	<div class="flex-video widescreen vimeo">
+	  <iframe src="https://player.vimeo.com/video/{{ page.video }}?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	</div>
+</div>
+</div>
+<!-- End Video -->
+{% endif %}
+
 
 <!-- Results -->
 <div class="row project__results project__step">
@@ -51,8 +79,8 @@ layout: light
 
 {% if page.quote %}
 <!-- Quote -->
-<div class="row project__brief project__step align-right">
-	<div class="small-12 medium-6 large-6 columns">
+<div class="row project__brief project__step align-left">
+	<div class="small-12 medium-10 large-8 columns">
 		<blockquote>
 		  <h3>{{ page.quote }}</h3>
 		  <cite>{{ page.quote-cite }}</cite>

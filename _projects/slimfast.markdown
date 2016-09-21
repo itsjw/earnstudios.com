@@ -13,6 +13,8 @@ quote:
 quote-cite: 
 brief-text: 'SlimFast brought us a brief to develop an idea to amplify their existing
   2016 marketing plan. '
+brief-image-one: "/uploads/slimfast-one.jpg"
+brief-image-two: "/uploads/slimfast-two.jpg"
 solution-text: "EARN developed a modern version of the SlimFast Challenge. Building
   on the legacy and awareness of the original SlimFast Challenge, we developed the
   next generation version; one that is in line with the SlimFast brand’s vision to

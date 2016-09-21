@@ -14,6 +14,8 @@ quote-cite: Andrew Garrihy, VP Marketing, Qualcomm
 brief-text: Qualcomm asked us for help demonstrating the groundbreaking power of their
   technology. So, what did we do? We launched the first ever drone race at Wembley
   Stadium.
+brief-image-one: "/uploads/qualcomm-one.jpg"
+brief-image-two: "/uploads/qualcomm-two.jpg"
 solution-text: "Working together with ERSA (the European Rotor Sports Association)
   we created an event that brings fans closer to the action of Drone Racing. \n\nMarrying
   the technologies of Qualcomm’s Snapdragon chip with EE 4Gee Action Cams over EE’s

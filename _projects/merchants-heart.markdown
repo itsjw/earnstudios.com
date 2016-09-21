@@ -15,6 +15,8 @@ quote-cite: Peter Harding, CEO Lucozade Ribena Suntory
 brief-text: 'We were tasked by Lucozade Ribena Suntory (LRS) to create a cultural
   shift that would catalyse creativity and innovation across the whole company.  Sounds
   easy, doesn’t it? '
+brief-image-one: "/uploads/merchants-heart-one.jpg"
+brief-image-two: "/uploads/merchants-heart-two.jpg"
 solution-text: "It’s easy to talk about changing but it’s much harder to actually
   change. The only way you create change is through doing. \n\nWe saw an opportunity
   for the company to shift from its old ways of product development, i.e. two-year

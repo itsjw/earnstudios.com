@@ -12,6 +12,8 @@ carousel-text: 50,000 new EE customers in 10 hours…and counting
 quote: Smart, collaborative, focused
 quote-cite: Spencer McHugh, Marketing Director, EE
 brief-text: To drive trial of PAYG Sims amongst young data hungry people
+brief-image-one: "/uploads/ee-one.jpg"
+brief-image-two: "/uploads/ee-two.jpg"
 solution-text: We created the EE Limited Edition SIMs project, which enabled influential
   YouTube ambassadors to create their own limited edition SIM experience for their
   fans. By collaborating directly with the talent we created an authentic and desirable

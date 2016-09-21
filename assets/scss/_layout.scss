@@ -170,6 +170,12 @@ a {
   z-index: 1; 
 }
 
+.project__image__second {
+	@include breakpoint(small only) {
+    padding-top: 1rem;
+    }
+}
+
 .project__hero:before {
   position: absolute;
   content:" ";
