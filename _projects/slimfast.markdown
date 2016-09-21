@@ -9,8 +9,8 @@ is-featured: true
 excerpt-text: Creating content through challenges
 is-carousel: 
 carousel-text: Creating content through challenges
-quote:
-quote-cite:
+quote: 
+quote-cite: 
 brief-text: SlimFast brought us a brief to develop an idea to amplify their existing
   2016 marketing plan.
 solution-text: |-
