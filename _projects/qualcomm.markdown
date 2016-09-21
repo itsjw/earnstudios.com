@@ -20,7 +20,7 @@ solution-text: "Working together with ERSA (the European Rotor Sports Associatio
   4G network at the world famous Wembley Stadium, selected industry journalists were
   invited to experience the race as if they themselves were the pilots."
 results-text: 1 billion media impacts
-video: 
+video: 183617169
 layout: project
 ---
 

@@ -17,7 +17,7 @@ solution-text: We created the EE Limited Edition SIMs project, which enabled inf
   fans. By collaborating directly with the talent we created an authentic and desirable
   product for their fans who loved the idea of being texted by their heroes.
 results-text: Over 55,000 new customers
-video: 
+video: 125559691
 layout: project
 ---
 
