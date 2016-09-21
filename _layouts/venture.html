@@ -1,0 +1,63 @@
+---
+layout: light
+---
+
+<!-- Hero -->
+<div class="project__hero tint" style="background-image: url({{page.feature-image}})">	
+<div class="row project__hero__text align-middle">
+	<div class="small-12 medium-8 large-8 columns">
+	<h1>{{page.carousel-text}}</h1>
+	</div>
+</div>
+</div>
+<!-- End Hero -->
+
+<!-- Content -->
+<div class="project__content">
+	
+<!-- Intro -->
+<div class="row project__results project__step">
+	<div class="small-12 medium-10 large-10 columns">
+	<h5>{{ content }}</h5>
+	</div>
+</div>
+<!-- End Intro -->
+
+
+</div>
+<!-- End Content -->
+
+
+
+<!-- Share -->
+<div class="row project__share align-center">
+	<div class="shrink columns">
+		<ul class="menu simple">
+			{% include sharing.html %}
+	  	</ul>
+	</div>
+</div>
+<!-- End Share -->
+
+<!-- Pagination -->
+<div class="project__pagination">
+	<div class="row">
+		
+		<div class="small-6 columns">
+		{% if page.previous.url %}
+		<p><a class="prev" href="{{page.previous.url}}"><svg class="icon icon-arrow-left8"><use xlink:href="#icon-arrow-left8"></use></svg> Previous</a></p>
+		<p class="hide-for-small-only"><a class="dark-gray prev" href="{{page.previous.url}}">{{page.previous.title}}</a></p>
+		{% endif %}
+		</div>
+
+		
+		<div class="small-6 columns text-right">
+		{% if page.next.url %}
+		<p><a class="next text-right" href="{{page.next.url}}">Next <svg class="icon icon-arrow-right8"><use xlink:href="#icon-arrow-right8"></use></svg></a></p>
+		<p class="hide-for-small-only"><a class="dark-gray next text-right" href="{{page.next.url}}">{{page.next.title}}</a></p>
+		{% endif %}
+		</div>
+		
+	</div>
+</div>
+<!-- End Pagination -->

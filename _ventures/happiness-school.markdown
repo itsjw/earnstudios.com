@@ -5,24 +5,18 @@ image: "/uploads/happiness-school.jpg"
 feature-image: "/uploads/happiness-school-feature.jpg"
 images: 
 company: EARN
-is-featured: true
-excerpt-text: Happiness Workshops
+is-featured:
+excerpt-text: We invest in happiness to enhance our creativity
 is-carousel: 
-carousel-text: Happiness Workshops
-brief-text: |-
-  Sed brief posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-  Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Curabitur blandit tempus porttitor.
-solution-text: |-
-  Sed solution posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-  Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Curabitur blandit tempus porttitor.
-results-text: Sed results posuere consectetur est at lobortis. Nullam id dolor id
-  nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Vivamus sagittis
-  lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum.
-  Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+carousel-text: We invest in happiness to enhance our creativity
 video: 
-layout: project
+layout: venture
 ---
 
-This is a brief overview of the project. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis.
+At EARN, we believe in the importance of positive psychology and that small changes in lifestyle wellbeing and happiness levels can be improved.
+
+These principles help to shape the way we work as a team and we wanted to put something out into the world that would help other people and our clients too.
+
+The How’s Your Day? is an app and book designed in collaboration with leading positive psychology expert Bridget Grenville-Cleave (MAPP, MBA, FCCA) to help people track how happy and fulfilled they feel and receive tips on how to increase happiness and wellbeing levels.
+
+Monitor your happiness performance through weekly, monthly and yearly stats we provide as well as your own personal timeline.
