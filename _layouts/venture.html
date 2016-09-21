@@ -7,7 +7,6 @@ layout: light
 <div class="row project__hero__text align-middle">
 	<div class="small-12 medium-8 large-8 columns">
 	<h1>{{page.carousel-text}}</h1>
-	<h3>{{page.company}}</h3>
 	</div>
 </div>
 </div>
@@ -16,51 +15,13 @@ layout: light
 <!-- Content -->
 <div class="project__content">
 	
-<!-- Brief -->
-<div class="row project__brief project__step">
-	<div class="small-12 medium-6 large-6 columns">
-	<h3>Brief</h3>
-	</div>
-	<div class="small-12 medium-6 large-6 columns">
-		{{ page.brief-text }}
-	</div>
-</div>
-<!-- End Brief -->
-
-<!-- Solution -->
-<div class="row project__solution project__step">
-	<div class="small-12 medium-6 large-6 columns">
-	<h3>Solution</h3>
-	</div>
-	<div class="small-12 medium-6 large-6 columns">
-		{{ page.solution-text }}
-	</div>
-</div>
-<!-- End Solution -->
-
-<!-- Results -->
+<!-- Intro -->
 <div class="row project__results project__step">
-	<div class="small-12 medium-6 large-6 columns">
-	<h3>Results</h3>
-	</div>
-	<div class="small-12 medium-6 large-6 columns">
-		{{ page.results-text }}
+	<div class="small-12 medium-10 large-10 columns">
+	<h5>{{ content }}</h5>
 	</div>
 </div>
-<!-- End Results -->
-
-{% if page.quote %}
-<!-- Quote -->
-<div class="row project__brief project__step align-right">
-	<div class="small-12 medium-6 large-6 columns">
-		<blockquote>
-		  <h3>{{ page.quote }}</h3>
-		  <cite>{{ page.quote-cite }}</cite>
-		</blockquote>
-	</div>
-</div>
-<!-- End Quote -->
-{% endif %}
+<!-- End Intro -->
 
 
 </div>

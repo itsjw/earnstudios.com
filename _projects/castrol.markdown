@@ -6,9 +6,12 @@ feature-image: "/uploads/castrol-feature.jpg"
 images: 
 company: Castrol
 is-featured: true
-excerpt-text: Creators of the most shared video in the world
+excerpt-text: Castrol Footkhana - the most shared film in the world
 is-carousel: 
-carousel-text: Creators of the most shared video in the world
+carousel-text: Castrol Footkhana - the most shared film in the world
+quote: An agency that thinks differently, with a focus on brand ownership where the
+  brand’s values are at the heart of the idea
+quote-cite: Paul Goodmaker, Sponsorship Director, Castrol
 brief-text: To communicate Castrol’s heritage and relevance to the World Cup audience
   through the brand’s sponsorship of the 2014 tournament.
 solution-text: EARN Studios worked with Brazilian football superstar Neymar Jr. and

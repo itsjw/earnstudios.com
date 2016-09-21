@@ -239,6 +239,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/venture.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/venture.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/ventures.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -253,6 +262,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/404.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/about.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/about.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -683,7 +701,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 196676,
+		"initialSize": 137066,
 		"inputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-feature.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-feature.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -749,7 +767,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 78822,
+		"initialSize": 317329,
 		"inputAbbreviatedPath": "\/_site\/uploads\/qualcomm-feature.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/qualcomm-feature.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -760,7 +778,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 87363,
+		"initialSize": 168338,
 		"inputAbbreviatedPath": "\/_site\/uploads\/qualcomm.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/qualcomm.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -825,15 +843,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/ventures\/hows-your-day\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/ventures\/huel\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/ventures\/huel\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1119,6 +1128,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/about.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/about.md": {
 		"criticStyle": 0,
@@ -14889,8 +14907,8 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/index.html",

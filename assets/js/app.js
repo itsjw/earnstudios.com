@@ -76,19 +76,22 @@ $('.hero-carousel').flickity({
 
 
 wow = new WOW(
-                      {
-                      boxClass:     'wow',      // default
-                      animateClass: 'animated', // default
-                      offset:       0,          // default
-                      mobile:       true,       // default
-                      live:         true        // default
-                    }
-                    )
+  {
+  boxClass:     'wow',      // default
+  animateClass: 'animated', // default
+  offset:       0,          // default
+  mobile:       true,       // default
+  live:         true        // default
+}
+)
 wow.init();
 
 
-var map = new google.maps.Map( document.getElementById( 'map-canvas' ), {		
-	zoom:         7,			center:       new google.maps.LatLng( originalLocation[0], originalLocation[1] ),			scrollwheel:  false		
+$('.maps').click(function () {
+    $('.maps iframe').css("pointer-events", "auto");
 });
 
+$( ".maps" ).mouseleave(function() {
+  $('.maps iframe').css("pointer-events", "none"); 
+});
 
