@@ -86,6 +86,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/mailinglist.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/mailinglist.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/navigation-dark.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1058,7 +1067,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 207459,
+		"initialSize": 314989,
 		"inputAbbreviatedPath": "\/_uploads\/qualcomm-feature.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/qualcomm-feature.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1113,7 +1122,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 72183,
+		"initialSize": 80922,
 		"inputAbbreviatedPath": "\/_uploads\/slimfast.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/slimfast.jpg",
 		"outputPathIsOutsideProject": 0,
