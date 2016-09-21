@@ -5,10 +5,12 @@ image: "/uploads/samsung.jpg"
 feature-image: "/uploads/samsung-feature.jpg"
 images: 
 company: Samsung
-is-featured: 
+is-featured: true
 excerpt-text: Writers of the strategy that wins millions of brand fans
 is-carousel: 
 carousel-text: Writers of the strategy that wins millions of brand fans
+quote:
+quote-cite:
 brief-text: To help Samsung activate their brand in a meaningful way that engages
   an audience of young influencers. Whilst Samsung has phenomenal products and sales
   success across Europe, the brand personality and vision is inconsistent across its

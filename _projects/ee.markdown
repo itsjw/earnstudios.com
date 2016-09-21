@@ -6,9 +6,11 @@ feature-image: "/uploads/ee-feature.jpg"
 images: 
 company: EE
 is-featured: true
-excerpt-text: Positioning a communications brand for a new generation
+excerpt-text: 50,000 new EE customers in 10 hours…and counting
 is-carousel: 
-carousel-text: Positioning a communications brand for a new generation
+carousel-text: 50,000 new EE customers in 10 hours…and counting
+quote: Smart, collaborative, focused
+quote-cite: Spencer McHugh, Marketing Director, EE
 brief-text: To drive trial of PAYG Sims amongst young data hungry people
 solution-text: We created the EE Limited Edition SIMs project, which enabled influential
   YouTube ambassadors to create their own limited edition SIM experience for their

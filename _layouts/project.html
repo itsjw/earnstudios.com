@@ -15,7 +15,7 @@ layout: light
 
 <!-- Content -->
 <div class="project__content">
-
+	
 <!-- Brief -->
 <div class="row project__brief project__step">
 	<div class="small-12 medium-6 large-6 columns">
@@ -44,10 +44,24 @@ layout: light
 	<h3>Results</h3>
 	</div>
 	<div class="small-12 medium-6 large-6 columns">
-		{{ page.solution-text }}
+		{{ page.results-text }}
 	</div>
 </div>
 <!-- End Results -->
+
+{% if page.quote %}
+<!-- Quote -->
+<div class="row project__brief project__step align-right">
+	<div class="small-12 medium-6 large-6 columns">
+		<blockquote>
+		  <h3>{{ page.quote }}</h3>
+		  <cite>{{ page.quote-cite }}</cite>
+		</blockquote>
+	</div>
+</div>
+<!-- End Quote -->
+{% endif %}
+
 
 </div>
 <!-- End Content -->
@@ -55,8 +69,8 @@ layout: light
 
 
 <!-- Share -->
-<div class="row project__share">
-	<div class="small-12 columns">
+<div class="row project__share align-center">
+	<div class="shrink columns">
 		<ul class="menu simple">
 			{% include sharing.html %}
 	  	</ul>

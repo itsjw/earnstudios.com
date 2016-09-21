@@ -8606,4 +8606,7 @@ footer .detail {
 .hero-wrapper {
   position: relative; }
 
+i, cite, em, var, address, dfn {
+  font-style: normal; }
+
 /*# sourceMappingURL=app.css.map */

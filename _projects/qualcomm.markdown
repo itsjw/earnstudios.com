@@ -9,6 +9,8 @@ is-featured:
 excerpt-text: Defining a moment for a global brand
 is-carousel: true
 carousel-text: Defining a moment for a global brand
+quote:
+quote-cite:
 brief-text: Qualcomm asked us for help demonstrating the groundbreaking power of their
   technology. So, what did we do? We launched the first ever drone race at Wembley
   Stadium.
