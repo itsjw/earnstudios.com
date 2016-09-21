@@ -1,11 +1,12 @@
 ---
 title: Happiness School
 date: 2013-09-12 00:00:00 Z
+published: false
 image: "/uploads/happiness-school.jpg"
 feature-image: "/uploads/happiness-school-feature.jpg"
 images: 
 company: EARN
-is-featured: 'true'
+is-featured: true
 excerpt-text: Happiness Workshops
 is-carousel: 
 carousel-text: Happiness Workshops
