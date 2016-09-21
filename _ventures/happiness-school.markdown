@@ -1,7 +1,6 @@
 ---
 title: Happiness School
 date: 2013-09-12 00:00:00 Z
-published: false
 image: "/uploads/happiness-school.jpg"
 feature-image: "/uploads/happiness-school-feature.jpg"
 images: 
