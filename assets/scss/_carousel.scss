@@ -119,6 +119,10 @@ http://flickity.metafizzy.co
 //   width: 100%;
   left: 3.9375rem;
   bottom: 3.9375rem;
+  @include breakpoint(small only) {
+     left: 2.625rem;
+	bottom: 2.625rem;
+  	}
   padding: 0;
   margin: 0;
   list-style: none;
