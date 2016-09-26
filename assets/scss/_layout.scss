@@ -91,9 +91,10 @@ a {
   	}
 	a {
     color: $color--white;
+    transition: $primary-transition;
     }
     a:hover {
-    color: $color--light-gray;
+    color: $color--amber;
     }
 }
 
