@@ -1,6 +1,7 @@
 ---
 title: Brand Love
 date: 2016-01-22 13:10:00 Z
+image: "/uploads/brand-love-apple.jpg"
 ---
 
 ### How to build a brand worth talking about

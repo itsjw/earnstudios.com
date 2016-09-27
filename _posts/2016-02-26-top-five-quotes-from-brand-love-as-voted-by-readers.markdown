@@ -1,6 +1,7 @@
 ---
-title: Top Five Quotes from Brand Love as Voted by Readers
+title: Top five quotes from Brand Love as voted by readers
 date: 2016-02-26 12:58:00 Z
+image: "/uploads/top-five-quotes.jpg"
 ---
 
 We checked Amazon to find out the quotes that readers loved most from our Brand Love book. Here are the ‘top five’ principles, according to you:

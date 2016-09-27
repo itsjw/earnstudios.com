@@ -1,6 +1,7 @@
 ---
 title: 'The Future Marketer’s Toolkit: What All Marketers Need to Know'
 date: 2016-05-20 12:50:00 Z
+image: "/uploads/future-marketers-toolkit.jpg"
 ---
 
 It’s almost redundant to say the digital landscape has changed drastically in the last decade, but why hasn’t the marketer’s toolkit evolved with it? They say you can’t use old tools for today’s job and be in business tomorrow and we agree. 

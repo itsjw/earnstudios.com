@@ -1,6 +1,7 @@
 ---
-title: Do companies even need creative agencies in The Connection Economy?
+title: Do companies even need creative agencies in the connection economy?
 date: 2016-01-22 13:03:00 Z
+image: "/uploads/castrol.jpg"
 ---
 
 David Ogilvy, revered as the “Father of Advertising”, was a marketing genius. His ideas not only shaped advertising but business in the 20th century. His concepts were so effective in the 20th century that they are still paramount in how many companies operate today. But the dawn of social media in the 21st century completely overturned the marketing landscape in which Ogilvy’s strategies flourished. 

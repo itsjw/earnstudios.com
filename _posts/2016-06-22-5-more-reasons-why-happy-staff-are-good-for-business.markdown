@@ -1,6 +1,7 @@
 ---
-title: 5 MORE reasons why happy staff are good for business
+title: Five more reasons why happy staff are good for business
 date: 2016-06-22 12:49:00 Z
+image: "/uploads/five-more-reasons.jpg"
 ---
 
 ***As a result of the success of 'Top 5 reasons why happy staff are good for business', we thought we’d give you 5 more reasons why focusing on the happiness of your team can translate into big business benefits.*** 

@@ -7924,7 +7924,7 @@ svg.icon.icon-envelop2 {
   color: #d7d7d7; }
 
 .overlay {
-  z-index: 1000;
+  z-index: 1001;
   position: fixed;
   background: #FFD600;
   top: 0;
@@ -7974,7 +7974,7 @@ svg.icon.icon-envelop2 {
     .overlay ul li {
       display: block;
       height: 25%;
-      height: calc(100% / 4);
+      height: calc(100% / 5);
       min-height: 3rem;
       position: relative;
       opacity: 0; }

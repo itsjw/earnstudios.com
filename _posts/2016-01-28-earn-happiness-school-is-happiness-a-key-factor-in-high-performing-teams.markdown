@@ -1,6 +1,7 @@
 ---
-title: EARN Happiness School - Is Happiness A Key Factor In High Performing Teams?
+title: EARN Happiness School - is happiness a key factor in high performing teams?
 date: 2016-01-28 13:02:00 Z
+image: "/uploads/earn-happiness-school.jpg"
 ---
 
 On Monday 26 January (and not just any Monday, the Monday that many refer to as Blue Monday), EARN hosted their annual EARN Happiness School – an event designed to enlighten friends, clients and partners on the subject of happiness and positive psychology. 

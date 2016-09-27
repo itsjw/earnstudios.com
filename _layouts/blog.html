@@ -1,0 +1,35 @@
+---
+layout: dark
+---
+
+<!-- Content -->
+<div class="row expanded collapse">
+{% for post in site.posts limit:site.per_page %}
+<div class="small-12 medium-6 large-6 columns">
+
+<a href="{{ post.url }}">
+<div class="excerpt">
+
+<!-- Title -->
+<div class="excerpt__title">
+<div class="wow fadeInUp">
+<h3>{{ post.title }}</h3>
+<p>{{ post.date | date: '%B %d, %Y' }}</p>
+<p><span>View</span></p>
+</div>
+</div>
+<!-- End Title -->
+
+<!-- Image -->
+<div class="excerpt__image">
+<img src="{{post.image}}" alt="{{post.title}}" />
+</div>
+<!-- End Image -->
+
+</div>
+</a>
+
+	</div>
+	{% endfor %}
+</div>
+<!-- End Content -->

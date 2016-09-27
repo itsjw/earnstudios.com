@@ -20,6 +20,14 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    image: 
+    description:
 url: http://earnstudios.com
 permalink: pretty
 gems:
