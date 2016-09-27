@@ -27,7 +27,7 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     image: 
-    description:
+    description: 
 url: http://earnstudios.com
 permalink: pretty
 gems:
