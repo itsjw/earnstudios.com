@@ -107,7 +107,6 @@ $block-grid-max: 8;
 // ------------------
 
 $header-font-family: $body-font-family;
-// $header-font-family: 'Apercu-Bold', Helvetica, Roboto, Arial, sans-serif;
 $header-font-weight: $global-weight-normal;
 $header-font-style: normal;
 // $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
@@ -137,7 +136,8 @@ $header-color: inherit;
 $header-lineheight: 1.2;
 $header-margin-bottom: 0.5rem;
 $header-text-rendering: optimizeLegibility;
-$small-font-size: 80%;
+// $small-font-size: 80%;
+$small-font-size: 90%;
 $header-small-font-color: $medium-gray;
 $paragraph-lineheight: 1.6;
 $paragraph-margin-bottom: 1rem;

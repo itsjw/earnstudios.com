@@ -1,127 +1,108 @@
-// Standard
+//  Table of Contents:
+//
+//   1. Global
+//   2. Typography
+//   3. Navigation
 
-body {
-    opacity: 1;
-    transition: $primary-transition;
-}
-body.fade-out {
-    opacity: 0;
-    transition: $primary-transition;
+
+// 1. Global
+// ---------
+
+body {  
+  cursor: default;
 }
 
 svg {
-	max-width: 100%;
+  max-width: 100%;
 }
 
 img {
-	display: block;
-	max-width: 100%;
-	height: auto
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 ::selection {
-    background: #333;
-    color: #fff
+  background: $color--amber;
+  color: $color--white;
 }
-
-.no-js {
-  @include breakpoint(small only) {
-    .top-bar {
-      display: none;
-    }
-  }
-
-  @include breakpoint(medium) {
-    .title-bar {
-      display: none;
-    }
-  }
-}
-
-// Typography
-
-.uppercase {
-	text-transform: uppercase;
-}
-
-@mixin accent-text {
-	text-transform: uppercase;
-	letter-spacing: $letter-spacing--looser;
-}
-
-i, cite, em, var, address, dfn {
-	font-style: normal;
-}
-
-// Layout
 
 a { 
-	transition: $primary-transition;
+  transition: $primary-transition;
 }
 
 .detail {
-	font-size: 0.9rem;
-	font-family: $body-font-family;
+  font-size: $small-font-size;
+  font-family: $body-font-family;
 }
 
-.underline-black { 
-	@include underline-from-left;
+// 2. Typography
+
+.uppercase {
+  text-transform: uppercase;
 }
 
-.content {
-	position: relative;
+i, cite, em, var, address, dfn {
+  font-style: normal;
 }
 
 
-// Header
+// 3. Navigation
 
-.navigation-wrapper {
-	height: 9rem;
-	width: 100%;
+.navigation {
+  height: 9rem;
 }
 
-.navigation-left {
-	position: absolute;
-	top: 3rem;
-	left: 3rem;
-	z-index: 100;
-	@include breakpoint(small only) {
-    top: 2rem;
-	left: 2rem;
-  	}
-	a {
+.navigation__left {
+  position: absolute;
+  top: 3rem;
+  left: 3rem;
+  z-index: 1;
+  
+  a {
     color: $color--white;
     transition: $primary-transition;
-    }
-    a:hover {
+  }
+  
+  a:hover {
     color: $color--amber;
-    }
-}
-
-.navigation-right {
-	position: absolute;
-	top: 3rem;
-	right: 3rem;
-	@include breakpoint(small only) {
+  }
+  
+  @include breakpoint(small only) {
     top: 2rem;
-	right: 2rem;
-  	}
-	z-index: 5000;
-	a {
-    color: $color--white;
-    }
-    a:hover {
-    color: $color--light-gray;
-    }
+    left: 2rem;
+  }
+  
 }
 
-.dark {
-	a {
-    color: $color--black;
-    }
-    a:hover {
-    color: $color--light-gray;
-    }
+.navigation__right {
+  position: absolute;
+  top: 3rem;
+  right: 3rem;
+	z-index: 5000;
+
+  a {
+    color: $color--white;
+  }
+
+  a:hover {
+  color: $color--light-gray;
+  }
+
+  @include breakpoint(small only) {
+    top: 2rem;
+    right: 2rem;
+  }
+}
+
+
+.navigation--dark {
+  a {
+  color: $color--black;
+  }
+  a:hover {
+  color: $color--light-gray;
+  }
 }
 
 
@@ -156,7 +137,7 @@ a {
 
 .index-about-text .link:hover {
 	color: $color--black;
-    padding-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 // Project
@@ -173,14 +154,49 @@ a {
 	color: $color--dark-gray;
 }
 
-.project__hero {
-  position: relative;
-  height: 80vh;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  z-index: 1; 
+.hero {
+    position: relative;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    z-index: 0;
+
+    &:before {
+    position: absolute;
+    content: " ";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    z-index: 1;
+    background-color: rgba(0,0,0,0.3);
+    }
+
+    &__text {
+    padding: 3rem;
+    height: 100%;
+    @include breakpoint(small only) {
+    padding: 2rem;
+    }
+  	}
+
+  	&__text__inner {
+    z-index: 2;
+  	}
+  	
+  	h1 {
+    font-family: $header-font-family-medium;
+    color: $color--white;
+    }
+
+    h3 {
+    font-family: $header-font-family;
+    color: $color--amber;
+    }
 }
+
 
 .project__image__second {
 	@include breakpoint(small only) {
@@ -188,36 +204,6 @@ a {
     }
 }
 
-.project__hero:before {
-  position: absolute;
-  content:" ";
-  top:0;
-  left:0;
-  width:100%;
-  height:100%;
-  display: block;
-  z-index:0;
-  background-color: rgba(0,0,0,0.3);
-}
-
-.project__hero__text {
-	padding: 3rem;
-	@include breakpoint(small only) {
-    padding: 2rem;
-  	}
-	height: 100%;
-}
-
-.project__hero__text {
-	h1 {
-	font-family: $header-font-family-medium;
-	color: $color--white;
-	}
-	h3 {
-	font-family: $header-font-family;
-	color: $color--amber;
-	}
-}
 
 .project__content {
 	padding: 3rem;
@@ -239,7 +225,6 @@ a {
 
 .project__share {
 	padding: 3rem;
-	@include accent-text;
 	@include breakpoint(small only) {
     padding: 2rem;
   	}
@@ -247,7 +232,6 @@ a {
 
 .project__share__bottom {
 	padding-top: 2rem;
-	@include accent-text;
 }
 
 .project__pagination {
@@ -262,64 +246,70 @@ a {
 
 .excerpt {
 	position:relative;
+	
+  	img {
+      width:100%;
+    }
+    
+    &:hover .excerpt__image:after {
+        background:$color--amber;
+        opacity:0.9;
+        transition: $primary-transition;
+      }
+      
+    &:hover .excerpt__title {
+        h3 {
+        color: $color--black;
+        }
+  
+        p span {
+        border-bottom: $color--black 1px solid;
+        padding-bottom: 0.5rem;
+        } 
+      } 
 }
 
 .excerpt__title {
-	position:absolute;
-	top: 0rem;
-	left: 0rem;
-	width: 100%;
-	height: 100%;
-	padding: 3rem;
-	z-index: 500;
-	@include breakpoint(small only) {
-    padding: 2rem;
-  	}
-	h3 {
+  position:absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 100%;
+  height: 100%;
+  padding: 3rem;
+  z-index: 1;
+  
+    h3 {
     color: $color--white;
     transition: $primary-transition;
     }
+  
     p {
-	color: $color--white;
-	transition: $primary-transition;
-    }
-    p span {
-	border-bottom: $color--yellow 1px solid;
-    padding-bottom: 0.25rem;
+    color: $color--white;
     transition: $primary-transition;
+      span {
+      border-bottom: $color--yellow 1px solid;
+      padding-bottom: 0.25rem;
+      transition: $primary-transition;
+      }
+    }
+  
+    @include breakpoint(small only) {
+    padding: 2rem;
     }
 }
 
-.excerpt__image img {
-    width:100%;
-}
 
 .excerpt__image:after {
-    content:'\A';
-    position:absolute;
-    width:100%; 
-    height:100%;
-    top:0; 
-    left:0;
-    background:$color--black;
-    opacity:0.25;
-    transition: $primary-transition;
+  content:'\A';
+  position:absolute;
+  width:100%; 
+  height:100%;
+  top:0; 
+  left:0;
+  background:$color--black;
+  opacity:0.25;
 }
 
-.excerpt:hover .excerpt__image:after {
-	background:$color--amber;
-    opacity:0.9;
-}
-
-.excerpt:hover .excerpt__title {
-	h3 {
-    color: $color--black;
-    }
-    p span {
-	border-bottom: $color--black 1px solid;
-    padding-bottom: 0.5rem;
-    }
-}
 
 // About
 
@@ -356,12 +346,12 @@ footer {
 	background-color: $color--lighter-gray;
 	color: $color--dark-gray;
 	padding: 3rem;
-	@include breakpoint(small only) {
-	padding: 2rem;
-  	}
 	a {
     color: $color--black;
     }
+  @include breakpoint(small only) {
+	padding: 2rem;
+  }
 }
 
 .footer__top {
@@ -382,65 +372,59 @@ footer .detail {
 
 //Carousel
 
-
-.hero-carousel-text {
-	padding: 3rem;
-	@include breakpoint(small only) {
-	padding: 2rem;
-  	}
-	height: 100%;
+.carousel {
+  height: 85vh;
 }
 
-.tint * {
-    position: relative;
-    /* hack */
-}
-
-
-.hero-carousel-text h1 a {
-	font-family: $header-font-family-medium;
-	color: $color--white;
-	&:hover {
-      color: $color--amber;
-    }
-}
-
-.hero-carousel-text .link {
-	border-bottom: $color--white 1px solid;
-    padding-bottom: 0.25rem;
-	color: $color--white;
-	transition: $primary-transition;
-	&:hover {
-      color: $color--amber;
-      padding-bottom: 0.5rem;
-    }
-}
-
-.hero-carousel {
-  height: 85vh; 
-}
-
-.hero-carousel-cell {
+.carousel__cell {
   width: 100%;
   height: 100%;
-  /* inherit height from gallery */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  z-index: 1; 
+  z-index: 1;
+
+    a {
+      font-family: $header-font-family-medium;
+      color: $color--white;
+      &:hover {
+        color: $color--amber;
+      }
+    }
+
+    &:before {
+      position: absolute;
+      content:" ";
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+      display: block;
+      z-index:0;
+      background-color: rgba(0,0,0,0.2);
+    }
+    
+    &__text {
+      padding: 3rem;
+      height: 100%;
+      @include breakpoint(small only) {
+      padding: 2rem;
+      }
+    }
+      
+    p a {
+      border-bottom: $color--white 1px solid;
+      padding-bottom: 0.25rem;
+      color: $color--white;
+      transition: $primary-transition;
+      &:hover {
+        color: $color--amber;
+        padding-bottom: 0.5rem;
+      }
+    }
 }
 
-.hero-carousel-cell:before {
-  position: absolute;
-  content:" ";
-  top:0;
-  left:0;
-  width:100%;
-  height:100%;
-  display: block;
-  z-index:0;
-  background-color: rgba(0,0,0,0.2);
-}
+
 
 .hero-arrow {
 	position: absolute;
