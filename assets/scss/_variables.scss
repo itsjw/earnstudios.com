@@ -1,9 +1,11 @@
 // Colors
 // ------
 
+// Highlight Colors
 $color--amber: #FFD600;
 $color--yellow: #FFFF00;
 
+// Neutral Colors
 $color--black: #222222;
 $color--darkest-gray: #333333;
 $color--darker-gray: #5A6575;
@@ -20,17 +22,17 @@ $color--white: #ffffff;
 
 $line-height--tighter: 1;
 $line-height--tight: 1.16;
-$line-height--base:  1.6;
+$line-height--base: 1.6;
 
 $letter-spacing--tighter: -0.027em;
-$letter-spacing--tight:   -0.018em;
+$letter-spacing--tight: -0.018em;
 $letter-spacing--looser: 0.15em;
-$letter-spacing--loose:  0.018em;
+$letter-spacing--loose: 0.018em;
 
 // Miscellaneous
 // -------------
 
-
-// Transition
+// Transitions
+// -------------
 
 $primary-transition: all .35s cubic-bezier(.39, .575, .565, 1);

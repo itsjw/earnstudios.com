@@ -1,6 +1,7 @@
 ---
 title: Qualcomm
 date: 2016-04-01 00:00:00 Z
+position: 6
 image: "/uploads/qualcomm.jpg"
 feature-image: "/uploads/qualcomm-feature.jpg"
 images: 

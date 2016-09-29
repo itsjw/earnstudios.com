@@ -1,16 +1,13 @@
-<div class="hero-carousel">
-{% assign slide_documents = site.projects | sort: 'date' | reverse | where: "is-carousel", "true" %}
-{% for slide in slide_documents %}
-<div class="hero-carousel-cell tint" style="background-image: url({{slide.feature-image}})">	
-	
-<div class="row hero-carousel-text align-middle">
-	<div class="small-12 medium-9 large-7 columns hero-carousel-text-inside animated fadeInUp">
-	<h1><a href="{{ slide.url }}">{{slide.carousel-text}}</a></h1>
-	<p><a href="{{ slide.url }}" class="link">View Project</a></p>
-	</div>
-</div>
-
-</div>
-{% endfor %}
-
+<div class="carousel">
+  {% assign slide_documents = site.projects | sort: 'date' | reverse | where: "is-carousel", "true" %}
+  {% for slide in slide_documents %}
+    <div class="carousel__cell" style="background-image: url({{slide.feature-image}})">
+      <div class="row carousel__cell__text align-middle">
+        <div class="small-12 medium-9 large-7 columns animated fadeInUp">
+          <h1><a href="{{ slide.url }}">{{slide.carousel-text}}</a></h1>
+          <p><a href="{{ slide.url }}">View Project</a></p>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
 </div>

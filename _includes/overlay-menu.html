@@ -2,11 +2,11 @@
 <div class="overlay" id="overlay" data-toggler=".open">
   <nav class="overlay-menu">
     <ul>
-	{% for link in site.data.navigation %}
+      {% for link in site.data.navigation %}
         <li class="element">
-            <a href="{{ link.href }}">{{ link.title }}</a>
+          <a href="{{ link.href }}">{{ link.title }}</a>
         </li>
-    {% endfor %}
+      {% endfor %}
     </ul>
   </nav>
 </div>

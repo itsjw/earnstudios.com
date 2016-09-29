@@ -167,6 +167,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/blog.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/blog.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/contact.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -230,6 +239,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/post.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/post.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/project.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -284,173 +302,104 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/css\/app.css": {
-		"fileType": 16,
-		"ignore": 1,
+	"\/_site\/blog\/5-more-reasons-why-happy-staff-are-good-for-business\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
+		"inputAbbreviatedPath": "\/_site\/blog\/5-more-reasons-why-happy-staff-are-good-for-business\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/icons\/android-chrome-192x192.png": {
-		"fileType": 32768,
+	"\/_site\/blog\/brand-love-model\/index.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 641,
-		"inputAbbreviatedPath": "\/_site\/assets\/icons\/android-chrome-192x192.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/icons\/android-chrome-192x192.png",
+		"inputAbbreviatedPath": "\/_site\/blog\/brand-love-model\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/icons\/apple-touch-icon.png": {
-		"fileType": 32768,
+	"\/_site\/blog\/brand-love\/index.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 521,
-		"inputAbbreviatedPath": "\/_site\/assets\/icons\/apple-touch-icon.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/icons\/apple-touch-icon.png",
+		"inputAbbreviatedPath": "\/_site\/blog\/brand-love\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/icons\/favicon-16x16.png": {
-		"fileType": 32768,
+	"\/_site\/blog\/do-companies-even-need-creative-agencies-in-the-connection-economy\/index.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 362,
-		"inputAbbreviatedPath": "\/_site\/assets\/icons\/favicon-16x16.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/icons\/favicon-16x16.png",
+		"inputAbbreviatedPath": "\/_site\/blog\/do-companies-even-need-creative-agencies-in-the-connection-economy\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/icons\/favicon-32x32.png": {
-		"fileType": 32768,
+	"\/_site\/blog\/earn-happiness-school-is-happiness-a-key-factor-in-high-performing-teams\/index.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 369,
-		"inputAbbreviatedPath": "\/_site\/assets\/icons\/favicon-32x32.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/icons\/favicon-32x32.png",
+		"inputAbbreviatedPath": "\/_site\/blog\/earn-happiness-school-is-happiness-a-key-factor-in-high-performing-teams\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/icons\/manifest.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/icons\/manifest.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/_site\/assets\/icons\/manifest-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/_site\/assets\/icons\/mstile-150x150.png": {
-		"fileType": 32768,
+	"\/_site\/blog\/index.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 598,
-		"inputAbbreviatedPath": "\/_site\/assets\/icons\/mstile-150x150.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/icons\/mstile-150x150.png",
+		"inputAbbreviatedPath": "\/_site\/blog\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/img\/meta\/og-image.png": {
-		"fileType": 32768,
+	"\/_site\/blog\/monster-beat-red-bull-without-spending-a-penny-on-advertising-what-weve-learned\/index.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6380,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/meta\/og-image.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/meta\/og-image.png",
+		"inputAbbreviatedPath": "\/_site\/blog\/monster-beat-red-bull-without-spending-a-penny-on-advertising-what-weve-learned\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/js\/app.js": {
-		"fileType": 64,
+	"\/_site\/blog\/the-future-marketers-toolkit-what-all-marketers-need-to-know\/index.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/js\/app.js",
-		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/app-min.js",
+		"inputAbbreviatedPath": "\/_site\/blog\/the-future-marketers-toolkit-what-all-marketers-need-to-know\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/js\/min\/app-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/js\/min\/app-min.js",
-		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/app-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/assets\/js\/min\/fade-min.js": {
-		"fileType": 64,
+	"\/_site\/blog\/top-5-reasons-why-happy-staff-are-good-for-business-why-happiness-at-work-is-a-serious-business\/index.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/js\/min\/fade-min.js",
-		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/fade-min-min.js",
+		"inputAbbreviatedPath": "\/_site\/blog\/top-5-reasons-why-happy-staff-are-good-for-business-why-happiness-at-work-is-a-serious-business\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/js\/min\/min\/script-min-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/script-min-min.js",
-		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/min\/script-min-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/assets\/js\/min\/script-min.js": {
-		"fileType": 64,
+	"\/_site\/blog\/top-five-quotes-from-brand-love-as-voted-by-readers\/index.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/js\/min\/script-min.js",
-		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/script-min-min.js",
+		"inputAbbreviatedPath": "\/_site\/blog\/top-five-quotes-from-brand-love-as-voted-by-readers\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/scss\/app.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
+	"\/_site\/blog\/why-i-quit-the-best-job-in-the-world-to-launch-my-own-business\/index.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/scss\/app.scss",
-		"outputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
+		"inputAbbreviatedPath": "\/_site\/blog\/why-i-quit-the-best-job-in-the-world-to-launch-my-own-business\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/_site\/bower.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/_site\/bower-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputPathIsSetByUser": 0
 		},
 	"\/_site\/contact\/index.html": {
 		"fileType": 8192,
@@ -469,17 +418,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/package.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/package.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/_site\/package-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
 		},
 	"\/_site\/projects\/castrol\/index.html": {
 		"fileType": 8192,
@@ -544,401 +482,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/README.md": {
-		"criticStyle": 0,
-		"enableFootnotes": 1,
-		"enableLabels": 1,
-		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/README.md",
-		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/_site\/README.html",
-		"outputFormat": 0,
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"parseMetadata": 1,
-		"processHTML": 0,
-		"randomFootnoteNumbers": 0,
-		"useCompatibilityMode": 0
-		},
-	"\/_site\/uploads\/about.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 311783,
-		"inputAbbreviatedPath": "\/_site\/uploads\/about.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/about.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/castrol-feature.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 293999,
-		"inputAbbreviatedPath": "\/_site\/uploads\/castrol-feature.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/castrol-feature.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/castrol-one.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 93112,
-		"inputAbbreviatedPath": "\/_site\/uploads\/castrol-one.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/castrol-one.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/castrol-two.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 85794,
-		"inputAbbreviatedPath": "\/_site\/uploads\/castrol-two.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/castrol-two.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/castrol.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 85947,
-		"inputAbbreviatedPath": "\/_site\/uploads\/castrol.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/castrol.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/ee-feature.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 220291,
-		"inputAbbreviatedPath": "\/_site\/uploads\/ee-feature.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/ee-feature.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/ee-one.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 69792,
-		"inputAbbreviatedPath": "\/_site\/uploads\/ee-one.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/ee-one.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/ee-two.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 29565,
-		"inputAbbreviatedPath": "\/_site\/uploads\/ee-two.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/ee-two.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/ee.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 43392,
-		"inputAbbreviatedPath": "\/_site\/uploads\/ee.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/ee.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/happiness-school-feature.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 192670,
-		"inputAbbreviatedPath": "\/_site\/uploads\/happiness-school-feature.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/happiness-school-feature.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/happiness-school.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 66111,
-		"inputAbbreviatedPath": "\/_site\/uploads\/happiness-school.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/happiness-school.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/hows-your-day-feature.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 120857,
-		"inputAbbreviatedPath": "\/_site\/uploads\/hows-your-day-feature.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/hows-your-day-feature.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/hows-your-day.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 43581,
-		"inputAbbreviatedPath": "\/_site\/uploads\/hows-your-day.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/hows-your-day.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/huel-feature.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 155414,
-		"inputAbbreviatedPath": "\/_site\/uploads\/huel-feature.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/huel-feature.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/huel.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 48117,
-		"inputAbbreviatedPath": "\/_site\/uploads\/huel.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/huel.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/itv.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 45930,
-		"inputAbbreviatedPath": "\/_site\/uploads\/itv.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/itv.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/merchants-heart-feature.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 137066,
-		"inputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-feature.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-feature.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/merchants-heart-one.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 58920,
-		"inputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-one.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-one.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/merchants-heart-two.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 48204,
-		"inputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-two.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/merchants-heart-two.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/merchants-heart.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 54058,
-		"inputAbbreviatedPath": "\/_site\/uploads\/merchants-heart.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/merchants-heart.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/popworks-feature.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 262912,
-		"inputAbbreviatedPath": "\/_site\/uploads\/popworks-feature.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/popworks-feature.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/popworks.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 61996,
-		"inputAbbreviatedPath": "\/_site\/uploads\/popworks.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/popworks.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/pow-feature.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 161234,
-		"inputAbbreviatedPath": "\/_site\/uploads\/pow-feature.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/pow-feature.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/pow.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 49875,
-		"inputAbbreviatedPath": "\/_site\/uploads\/pow.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/pow.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/qualcomm-feature.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 314989,
-		"inputAbbreviatedPath": "\/_site\/uploads\/qualcomm-feature.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/qualcomm-feature.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/qualcomm-one.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 89728,
-		"inputAbbreviatedPath": "\/_site\/uploads\/qualcomm-one.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/qualcomm-one.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/qualcomm-two.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 108078,
-		"inputAbbreviatedPath": "\/_site\/uploads\/qualcomm-two.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/qualcomm-two.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/qualcomm.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 168338,
-		"inputAbbreviatedPath": "\/_site\/uploads\/qualcomm.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/qualcomm.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/samsung-feature.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 142367,
-		"inputAbbreviatedPath": "\/_site\/uploads\/samsung-feature.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/samsung-feature.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/samsung.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 28311,
-		"inputAbbreviatedPath": "\/_site\/uploads\/samsung.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/samsung.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/slimfast-feature.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 224844,
-		"inputAbbreviatedPath": "\/_site\/uploads\/slimfast-feature.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/slimfast-feature.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/slimfast-one.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 82580,
-		"inputAbbreviatedPath": "\/_site\/uploads\/slimfast-one.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/slimfast-one.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/slimfast-two.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 39427,
-		"inputAbbreviatedPath": "\/_site\/uploads\/slimfast-two.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/slimfast-two.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/slimfast.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 80922,
-		"inputAbbreviatedPath": "\/_site\/uploads\/slimfast.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/slimfast.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/ventures\/happiness-school\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -995,6 +538,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/brand-love-apple.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 225090,
+		"inputAbbreviatedPath": "\/_uploads\/brand-love-apple.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/brand-love-apple.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/brand-love.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140021,
+		"inputAbbreviatedPath": "\/_uploads\/brand-love.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/brand-love.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/castrol-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1039,6 +604,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/earn-happiness-school.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 211618,
+		"inputAbbreviatedPath": "\/_uploads\/earn-happiness-school.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/earn-happiness-school.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/ee-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1079,6 +655,28 @@
 		"initialSize": 43392,
 		"inputAbbreviatedPath": "\/_uploads\/ee.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/ee.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/five-more-reasons.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 156601,
+		"inputAbbreviatedPath": "\/_uploads\/five-more-reasons.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/five-more-reasons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/future-marketers-toolkit.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 210887,
+		"inputAbbreviatedPath": "\/_uploads\/future-marketers-toolkit.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/future-marketers-toolkit.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1160,6 +758,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/launch-my-own-business.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 221511,
+		"inputAbbreviatedPath": "\/_uploads\/launch-my-own-business.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/launch-my-own-business.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/merchants-heart-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1200,6 +809,17 @@
 		"initialSize": 54058,
 		"inputAbbreviatedPath": "\/_uploads\/merchants-heart.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/merchants-heart.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/monster-beat-redbull.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121227,
+		"inputAbbreviatedPath": "\/_uploads\/monster-beat-redbull.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/monster-beat-redbull.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1354,6 +974,28 @@
 		"initialSize": 80922,
 		"inputAbbreviatedPath": "\/_uploads\/slimfast.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/slimfast.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/top-five-quotes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81454,
+		"inputAbbreviatedPath": "\/_uploads\/top-five-quotes.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/top-five-quotes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/top-five-reasons.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 189859,
+		"inputAbbreviatedPath": "\/_uploads\/top-five-reasons.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/top-five-reasons.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1616,22 +1258,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/assets\/scss\/_layout copy.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/scss\/_layout copy.scss",
-		"outputAbbreviatedPath": "\/assets\/css\/_layout copy.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
 	"\/assets\/scss\/_layout.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1727,6 +1353,27 @@
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/blog.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/blog.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/blog.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
 		},
 	"\/bower.json": {
 		"fileType": 524288,
@@ -15157,6 +14804,27 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/LICENSE.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/LICENSE.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/LICENSE.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/package.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -15175,8 +14843,8 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/projects.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/projects.html",

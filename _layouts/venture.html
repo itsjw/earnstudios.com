@@ -3,9 +3,9 @@ layout: light
 ---
 
 <!-- Hero -->
-<div class="project__hero tint" style="background-image: url({{page.feature-image}})">	
-<div class="row project__hero__text align-middle">
-	<div class="small-12 medium-8 large-7 columns">
+<div class="hero" style="background-image: url({{page.feature-image}})">	
+<div class="row hero__text align-middle">
+	<div class="small-12 medium-8 large-7 columns hero__text__inner animated fadeInUp">
 	<h1>{{page.carousel-text}}</h1>
 	</div>
 </div>
@@ -23,6 +23,17 @@ layout: light
 </div>
 <!-- End Intro -->
 
+{% if page.video %}
+<!-- Video -->
+<div class="row project__video project__step">
+<div class="small-12 medium-10 large-8 columns">
+	<div class="flex-video widescreen vimeo">
+	  <iframe src="https://player.vimeo.com/video/{{ page.video }}?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	</div>
+</div>
+</div>
+<!-- End Video -->
+{% endif %}
 
 </div>
 <!-- End Content -->

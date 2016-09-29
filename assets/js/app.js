@@ -1,6 +1,6 @@
 $(document).foundation();
 
-
+// Scroll
 $('a[href*="#"]:not([href="#"])').click(function() {
 if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
   var target = $(this.hash);
@@ -14,7 +14,8 @@ if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && lo
 }
 });
 
-$('.hero-carousel').flickity({
+// Carousel
+$('.carousel').flickity({
   // options
   contain: true,
   setGallerySize: false,
@@ -26,7 +27,7 @@ $('.hero-carousel').flickity({
 });
 
 
-
+// Tranistions
 wow = new WOW(
   {
   boxClass:     'wow',      // default
@@ -38,7 +39,7 @@ wow = new WOW(
 )
 wow.init();
 
-
+// Maps
 $('.maps').click(function () {
     $('.maps iframe').css("pointer-events", "auto");
 });
@@ -46,4 +47,3 @@ $('.maps').click(function () {
 $( ".maps" ).mouseleave(function() {
   $('.maps iframe').css("pointer-events", "none"); 
 });
-

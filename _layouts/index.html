@@ -18,7 +18,7 @@ layout: light
 
 <!-- Projects -->
 <div class="row expanded collapse">
-	{% assign projects = site.projects | sort: 'date' | reverse | where: "is-featured", "true" %}
+	{% assign projects = site.projects | sort: 'position' | where: "is-featured", "true" %}
 	{% for project in projects limit:9 %}
 	<div class="small-12 medium-6 large-6 columns">
 	{% include excerpt.html %}

@@ -20,6 +20,14 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    image: 
+    description: 
 url: http://earnstudios.com
 permalink: pretty
 gems:
@@ -35,12 +43,10 @@ exclude:
 - bower_components
 description: We are an entrepreneurial creative agency, our mission is to earn brand
   love with brave clients
-domain: http://earnstudios.com
 company: EARN Studios Limited
 email: hello@earnstudios.com
-linkedin: company/earn-media-limited
+linkedin: company/earn-studios-ltd
 vimeo: user29030585
-googleplus: 
 google_site_verification: rOPaFOZ15OwhQRVRAWah2G1u4wvP83iRa4XpIqkcJyg
 analytics: UA-84661141-1
 logo: "/assets/img/layout/logo.svg"
