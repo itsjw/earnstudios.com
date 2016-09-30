@@ -791,6 +791,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/earn-media-ehs-2016-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 217543,
+		"inputAbbreviatedPath": "\/_site\/uploads\/earn-media-ehs-2016-02.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/earn-media-ehs-2016-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/earn-media-ehs-2016-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138963,
+		"inputAbbreviatedPath": "\/_site\/uploads\/earn-media-ehs-2016-03.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/earn-media-ehs-2016-03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/ee-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1305,6 +1327,28 @@
 		"initialSize": 211618,
 		"inputAbbreviatedPath": "\/_uploads\/earn-happiness-school.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/earn-happiness-school.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/earn-media-ehs-2016-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 217543,
+		"inputAbbreviatedPath": "\/_uploads\/earn-media-ehs-2016-02.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/earn-media-ehs-2016-02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/earn-media-ehs-2016-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138963,
+		"inputAbbreviatedPath": "\/_uploads\/earn-media-ehs-2016-03.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/earn-media-ehs-2016-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

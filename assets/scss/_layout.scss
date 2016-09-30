@@ -224,6 +224,10 @@ i, cite, em, var, address, dfn {
      border-bottom: $color--dark-gray 1px solid;
       padding-bottom: 0.2rem;
    }
+   strong {
+      font-family: $header-font-family-medium;
+      color: $color--black;
+   }
 }
 
 // Page

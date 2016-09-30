@@ -8133,6 +8133,9 @@ i, cite, em, var, address, dfn {
   .post a:hover {
     border-bottom: #949494 1px solid;
     padding-bottom: 0.2rem; }
+  .post strong {
+    font-family: "Apercu-Medium", Helvetica, Roboto, Arial, sans-serif;
+    color: #222222; }
 
 .contact {
   padding: 3rem; }

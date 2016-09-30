@@ -5,7 +5,7 @@ image: "/uploads/earn-happiness-school.jpg"
 author: jamal_benmiloud
 ---
 
-On Monday 26 January (and not just any Monday, the Monday that many refer to as Blue Monday), EARN hosted their annual EARN Happiness School – an event designed to enlighten friends, clients and partners on the subject of happiness and positive psychology.
+#### On Monday 26 January (and not just any Monday, the Monday that many refer to as Blue Monday), EARN hosted their annual EARN Happiness School – an event designed to enlighten friends, clients and partners on the subject of happiness and positive psychology.
 
 This year’s event was the biggest yet - with over fifty attendees. Either word has spread, or people feel that now more than ever an extra dose of happiness is required and frankly, who are we to disagree?
 
