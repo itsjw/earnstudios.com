@@ -2,6 +2,7 @@
 title: Top five reasons why happy staff are good for business
 date: 2016-03-31 12:52:00 Z
 image: "/uploads/top-five-reasons.jpg"
+author: jamal_benmiloud
 ---
 
 Happiness at work is not rocket science; the research findings on what makes people happy at work are, for the most part, surprisingly ordinary. Having good work recognised, getting positive feedback and feeling respected all make a difference to how people feel about their work, so you could say that being a great boss is simple (although not necessarily easy) to do. 

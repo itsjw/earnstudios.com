@@ -2,6 +2,7 @@
 title: Why I quit the best job in the world to launch my own business
 date: 2016-04-11 12:51:00 Z
 image: "/uploads/launch-my-own-business.jpg"
+author: jamal_benmiloud
 ---
 
 Don’t worry; this won’t be a love story to myself. But with that said, I think it’s important for you to know a bit of my background before I get into the meat of this blog. 

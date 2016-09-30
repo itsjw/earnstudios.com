@@ -48,19 +48,13 @@ http://flickity.metafizzy.co
 
 .flickity-prev-next-button {
   position: absolute;
-  top: 50%;
-  width: 3rem;
-  height: 3rem;
-/*
-  border: none;
-  border-radius: 50%;
-  background: white;
-  background: hsla(0, 0%, 100%, 0.75);
-*/
+  bottom: 3.95rem;
+  left: 3.95rem;
+  
+  width: 2rem;
+  height: 2rem;
   cursor: pointer;
   /* vertically center */
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
           @include breakpoint(small only) {
 	display: none;
   	}
@@ -82,7 +76,7 @@ http://flickity.metafizzy.co
 }
 
 .flickity-prev-next-button.previous { left: 3rem; }
-.flickity-prev-next-button.next { right: 3rem; }
+.flickity-prev-next-button.next { left: 6rem; }
 /* right to left */
 .flickity-rtl .flickity-prev-next-button.previous {
   left: auto;

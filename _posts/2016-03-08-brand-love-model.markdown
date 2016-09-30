@@ -2,6 +2,7 @@
 title: Brand Love Model
 date: 2016-03-08 12:55:00 Z
 image: "/uploads/brand-love.jpg"
+author: jamal_benmiloud
 ---
 
 At EARN, we believe that there are three key drivers of brand love: **people, culture and metrics**. 

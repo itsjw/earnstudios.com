@@ -1,18 +1,4 @@
 @charset "UTF-8";
-/*
-a {
-  color: gray;
-  @include transition(color .3s ease);
-  &:hover {
-    color: black;
-  }
-}
-*/
-/*
-.faded-text {
-  @include opacity(0.8);
-}
-*/
 /*!
 Animate.css - http://daneden.me/animate
 Licensed under the MIT license - http://opensource.org/licenses/MIT
@@ -7799,19 +7785,12 @@ http://flickity.metafizzy.co
 /* ---- previous/next buttons ---- */
 .flickity-prev-next-button {
   position: absolute;
-  top: 50%;
-  width: 3rem;
-  height: 3rem;
-  /*
-    border: none;
-    border-radius: 50%;
-    background: white;
-    background: hsla(0, 0%, 100%, 0.75);
-  */
+  bottom: 3.95rem;
+  left: 3.95rem;
+  width: 2rem;
+  height: 2rem;
   cursor: pointer;
-  /* vertically center */
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%); }
+  /* vertically center */ }
   @media screen and (max-width: 39.9375em) {
     .flickity-prev-next-button {
       display: none; } }
@@ -7830,7 +7809,7 @@ http://flickity.metafizzy.co
   left: 3rem; }
 
 .flickity-prev-next-button.next {
-  right: 3rem; }
+  left: 6rem; }
 
 /* right to left */
 .flickity-rtl .flickity-prev-next-button.previous {
@@ -7921,7 +7900,11 @@ svg.icon.icon-envelop2 {
 
 .icon-arrow-up8 {
   font-size: 2rem;
-  color: #d7d7d7; }
+  color: #d7d7d7;
+  -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
+  transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+  .icon-arrow-up8:hover {
+    color: #222222; }
 
 .overlay {
   z-index: 1001;
@@ -7963,7 +7946,7 @@ svg.icon.icon-envelop2 {
     .overlay ul li {
       display: block;
       height: 25%;
-      height: calc(100% / 4);
+      height: calc(100% / 5);
       min-height: 3rem;
       position: relative;
       opacity: 0; }
@@ -8067,22 +8050,100 @@ i, cite, em, var, address, dfn {
   .missing a:hover {
     color: #222222; }
 
-.index-about-text {
+.index__about {
   padding: 3rem; }
   @media screen and (max-width: 39.9375em) {
-    .index-about-text {
+    .index__about {
       padding: 2rem; } }
 
-.index-about-text .link {
+.index__about .link {
   color: #FFD600;
   border-bottom: #FFD600 1px solid;
   padding-bottom: 0.25rem;
   -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
   transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+  .index__about .link:hover {
+    color: #222222;
+    padding-bottom: 0.5rem; }
 
-.index-about-text .link:hover {
-  color: #222222;
-  padding-bottom: 0.5rem; }
+.index__ventures {
+  padding: 3rem; }
+  @media screen and (max-width: 39.9375em) {
+    .index__ventures {
+      padding: 2rem; } }
+
+.index__blog {
+  background-color: #d7d7d7;
+  padding-top: 2rem;
+  padding-bottom: 2rem; }
+
+.index__blog__post {
+  position: relative; }
+  .index__blog__post img {
+    width: 100%;
+    opacity: 0.0;
+    -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
+    transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+  .index__blog__post:hover .excerpt__image:after {
+    -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
+    transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+  .index__blog__post:hover .index__blog__post__title p span {
+    border-bottom: #ffffff 1px solid;
+    padding-bottom: 0.5rem; }
+  .index__blog__post:hover img {
+    opacity: 1; }
+
+.index__blog__post__title {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 100%;
+  height: 100%;
+  padding: 2rem;
+  z-index: 1; }
+  .index__blog__post__title h5 {
+    color: #ffffff;
+    -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
+    transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+  .index__blog__post__title p {
+    color: #ffffff;
+    -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
+    transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+    .index__blog__post__title p span {
+      border-bottom: #FFFF00 1px solid;
+      padding-bottom: 0.25rem;
+      -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
+      transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+  @media screen and (max-width: 39.9375em) {
+    .index__blog__post__title {
+      padding: 2rem; } }
+
+.post {
+  padding-top: 3rem;
+  padding-bottom: 3rem; }
+  .post h3 {
+    padding-bottom: 2rem; }
+  .post h4 {
+    padding-top: 2rem; }
+  .post a {
+    border-bottom: #FFD600 1px solid;
+    padding-bottom: 0.1rem;
+    -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
+    transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+  .post a:hover {
+    border-bottom: #949494 1px solid;
+    padding-bottom: 0.2rem; }
+
+.contact {
+  padding: 3rem; }
+  @media screen and (max-width: 39.9375em) {
+    .contact {
+      padding: 2rem; } }
+
+.contact a {
+  color: #949494; }
+  .contact a:hover {
+    color: #222222; }
 
 .project__meta {
   padding-top: 2rem; }
@@ -8124,6 +8185,19 @@ i, cite, em, var, address, dfn {
   .hero h3 {
     font-family: "Apercu-Regular", Helvetica, Roboto, Arial, sans-serif;
     color: #FFD600; }
+
+.hero--blog {
+  height: 60vh; }
+  .hero--blog h2 {
+    font-family: "Apercu-Medium", Helvetica, Roboto, Arial, sans-serif;
+    color: #ffffff; }
+  .hero--blog a {
+    font-family: "Apercu-Medium", Helvetica, Roboto, Arial, sans-serif;
+    color: #ffffff; }
+
+.hero__date {
+  font-family: "Apercu-Medium", Helvetica, Roboto, Arial, sans-serif;
+  color: #FFD600; }
 
 @media screen and (max-width: 39.9375em) {
   .project__image__second {
@@ -8237,7 +8311,8 @@ footer {
   color: #949494;
   padding: 3rem; }
   footer a {
-    color: #222222; }
+    color: #222222;
+    display: block; }
   @media screen and (max-width: 39.9375em) {
     footer {
       padding: 2rem; } }
@@ -8246,6 +8321,20 @@ footer {
   padding-top: 2rem;
   padding-bottom: 3rem;
   font-size: 1rem; }
+
+.footer__top__address {
+  padding-bottom: 1rem; }
+
+.footer__top__contact {
+  padding-bottom: 1rem; }
+
+.footer__top__follow__newsletter {
+  padding-top: 2rem; }
+
+.footer__top__arrow a {
+  color: #949494; }
+.footer__top__arrow a:hover {
+  color: #222222; }
 
 footer .detail {
   padding-bottom: 1rem; }

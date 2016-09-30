@@ -3,6 +3,7 @@ title: Monster beat Red Bull without spending a penny on advertising – what we
   learned
 date: 2016-02-26 12:57:00 Z
 image: "/uploads/monster-beat-redbull.jpg"
+author: jamal_benmiloud
 ---
 
 Monster Energy drinks is… well… a monster, at least when it comes to marketing. Monster is a multi-billion dollar brand that, at times, has been more profitable per employee than Apple. Monster has grown its market share from nothing to a market lead of 36% of the US market, surpassing its rival, big-spender Red Bull and they did it without investing a penny in advertising. So, how did David manage to beat Goliath against all the odds?

@@ -121,23 +121,125 @@ i, cite, em, var, address, dfn {
 
 //Index
 
-.index-about-text {
+.index__about {
 	padding: 3rem;
 	@include breakpoint(small only) {
     padding: 2rem;
   	}
 }
 
-.index-about-text .link {
+.index__about .link {
     color: $color--amber;
     border-bottom: $color--amber 1px solid;
     padding-bottom: 0.25rem;
     transition: $primary-transition;
+    &:hover {
+    color: $color--black;
+    padding-bottom: 0.5rem;
+    }
 }
 
-.index-about-text .link:hover {
-	color: $color--black;
-  padding-bottom: 0.5rem;
+.index__ventures {
+	padding: 3rem;
+	@include breakpoint(small only) {
+    padding: 2rem;
+  	}
+}
+
+.index__blog {
+  background-color: $color--gray;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.index__blog__post {
+	position:relative;
+	
+  	img {
+      width:100%;
+      opacity:0.0;
+      transition: $primary-transition;
+    }
+    
+    &:hover .excerpt__image:after {
+        transition: $primary-transition;
+      }
+      
+    &:hover .index__blog__post__title {  
+        p span {
+        border-bottom: $color--white 1px solid;
+        padding-bottom: 0.5rem;
+        } 
+      } 
+    &:hover img {
+        opacity:1;
+      }
+}
+
+.index__blog__post__title  {
+  position:absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 100%;
+  height: 100%;
+  padding: 2rem;
+  z-index: 1;
+  
+    h5 {
+    color: $color--white;
+    transition: $primary-transition;
+    }
+  
+    p {
+    color: $color--white;
+    transition: $primary-transition;
+      span {
+      border-bottom: $color--yellow 1px solid;
+      padding-bottom: 0.25rem;
+      transition: $primary-transition;
+      }
+    }
+  
+    @include breakpoint(small only) {
+    padding: 2rem;
+    }
+}
+
+// Post 
+.post {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+   h3 {
+     padding-bottom: 2rem;
+   }
+   h4 {
+     padding-top: 2rem;
+   }
+   a {
+     border-bottom: $color--amber 1px solid;
+      padding-bottom: 0.1rem;
+      transition: $primary-transition;
+   }
+   a:hover {
+     border-bottom: $color--dark-gray 1px solid;
+      padding-bottom: 0.2rem;
+   }
+}
+
+// Page
+
+.contact {
+	padding: 3rem;
+	@include breakpoint(small only) {
+    padding: 2rem;
+  	}
+}
+
+.contact a {
+  color: $color--dark-gray;
+  &:hover {
+    color: $color--black;
+  }
 }
 
 // Project
@@ -195,6 +297,23 @@ i, cite, em, var, address, dfn {
     font-family: $header-font-family;
     color: $color--amber;
     }
+}
+
+.hero--blog {
+  height: 60vh;
+    h2 {
+    font-family: $header-font-family-medium;
+    color: $color--white;
+    }
+    a {
+    font-family: $header-font-family-medium;
+    color: $color--white;
+    }
+}
+
+.hero__date {
+  font-family: $header-font-family-medium;
+  color: $color--amber;
 }
 
 
@@ -348,6 +467,7 @@ footer {
 	padding: 3rem;
 	a {
     color: $color--black;
+    display: block;
     }
   @include breakpoint(small only) {
 	padding: 2rem;
@@ -358,6 +478,27 @@ footer {
 	padding-top: 2rem;
 	padding-bottom: 3rem;
 	font-size: 1rem;
+}
+
+.footer__top__address {
+  padding-bottom: 1rem;
+}
+
+.footer__top__contact {
+  padding-bottom: 1rem;
+}
+
+.footer__top__follow__newsletter {
+	padding-top: 2rem;
+}
+
+.footer__top__arrow {
+  a {
+    color: $color--dark-gray;
+    }
+    a:hover {
+    color: $color--black;
+    }
 }
 
 footer .detail {

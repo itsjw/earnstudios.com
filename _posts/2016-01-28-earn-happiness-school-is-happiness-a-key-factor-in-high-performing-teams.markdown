@@ -1,7 +1,8 @@
 ---
-title: EARN Happiness School - is happiness a key factor in high performing teams?
+title: Is happiness a key factor in high performing teams?
 date: 2016-01-28 13:02:00 Z
 image: "/uploads/earn-happiness-school.jpg"
+author: jamal_benmiloud
 ---
 
 On Monday 26 January (and not just any Monday, the Monday that many refer to as Blue Monday), EARN hosted their annual EARN Happiness School – an event designed to enlighten friends, clients and partners on the subject of happiness and positive psychology. 
@@ -14,7 +15,7 @@ Fuelled by the belief that a happier team would equate to a better performing, m
 
 We’re certainly not professing to uncover the definitive answer for how to be happy, but we do believe that being mindful of happiness and understanding more about it will lead to a more positive and fulfilling existence. 
 
-![earn-media-ehs-2016-02](/assets/earn-media-ehs-2016-02.jpg)
+![earn-media-ehs-2016-02](/uploads/earn-media-ehs-2016-02.jpg)
  
 Far better than us to try to explain the science behind happiness, we have worked with leading positive psychologist [Bridget Grenville-Cleave](https://twitter.com/bridgetgc) to co-create the EARN Happiness School and help develop the accompanying personal happiness tracker app – [How’s Your Day?](http://howsyourday.today/).
 

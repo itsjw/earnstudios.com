@@ -2,9 +2,10 @@
 title: Do companies even need creative agencies in the connection economy?
 date: 2016-01-22 13:03:00 Z
 image: "/uploads/castrol.jpg"
+author: jamal_benmiloud
 ---
 
-David Ogilvy, revered as the “Father of Advertising”, was a marketing genius. His ideas not only shaped advertising but business in the 20th century. His concepts were so effective in the 20th century that they are still paramount in how many companies operate today. But the dawn of social media in the 21st century completely overturned the marketing landscape in which Ogilvy’s strategies flourished. 
+#### David Ogilvy, revered as the “Father of Advertising”, was a marketing genius. His ideas not only shaped advertising but business in the 20th century. His concepts were so effective in the 20th century that they are still paramount in how many companies operate today. But the dawn of social media in the 21st century completely overturned the marketing landscape in which Ogilvy’s strategies flourished. 
 
 In the Ogilvy-era the creative agency did all the heavy lifting. They created the brand stories; they decided how brands would play out in the public conscious; they bought media space and spread stories through official, centralised channels. In the Ogilvy-era the goal was to create brand awareness.
 
@@ -13,12 +14,12 @@ The goal in the Connection Economy is to create Brand Love. Today, everyone is a
 In the Ogilvy-era, agencies were critical because brands were created outside the company, through dog and pony show’s like star-studded launches and publicity stunts. But Brand Love can’t be bought, it has to be earned. And brands need to be developed from the inside out. 
 There are three fundamentals to building Brand Love: people, culture and metrics. 
 
-##The Brand Love Model
+#### The Brand Love Model
 
-* People. Companies need people on their team who “get it”. They need people who love interacting. They need to recruit empathetic people with the same passions as their fans.
+* ##### People. Companies need people on their team who “get it”. They need people who love interacting. They need to recruit empathetic people with the same passions as their fans.
 
-* Culture. Companies need to create cultures that encourage fans to interact with each other as well as the company. 
+* ##### Culture. Companies need to create cultures that encourage fans to interact with each other as well as the company. 
 
-* Metrics. Companies need to use metrics that encourage relationship building. 
+* ##### Metrics. Companies need to use metrics that encourage relationship building. 
 
 So, back to the question at hand: “Do companies even need creative agencies in The Connection Economy?” Well, we can’t really answer that question with a simple yes or no. But we can say that no matter how much you spend on advertising, social media or product launches, your brand will always gravitate back towards the experience created by your People, Culture and Metrics. So if you’re going to work with an agency make sure you work with one that understands The Brand Love Model and that will work with you (not on your behalf) to co-create fan-centric products, experiences and content platforms.
