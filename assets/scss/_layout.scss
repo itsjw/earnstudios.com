@@ -228,6 +228,9 @@ i, cite, em, var, address, dfn {
       font-family: $header-font-family-medium;
       color: $color--black;
    }
+   img {
+     padding: 1rem;
+   }
 }
 
 // Page

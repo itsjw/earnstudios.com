@@ -15,6 +15,6 @@ Our belief is that, more often than not, brands should be investing their time a
 
 So, that’s our humble view but we’d love to hear your thoughts… is there anything you would add or change? What has your experience been around the importance of people, culture and marketing metrics?
 
-![Brand_Love_Main-1](/assets/Brand_Love_Main-1.png)  
+![brand-love.svg](/uploads/brand-love.svg)
 
 Follow EARN on [LinkedIn](https://www.linkedin.com/company/earn-media-limited)

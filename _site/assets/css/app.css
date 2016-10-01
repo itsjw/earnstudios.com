@@ -7946,7 +7946,7 @@ svg.icon.icon-envelop2 {
     .overlay ul li {
       display: block;
       height: 25%;
-      height: calc(100% / 5);
+      height: calc(100% / 6);
       min-height: 3rem;
       position: relative;
       opacity: 0; }
@@ -8136,6 +8136,8 @@ i, cite, em, var, address, dfn {
   .post strong {
     font-family: "Apercu-Medium", Helvetica, Roboto, Arial, sans-serif;
     color: #222222; }
+  .post img {
+    padding: 1rem; }
 
 .contact {
   padding: 3rem; }
