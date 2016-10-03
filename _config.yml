@@ -2,6 +2,9 @@
 title: EARN Studios
 timezone: UTC
 collections:
+  carousel:
+    title: Carousel
+    output: false
   posts:
     title: Posts
     output: true
@@ -14,9 +17,6 @@ collections:
   ventures:
     title: Ventures
     output: true
-  carousel:
-    title: Carousel
-    output: false
 defaults:
 - scope:
     path: ''
