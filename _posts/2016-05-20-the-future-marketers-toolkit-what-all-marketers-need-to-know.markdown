@@ -1,5 +1,5 @@
 ---
-title: 'The Future Marketer’s Toolkit: What All Marketers Need to Know'
+title: 'The Future Marketer’s Toolkit: what all marketers need to know'
 date: 2016-05-20 12:50:00 Z
 image: "/uploads/future-marketers-toolkit.jpg"
 author: jamal_benmiloud

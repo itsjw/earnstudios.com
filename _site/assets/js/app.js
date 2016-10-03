@@ -40,6 +40,7 @@ wow = new WOW(
 wow.init();
 
 // Maps
+/*
 $('.maps').click(function () {
     $('.maps iframe').css("pointer-events", "auto");
 });
@@ -47,3 +48,15 @@ $('.maps').click(function () {
 $( ".maps" ).mouseleave(function() {
   $('.maps iframe').css("pointer-events", "none"); 
 });
+*/
+
+
+/*
+$('#map').click(function () {
+    $('#map').css("pointer-events", "auto");
+});
+
+$( "#map" ).mouseleave(function() {
+  $('#map').css("pointer-events", "none"); 
+});
+*/

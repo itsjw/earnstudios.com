@@ -27,4 +27,4 @@ video: 183617169
 layout: project
 ---
 
-This is a brief overview of the project. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis.
+Working together with ERSA (the European Rotor Sports Association) we created an event that brings fans closer to the action of Drone Racing. Marrying the technologies of Qualcomm’s Snapdragon chip with EE 4Gee Action Cams over EE’s 4G network at the world famous Wembley Stadium, selected industry journalists were invited to experience the race as if they themselves were the pilots.

@@ -32,6 +32,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/bookrequest.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/bookrequest.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/carousel.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -732,6 +741,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/book.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 435488,
+		"inputAbbreviatedPath": "\/_site\/uploads\/book.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/book.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/brand-love-apple.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1268,6 +1288,17 @@
 		"initialSize": 353481,
 		"inputAbbreviatedPath": "\/_uploads\/about.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/about.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/book.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79085,
+		"inputAbbreviatedPath": "\/_uploads\/book.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/book.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

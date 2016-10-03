@@ -27,4 +27,4 @@ video: 114787800
 layout: project
 ---
 
-This is a brief overview of the project. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis.
+EARN Studios worked with Brazilian football superstar Neymar Jr. and motorsports king Ken Block to become Castrol ambassadors and co-create Castrol Footkhana, creating buzz and talkability for Castrol and helping them to become the most shared sponsor of the FIFA World Cup 2014.

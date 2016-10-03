@@ -8237,6 +8237,10 @@ i, cite, em, var, address, dfn {
     .project__pagination {
       padding: 2rem; } }
 
+.callout--pagination {
+  border: 2px solid #FFD600;
+  padding: 2rem 2rem 1rem 2rem; }
+
 .excerpt {
   position: relative; }
   .excerpt img {
@@ -8454,5 +8458,59 @@ footer .detail {
 label.middle {
   margin-bottom: 0rem;
   padding-bottom: 0rem; }
+
+.hero--book {
+  height: 70vh;
+  background-position: center center; }
+  .hero--book:before {
+    background-color: transparent; }
+
+.hero__text__inner--book h3 {
+  color: #222222; }
+
+.book {
+  padding: 3rem; }
+  @media screen and (max-width: 39.9375em) {
+    .book {
+      padding: 2rem; } }
+
+.book__section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  border-bottom: 1px solid #d7d7d7; }
+
+.book__section--first {
+  padding-top: 0rem; }
+
+.book__section--last {
+  padding-bottom: 0rem;
+  border-bottom: 0px solid #d7d7d7; }
+
+.points h5 {
+  color: #949494;
+  padding-bottom: 1rem; }
+
+.point {
+  margin: 0 0 1rem;
+  padding: 0.5625rem 1.25rem 0 1.1875rem;
+  border-left: 2px solid #FFD600; }
+
+#map {
+  height: 50vh;
+  width: 100%; }
+
+/*
+.gm-style-iw * {
+    display: block;
+    width: 100%;
+}
+.gm-style-iw h4, .gm-style-iw p {
+    margin: 0;
+    padding: 0;
+}
+.gm-style-iw a {
+    color: #4272db;
+}
+*/
 
 /*# sourceMappingURL=app.css.map */

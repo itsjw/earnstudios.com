@@ -1,11 +1,11 @@
 <div class="carousel">
-  {% assign slide_documents = site.projects | sort: 'date' | reverse | where: "is-carousel", "true" %}
+  {% assign slide_documents = site.carousel | sort: 'position' | reverse | where: "is-carousel", "true" %}
   {% for slide in slide_documents %}
     <div class="carousel__cell" style="background-image: url({{slide.feature-image}})">
       <div class="row carousel__cell__text align-middle">
         <div class="small-12 medium-9 large-7 columns animated fadeInUp">
-          <h1><a href="{{ slide.url }}">{{slide.carousel-text}}</a></h1>
-          <p><a href="{{ slide.url }}">View Project</a></p>
+          <h1><a href="{{ slide.link }}">{{slide.carousel-text}}</a></h1>
+          <p><a href="{{ slide.link }}">View</a></p>
         </div>
       </div>
     </div>
