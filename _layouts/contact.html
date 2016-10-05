@@ -13,7 +13,7 @@ layout: dark
     var map;
     function init() {
         var mapOptions = {
-            center: new google.maps.LatLng(51.517883,-0.090514),
+            center: new google.maps.LatLng(51.517947, -0.090275),
             zoom: 16,
             zoomControl: true,
             zoomControlOptions: {
@@ -156,7 +156,7 @@ layout: dark
         var mapElement = document.getElementById('map');
         var map = new google.maps.Map(mapElement, mapOptions);
         var locations = [
-['EARN Studios', 'undefined', '+44 (0)20 3318 8227', 'hello@earnstudios.com', 'http://earnstudios.com', 51.5177409, -0.090444899999966, 'https://mapbuildr.com/assets/img/markers/solid-pin-orange.png']
+['EARN Studios', 'undefined', '+44 (0)20 3318 8227', 'hello@earnstudios.com', 'http://earnstudios.com', 51.517947, -0.090275, 'https://mapbuildr.com/assets/img/markers/solid-pin-orange.png']
         ];
         for (i = 0; i < locations.length; i++) {
 			if (locations[i][1] =='undefined'){ description ='';} else { description = locations[i][1];}
@@ -272,7 +272,6 @@ United Kingdom</a><h5>
 	Registered No. 08277190<br>
 	Registered in England & Wales.<br>
   19 Springfield Road, Windsor, Berks SL4 3PP<br>
-  VAT number: 153 3374 22
 	</div>
 </div>
 <!-- End Careers -->

@@ -7895,6 +7895,9 @@ Example showing how to change the color/size of the icons:
 .icon-logo {
   font-size: 3rem; }
 
+.icon-logo--footer {
+  font-size: 2rem; }
+
 svg.icon.icon-envelop2 {
   vertical-align: text-bottom; }
 
@@ -8375,7 +8378,7 @@ footer .detail {
     height: 100%;
     display: block;
     z-index: 0;
-    background-color: rgba(0, 0, 0, 0.2); }
+    background-color: transparent; }
   .carousel__cell__text {
     padding: 3rem;
     height: 100%; }
@@ -8391,6 +8394,12 @@ footer .detail {
     .carousel__cell p a:hover {
       color: #FFD600;
       padding-bottom: 0.5rem; }
+
+.carousel__cell--light:before {
+  background-color: rgba(0, 0, 0, 0.1); }
+
+.carousel__cell--dark:before {
+  background-color: rgba(0, 0, 0, 0.3); }
 
 .hero-arrow {
   position: absolute;

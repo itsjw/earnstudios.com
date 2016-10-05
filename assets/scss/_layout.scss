@@ -556,7 +556,7 @@ footer .detail {
       height:100%;
       display: block;
       z-index:0;
-      background-color: rgba(0,0,0,0.2);
+      background-color: rgba(0,0,0,0.0);
     }
     
     &__text {
@@ -579,7 +579,13 @@ footer .detail {
     }
 }
 
+.carousel__cell--light:before {
+   background-color: rgba(0,0,0,0.1);
+}
 
+.carousel__cell--dark:before {
+   background-color: rgba(0,0,0,0.3);
+}
 
 .hero-arrow {
 	position: absolute;
