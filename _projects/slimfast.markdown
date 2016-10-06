@@ -27,7 +27,7 @@ results-text: |-
   Over 20,000 registrations for the SlimFast Challenge via the newly created app.
 
   Over 1,000 active and vocal Facebook group members; helping to establish a community around the brand supporting each other and engaging with SlimFast.
-video:
+video: 
 layout: project
 ---
 

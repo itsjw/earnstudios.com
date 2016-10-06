@@ -8,7 +8,7 @@ company: Huel
 is-featured: 
 excerpt-text: The future of food
 is-carousel: 
-carousel-text: The future of food
+carousel-text: 'Huel: the future of food'
 video: 
 layout: venture
 ---
