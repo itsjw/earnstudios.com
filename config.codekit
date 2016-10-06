@@ -257,6 +257,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/people.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/people.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/post.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -646,6 +655,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
+	"\/_site\/people\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/people\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/projects\/castrol\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -990,6 +1008,17 @@
 		"initialSize": 45930,
 		"inputAbbreviatedPath": "\/_site\/uploads\/itv.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/itv.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/jamal-benmiloud.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96233,
+		"inputAbbreviatedPath": "\/_site\/uploads\/jamal-benmiloud.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/jamal-benmiloud.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1541,6 +1570,17 @@
 		"initialSize": 45930,
 		"inputAbbreviatedPath": "\/_uploads\/itv.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/itv.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/jamal-benmiloud.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96233,
+		"inputAbbreviatedPath": "\/_uploads\/jamal-benmiloud.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/jamal-benmiloud.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15643,6 +15683,27 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
+		},
+	"\/people.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/people.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/people.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
 		},
 	"\/projects.md": {
 		"criticStyle": 0,

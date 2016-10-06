@@ -17,6 +17,9 @@ collections:
   ventures:
     title: Ventures
     output: true
+  people:
+    title: People
+    output: false
 defaults:
 - scope:
     path: ''

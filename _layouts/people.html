@@ -1,0 +1,33 @@
+---
+layout: dark
+---
+
+<!-- Content -->
+<div class="row expanded collapse">
+	{% assign people = site.people | sort: 'position' %}
+	{% for person in people %}
+	<div class="small-12 medium-6 large-6 columns">
+
+<a href="{{ project.url }}">
+  <div class="excerpt">
+
+    <!-- Title -->
+    <div class="excerpt__title wow fadeInUp">
+    <h3>{{ person.title }}</h3>
+    <p><span>{{site.view_project}}</span></p>
+    </div>
+    <!-- End Title -->
+    
+    <!-- Image -->
+    <div class="excerpt__image">
+    <img src="{{person.image}}" alt="{{person.title}}" />
+    </div>
+    <!-- End Image -->
+
+  </div>
+</a>
+
+	</div>
+	{% endfor %}
+</div>
+<!-- End Content -->
