@@ -1,6 +1,6 @@
 ---
 title: Agostina Capria
-position: 5
+position: 6
 image: 
 job-title: Marketing Executive
 linkedin: agostina-capria
