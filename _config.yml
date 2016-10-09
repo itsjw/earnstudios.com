@@ -5,6 +5,9 @@ collections:
   carousel:
     title: Carousel
     output: false
+  people:
+    title: People
+    output: false
   posts:
     title: Posts
     output: true
@@ -17,9 +20,6 @@ collections:
   ventures:
     title: Ventures
     output: true
-  people:
-    title: People
-    output: false
 defaults:
 - scope:
     path: ''
