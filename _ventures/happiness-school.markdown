@@ -11,9 +11,8 @@ is-carousel:
 carousel-text: Be happy. Do more. It’s science.
 video: 132029294
 layout: venture
+intro: Whether it’s in the work place or elsewhere in our lives, the benefits of happiness are obvious. Happy people earn more and live longer, because they’re more productive - and thus – more fulfilled. 
 ---
-
-Whether it’s in the work place or elsewhere in our lives, the benefits of happiness are obvious. Happy people earn more and live longer, because they’re more productive - and thus – more fulfilled. 
 
 Well-being at work often gets overlooked – but why? And at what cost? 
 

@@ -2,8 +2,16 @@
 layout: dark
 ---
 
-<!-- Content -->
-<div class="row expanded collapse small-up-1 medium-up-2 large-up-3">
+<!-- Key People Intro -->
+<div class="row people__key__intro">
+  <div class="small-12 medium-10 large-9 columns wow fadeIn">
+    <h3>Key People</h3>
+  </div>
+</div>
+<!-- End Key People Intro -->
+
+<!-- Key People -->
+<div class="row expanded collapse small-up-1 medium-up-2 large-up-3 people__key">
   {% assign people = site.people | sort: 'position' %}
   {% for person in people %}
     <!-- Person -->
@@ -33,7 +41,7 @@ layout: dark
     </div>
     <!-- End Person -->
 <!-- Reveal -->
-<div class="reveal" id="{{ person.title | slugify }}" data-reveal>
+<div class="reveal person__reveal" id="{{ person.title | slugify }}" data-reveal>
   <h3>{{ person.title }}</h3>
   <h5>{{ person.job-title }}</h5>
   <p>{{ person.content }}</p>
@@ -45,4 +53,47 @@ layout: dark
 <!-- End Reveal -->
   {% endfor %}
 </div>
-<!-- End Content -->
+<!-- End Key People -->
+
+<!-- Friends Intro -->
+<div class="row people__friends__intro">
+  <div class="small-12 medium-10 large-9 columns wow fadeIn">
+    <h3>Friends</h3>
+    <p>We work with an extended network of inspiring collaborators from around the world who are the best and brightest at what they do. We work with each of them on a project-by-project basis, to ensure that each team we allocate to a project from your brand is exactly the right fit. Here’s a few of them…</p>
+  </div>
+</div>
+<!-- End Friends Intro -->
+
+<!-- Friends -->
+<div class="row expanded collapse small-up-1 medium-up-2 large-up-3 people__friends">
+  {% assign friends = site.friends | sort: 'position' %}
+  {% for friend in friends %}
+    <!-- Friend -->
+    <div class="column">
+              
+      <a href="{{ friend.link }}" target="_blank">  
+      <div class="excerpt">
+      <!-- Title -->
+      <div class="excerpt__title wow fadeInUp">
+      <h3>{{ friend.title }}</h3>
+      </div>
+      <!-- End Title -->
+      
+      <!-- Image -->
+      <div class="excerpt__image">
+
+{% if {{friend.image}} %}
+<img src="{{friend.image}}" alt="{{friend.title}}" />
+{% else %}
+<img src="/uploads/blank.svg" alt="{{friend.title}}" />
+{% endif %}
+
+      </div>
+      <!-- End Image -->
+      </div>
+      </a>
+    </div>
+    <!-- End Friend -->
+  {% endfor %}
+</div>
+<!-- End Friends -->

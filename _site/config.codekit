@@ -759,6 +759,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/bad-mood-films.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67450,
+		"inputAbbreviatedPath": "\/_site\/uploads\/bad-mood-films.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/bad-mood-films.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/black-sparrow-presents.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109598,
+		"inputAbbreviatedPath": "\/_site\/uploads\/black-sparrow-presents.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/black-sparrow-presents.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/book.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -832,6 +854,17 @@
 		"initialSize": 85947,
 		"inputAbbreviatedPath": "\/_site\/uploads\/castrol.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/castrol.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/cheekyfire.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140269,
+		"inputAbbreviatedPath": "\/_site\/uploads\/cheekyfire.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/cheekyfire.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -920,6 +953,17 @@
 		"initialSize": 156601,
 		"inputAbbreviatedPath": "\/_site\/uploads\/five-more-reasons.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/five-more-reasons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/fizz-pop-bang.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 136494,
+		"inputAbbreviatedPath": "\/_site\/uploads\/fizz-pop-bang.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/fizz-pop-bang.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1276,6 +1320,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/the-adventurists.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88714,
+		"inputAbbreviatedPath": "\/_site\/uploads\/the-adventurists.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/the-adventurists.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/the-genius-box.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63185,
+		"inputAbbreviatedPath": "\/_site\/uploads\/the-genius-box.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/the-genius-box.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/top-five-quotes.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1365,6 +1431,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/bad-mood-films.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67450,
+		"inputAbbreviatedPath": "\/_uploads\/bad-mood-films.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/bad-mood-films.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/black-sparrow-presents.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109598,
+		"inputAbbreviatedPath": "\/_uploads\/black-sparrow-presents.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/black-sparrow-presents.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/book.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1438,6 +1526,17 @@
 		"initialSize": 85947,
 		"inputAbbreviatedPath": "\/_uploads\/castrol.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/castrol.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/cheekyfire.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140269,
+		"inputAbbreviatedPath": "\/_uploads\/cheekyfire.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/cheekyfire.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1526,6 +1625,17 @@
 		"initialSize": 156601,
 		"inputAbbreviatedPath": "\/_uploads\/five-more-reasons.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/five-more-reasons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/fizz-pop-bang.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 136494,
+		"inputAbbreviatedPath": "\/_uploads\/fizz-pop-bang.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/fizz-pop-bang.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1878,6 +1988,28 @@
 		"initialSize": 80922,
 		"inputAbbreviatedPath": "\/_uploads\/slimfast.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/slimfast.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/the-adventurists.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88714,
+		"inputAbbreviatedPath": "\/_uploads\/the-adventurists.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/the-adventurists.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/the-genius-box.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63185,
+		"inputAbbreviatedPath": "\/_uploads\/the-genius-box.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/the-genius-box.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
