@@ -338,6 +338,10 @@ i, cite, em, var, address, dfn {
   	}
 }
 
+.project__images img {
+  padding-bottom: 2rem;
+}
+
 .project__content a {
   color: $color--dark-gray;
   &:hover {
@@ -378,7 +382,10 @@ i, cite, em, var, address, dfn {
   background-color: $color--lighter-gray;
   padding: 2rem 2rem 1rem 2rem;
   width: 100%;
-  @include float
+  @include float;
+  &:hover {
+    background-color: $color--black;
+  }
 }
 
 
@@ -741,11 +748,11 @@ border-left: 2px solid $color--amber;
 // People
 
 .people__key {
-  background-color: $color--lightest-gray;
+  background-color: $color--dark-gray;
 }
 
 .people__friends {
-  background-color: $color--lightest-gray;
+  background-color: $color--dark-gray;
 }
 
 .people__key__intro {

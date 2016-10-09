@@ -3,7 +3,11 @@ title: Huel
 date: 2013-09-12 00:00:00 Z
 image: "/uploads/huel.jpg"
 feature-image: "/uploads/huel-feature.jpg"
-images: 
+images:
+- "/uploads/huel-one.jpg"
+- "/uploads/huel-two.jpg"
+- "/uploads/huel-three.jpg"
+- "/uploads/huel-four.jpg"
 company: Huel
 is-featured: 
 excerpt-text: The future of food

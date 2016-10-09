@@ -8217,6 +8217,9 @@ i, cite, em, var, address, dfn {
     .project__content {
       padding: 2rem; } }
 
+.project__images img {
+  padding-bottom: 2rem; }
+
 .project__content a {
   color: #949494; }
   .project__content a:hover {
@@ -8268,6 +8271,8 @@ i, cite, em, var, address, dfn {
   .pagination:hover, .pagination:focus, .pagination:active {
     -webkit-transform: translateY(-8px);
     transform: translateY(-8px); }
+  .pagination:hover {
+    background-color: #222222; }
 
 .excerpt {
   position: relative; }
@@ -8534,10 +8539,10 @@ label.middle {
   width: 100%; }
 
 .people__key {
-  background-color: #fcfcfc; }
+  background-color: #949494; }
 
 .people__friends {
-  background-color: #fcfcfc; }
+  background-color: #949494; }
 
 .people__key__intro {
   padding: 1rem 3rem 3rem 3rem; }

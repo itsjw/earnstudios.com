@@ -4,9 +4,8 @@ date: 2013-09-12 00:00:00 Z
 image: "/uploads/pow.jpg"
 feature-image: "/uploads/pow-feature.jpg"
 images:
-- "/uploads/castrol-one.jpg"
-- "/uploads/castrol-two.jpg"
-- "/uploads/slimfast-two.jpg"
+- "/uploads/pow-one.jpg"
+- "/uploads/pow-two.jpg"
 company: POW Energy Water
 is-featured: true
 excerpt-text: We also dream big and experiment small for ourselves

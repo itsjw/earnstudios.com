@@ -28,8 +28,8 @@ layout: light
 
 {% if page.video %}
 <!-- Video -->
-<div class="row project__video project__step">
-<div class="small-12 medium-10 large-8 columns">
+<div class="row align-center project__video project__step">
+<div class="small-12 medium-12 large-12 columns">
 	<div class="flex-video widescreen vimeo">
 	  <iframe src="https://player.vimeo.com/video/{{ page.video }}?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 	</div>
@@ -37,6 +37,18 @@ layout: light
 </div>
 <!-- End Video -->
 {% endif %}
+
+<!-- Images -->
+{% if page.images %}
+<div class="row project__images small-up-1 medium-up-2 large-up-2">
+{% for image in page.images %}
+<div class="column">
+<img src="{{image}}" />
+</div>
+{% endfor %}
+</div>
+{% endif %}
+<!-- End Images -->
 
 </div>
 <!-- End Content -->

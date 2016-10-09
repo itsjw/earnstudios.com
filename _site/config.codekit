@@ -990,6 +990,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/happiness-school-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100420,
+		"inputAbbreviatedPath": "\/_site\/uploads\/happiness-school-one.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/happiness-school-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/happiness-school-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69474,
+		"inputAbbreviatedPath": "\/_site\/uploads\/happiness-school-two.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/happiness-school-two.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/happiness-school.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1030,6 +1052,50 @@
 		"initialSize": 155414,
 		"inputAbbreviatedPath": "\/_site\/uploads\/huel-feature.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/huel-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/huel-four.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62908,
+		"inputAbbreviatedPath": "\/_site\/uploads\/huel-four.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/huel-four.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/huel-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46954,
+		"inputAbbreviatedPath": "\/_site\/uploads\/huel-one.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/huel-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/huel-three.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110167,
+		"inputAbbreviatedPath": "\/_site\/uploads\/huel-three.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/huel-three.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/huel-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57183,
+		"inputAbbreviatedPath": "\/_site\/uploads\/huel-two.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/huel-two.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1195,6 +1261,28 @@
 		"initialSize": 230023,
 		"inputAbbreviatedPath": "\/_site\/uploads\/pow-feature.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/pow-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/pow-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56610,
+		"inputAbbreviatedPath": "\/_site\/uploads\/pow-one.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/pow-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/pow-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75795,
+		"inputAbbreviatedPath": "\/_site\/uploads\/pow-two.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/pow-two.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1662,6 +1750,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/happiness-school-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100420,
+		"inputAbbreviatedPath": "\/_uploads\/happiness-school-one.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/happiness-school-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/happiness-school-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69474,
+		"inputAbbreviatedPath": "\/_uploads\/happiness-school-two.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/happiness-school-two.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/happiness-school.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1702,6 +1812,50 @@
 		"initialSize": 155414,
 		"inputAbbreviatedPath": "\/_uploads\/huel-feature.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/huel-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/huel-four.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62908,
+		"inputAbbreviatedPath": "\/_uploads\/huel-four.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/huel-four.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/huel-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46954,
+		"inputAbbreviatedPath": "\/_uploads\/huel-one.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/huel-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/huel-three.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110167,
+		"inputAbbreviatedPath": "\/_uploads\/huel-three.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/huel-three.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/huel-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57183,
+		"inputAbbreviatedPath": "\/_uploads\/huel-two.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/huel-two.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1867,6 +2021,28 @@
 		"initialSize": 161234,
 		"inputAbbreviatedPath": "\/_uploads\/pow-feature.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/pow-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/pow-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56610,
+		"inputAbbreviatedPath": "\/_uploads\/pow-one.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/pow-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/pow-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75795,
+		"inputAbbreviatedPath": "\/_uploads\/pow-two.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/pow-two.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

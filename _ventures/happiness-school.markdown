@@ -3,7 +3,9 @@ title: Happiness School
 date: 2013-09-12 00:00:00 Z
 image: "/uploads/happiness-school.jpg"
 feature-image: "/uploads/happiness-school-feature.jpg"
-images: 
+images:
+- "/uploads/happiness-school-one.jpg"
+- "/uploads/happiness-school-two.jpg"
 company: EARN
 is-featured: 
 excerpt-text: Be happy. Do more. It’s science.
