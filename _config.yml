@@ -5,11 +5,11 @@ collections:
   carousel:
     title: Carousel
     output: false
-  people:
-    title: People
-    output: false
   friends:
     title: Friends
+    output: false
+  people:
+    title: People
     output: false
   posts:
     title: Posts
