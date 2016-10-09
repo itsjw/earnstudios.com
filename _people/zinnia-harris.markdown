@@ -1,5 +1,6 @@
 ---
 title: Zinnia Harris
+position: 2
 image: "/uploads/zinnia-harris.jpg"
 job-title: MD & Head of Strategy
 linkedin: zinnia-harris
