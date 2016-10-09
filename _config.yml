@@ -9,7 +9,7 @@ collections:
     title: People
     output: false
   friends:
-    title: People
+    title: Friends
     output: false
   posts:
     title: Posts
