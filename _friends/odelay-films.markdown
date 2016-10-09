@@ -1,6 +1,7 @@
 ---
 title: Odelay Films
 position: 4
-image:
+image: 
 link: http://odelayfilms.com
 ---
+
