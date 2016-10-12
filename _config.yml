@@ -41,63 +41,61 @@ defaults:
     path: ''
     type: projects
   values:
-    layout: project
-    image:
-    feature-image:
+    layout: 
+    image: 
+    feature-image: 
     images:
-      -
-    company:
-    is-featured:
-    excerpt-text:
+    - 
+    company: 
+    is-featured: 
+    excerpt-text: 
     is-carousel: 
-    carousel-text:
-    quote:
-    quote-cite:
-    brief-text:
-    solution-text:
-    results-text:
-    video:
-    layout:
+    carousel-text: 
+    quote: 
+    quote-cite: 
+    brief-text: 
+    solution-text: 
+    results-text: 
+    video: 
 - scope:
     path: ''
     type: carousel
   values:
-    feature-image:
-    is-carousel:
-    carousel-text:
-    link:
-    has_lightoverlay:
-    has_darkoverlay:
+    feature-image: 
+    is-carousel: 
+    carousel-text: 
+    link: 
+    has_lightoverlay: 
+    has_darkoverlay: 
 - scope:
     path: ''
     type: friends
   values:
-    image:
-    link:
+    image: 
+    link: 
 - scope:
     path: ''
     type: people
   values:
     image: 
-    job-title:
-    linkedin:
+    job-title: 
+    linkedin: 
 - scope:
     path: ''
     type: ventures
   values:
-    layout: venture
-    image:
-    feature-image:
+    layout: 
+    image: 
+    feature-image: 
     images:
-      -
-    company:
+    - 
+    company: 
     is-featured: 
-    excerpt-text:
+    excerpt-text: 
     is-carousel: 
-    carousel-text:
-    video:
-    layout:
-    intro:
+    carousel-text: 
+    video: 
+    intro: 
 url: http://earnstudios.com
 permalink: pretty
 gems:
