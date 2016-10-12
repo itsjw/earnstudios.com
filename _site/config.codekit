@@ -1397,6 +1397,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/samsung.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16179,
+		"inputAbbreviatedPath": "\/_site\/uploads\/samsung.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/samsung.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/slimfast-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

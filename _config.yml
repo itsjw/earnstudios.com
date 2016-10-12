@@ -37,6 +37,27 @@ defaults:
     layout: post
     image: 
     description: 
+- scope:
+    path: ''
+    type: projects
+  values:
+    layout: projects
+    image:
+    feature-image:
+    images:
+      -
+    company:
+    is-featured:
+    excerpt-text:
+    is-carousel: 
+    carousel-text:
+    quote:
+    quote-cite:
+    brief-text:
+    solution-text:
+    results-text:
+    video:
+    layout:
 url: http://earnstudios.com
 permalink: pretty
 gems:
