@@ -36,7 +36,7 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     image: 
-    author:
+    author: 
 - scope:
     path: ''
     type: projects
