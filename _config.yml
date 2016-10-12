@@ -41,23 +41,22 @@ defaults:
     path: ''
     type: projects
   values:
-    layout: projects
-    image:
-    feature-image:
+    layout: 
+    image: 
+    feature-image: 
     images:
-      -
-    company:
-    is-featured:
-    excerpt-text:
+    - 
+    company: 
+    is-featured: 
+    excerpt-text: 
     is-carousel: 
-    carousel-text:
-    quote:
-    quote-cite:
-    brief-text:
-    solution-text:
-    results-text:
-    video:
-    layout:
+    carousel-text: 
+    quote: 
+    quote-cite: 
+    brief-text: 
+    solution-text: 
+    results-text: 
+    video: 
 url: http://earnstudios.com
 permalink: pretty
 gems:
