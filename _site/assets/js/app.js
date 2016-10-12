@@ -1,5 +1,7 @@
 $(document).foundation();
 
+$('body').removeClass('fade-out');
+
 // Scroll
 $('a[href*="#"]:not([href="#"])').click(function() {
 if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -38,25 +40,3 @@ wow = new WOW(
 }
 )
 wow.init();
-
-// Maps
-/*
-$('.maps').click(function () {
-    $('.maps iframe').css("pointer-events", "auto");
-});
-
-$( ".maps" ).mouseleave(function() {
-  $('.maps iframe').css("pointer-events", "none"); 
-});
-*/
-
-
-/*
-$('#map').click(function () {
-    $('#map').css("pointer-events", "auto");
-});
-
-$( "#map" ).mouseleave(function() {
-  $('#map').css("pointer-events", "none"); 
-});
-*/

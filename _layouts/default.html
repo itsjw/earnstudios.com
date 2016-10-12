@@ -5,7 +5,11 @@
 {% include head.html %}
 <!-- End Head -->
 
-<body id="top">
+<body id="top" class="animated fadeIn">
+  
+{% if page.url == "/" %}
+<script>document.body.className += ' fade-out';</script>
+{% endif %}
 
 <!-- Menu -->  
 {% include overlay-menu.html %}

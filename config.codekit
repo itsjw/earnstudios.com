@@ -1353,11 +1353,55 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/samsung-four.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50223,
+		"inputAbbreviatedPath": "\/_site\/uploads\/samsung-four.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/samsung-four.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/samsung-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65838,
+		"inputAbbreviatedPath": "\/_site\/uploads\/samsung-one.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/samsung-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/samsung-three.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38177,
+		"inputAbbreviatedPath": "\/_site\/uploads\/samsung-three.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/samsung-three.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/samsung-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48047,
+		"inputAbbreviatedPath": "\/_site\/uploads\/samsung-two.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/samsung-two.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/samsung.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 28311,
+		"initialSize": 16179,
 		"inputAbbreviatedPath": "\/_site\/uploads\/samsung.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/samsung.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2109,6 +2153,50 @@
 		"initialSize": 142367,
 		"inputAbbreviatedPath": "\/_uploads\/samsung-feature.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/samsung-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/samsung-four.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50223,
+		"inputAbbreviatedPath": "\/_uploads\/samsung-four.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/samsung-four.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/samsung-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65838,
+		"inputAbbreviatedPath": "\/_uploads\/samsung-one.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/samsung-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/samsung-three.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38177,
+		"inputAbbreviatedPath": "\/_uploads\/samsung-three.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/samsung-three.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/samsung-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48047,
+		"inputAbbreviatedPath": "\/_uploads\/samsung-two.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/samsung-two.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

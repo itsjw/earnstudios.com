@@ -7977,6 +7977,16 @@ svg.icon.icon-envelop2 {
 body {
   cursor: default; }
 
+body {
+  opacity: 1;
+  -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
+  transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+
+body.fade-out {
+  opacity: 0;
+  -webkit-transition: none;
+  transition: none; }
+
 svg {
   max-width: 100%; }
 
@@ -8030,7 +8040,7 @@ i, cite, em, var, address, dfn {
   position: absolute;
   top: 3rem;
   right: 3rem;
-  z-index: 5000; }
+  z-index: 1004; }
   .navigation__right a {
     color: #ffffff; }
   .navigation__right a:hover {

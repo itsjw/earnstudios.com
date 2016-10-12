@@ -12,6 +12,16 @@ body {
   cursor: default;
 }
 
+body {
+    opacity: 1;
+    transition: $primary-transition;
+}
+
+body.fade-out {
+    opacity: 0;
+    transition: none;
+}
+
 svg {
   max-width: 100%;
 }
@@ -79,7 +89,7 @@ i, cite, em, var, address, dfn {
   position: absolute;
   top: 3rem;
   right: 3rem;
-	z-index: 5000;
+	z-index: 1004;
 
   a {
     color: $color--white;
@@ -205,7 +215,8 @@ i, cite, em, var, address, dfn {
     }
 }
 
-// Post 
+// 5. Post 
+
 .post {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -233,7 +244,7 @@ i, cite, em, var, address, dfn {
    }
 }
 
-// Page
+// 6. Page
 
 .contact {
 	padding: 3rem;
@@ -249,7 +260,7 @@ i, cite, em, var, address, dfn {
   }
 }
 
-// Project
+// 7. Project
 
 .project__meta {
 	padding-top: 2rem;
@@ -371,7 +382,7 @@ i, cite, em, var, address, dfn {
   	}
 }
 
-// Pagination
+// 8. Pagination
 
 .callout--pagination {
   border: 2px solid $color--amber;
@@ -389,7 +400,7 @@ i, cite, em, var, address, dfn {
 }
 
 
-// Excerpt
+// 9. Excerpt
 
 .excerpt {
 	position:relative;
@@ -458,7 +469,7 @@ i, cite, em, var, address, dfn {
 }
 
 
-// About
+// 10. About
 
 .about__content {
 	font-family: $header-font-family;
@@ -487,7 +498,7 @@ i, cite, em, var, address, dfn {
   padding-top: 2rem;
 }
 
-// Footer
+// 11. Footer
 
 footer {
 	background-color: $color--lighter-gray;
@@ -539,7 +550,7 @@ footer .detail {
     }
 }
 
-//Carousel
+// 12. Carousel
 
 .carousel {
   height: 85vh;
@@ -621,7 +632,7 @@ footer .detail {
 	position: relative;
 }
 
-// Contact
+// 13. Contact
 .contact-new-business {
 	border-top: solid 1px $color--light-gray;
 	padding-top: 3rem;
@@ -667,7 +678,7 @@ footer .detail {
     pointer-events: none;
 }
 
-// Mailing List
+// 14. Mailing List
 
 .mailing-list {
 	padding: 3rem;
@@ -685,8 +696,6 @@ label.middle {
 margin-bottom: 0rem;
 padding-bottom: 0rem;
 }
-
-// Testing
 
 // Book
 

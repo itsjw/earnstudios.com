@@ -4,7 +4,11 @@ date: 2014-01-01 00:00:00 Z
 position: 3
 image: "/uploads/samsung.jpg"
 feature-image: "/uploads/samsung-feature.jpg"
-images: 
+images:
+- "/uploads/samsung-one.jpg"
+- "/uploads/samsung-two.jpg"
+- "/uploads/samsung-three.jpg"
+- "/uploads/samsung-four.jpg"
 company: Samsung
 is-featured: true
 excerpt-text: Writing the book that wins millions of Samsung fans
