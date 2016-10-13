@@ -1,6 +1,6 @@
 ---
 title: The Genius Box
-position: 2
+position: 1
 image: "/uploads/the-genius-box.jpg"
 link: http://thegeniusbox.com
 ---
