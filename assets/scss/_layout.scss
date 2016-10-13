@@ -12,6 +12,16 @@ body {
   cursor: default;
 }
 
+body {
+    opacity: 1;
+    transition: $primary-transition;
+}
+
+body.fade-out {
+    opacity: 0;
+    transition: none;
+}
+
 svg {
   max-width: 100%;
 }
@@ -79,7 +89,7 @@ i, cite, em, var, address, dfn {
   position: absolute;
   top: 3rem;
   right: 3rem;
-	z-index: 5000;
+	z-index: 1004;
 
   a {
     color: $color--white;
@@ -119,28 +129,138 @@ i, cite, em, var, address, dfn {
     }
 }
 
-//Index
+// 4. Index
 
-.index-about-text {
+.index__about {
 	padding: 3rem;
 	@include breakpoint(small only) {
     padding: 2rem;
   	}
 }
 
-.index-about-text .link {
+.index__about .link {
     color: $color--amber;
     border-bottom: $color--amber 1px solid;
     padding-bottom: 0.25rem;
     transition: $primary-transition;
+    &:hover {
+    color: $color--black;
+    padding-bottom: 0.5rem;
+    }
 }
 
-.index-about-text .link:hover {
-	color: $color--black;
-  padding-bottom: 0.5rem;
+.index__ventures {
+	padding: 3rem;
+	@include breakpoint(small only) {
+    padding: 2rem;
+  	}
 }
 
-// Project
+.index__blog {
+  background-color: $color--gray;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.index__blog__post {
+	position:relative;
+	
+  	img {
+      width:100%;
+      opacity:0.0;
+      transition: $primary-transition;
+    }
+    
+    &:hover .excerpt__image:after {
+        transition: $primary-transition;
+      }
+      
+    &:hover .index__blog__post__title {  
+        p span {
+        border-bottom: $color--white 1px solid;
+        padding-bottom: 0.5rem;
+        } 
+      } 
+    &:hover img {
+        opacity:1;
+      }
+}
+
+.index__blog__post__title  {
+  position:absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 100%;
+  height: 100%;
+  padding: 2rem;
+  z-index: 1;
+  
+    h5 {
+    color: $color--white;
+    transition: $primary-transition;
+    }
+  
+    p {
+    color: $color--white;
+    transition: $primary-transition;
+      span {
+      border-bottom: $color--yellow 1px solid;
+      padding-bottom: 0.25rem;
+      transition: $primary-transition;
+      }
+    }
+  
+    @include breakpoint(small only) {
+    padding: 2rem;
+    }
+}
+
+// 5. Post 
+
+.post {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+   h3 {
+     padding-bottom: 2rem;
+   }
+   h4 {
+     padding-top: 2rem;
+   }
+   a {
+     border-bottom: $color--amber 1px solid;
+      padding-bottom: 0.1rem;
+      transition: $primary-transition;
+   }
+   a:hover {
+     border-bottom: $color--dark-gray 1px solid;
+      padding-bottom: 0.2rem;
+   }
+   strong {
+      font-family: $header-font-family-medium;
+      color: $color--black;
+   }
+   img {
+     padding: 1rem;
+   }
+}
+
+// 6. Page
+
+.contact {
+	padding: 3rem;
+	@include breakpoint(small only) {
+    padding: 2rem;
+  	}
+}
+
+.contact a {
+  color: $color--dark-gray;
+  &:hover {
+    color: $color--black;
+  }
+}
+
+// 7. Project
 
 .project__meta {
 	padding-top: 2rem;
@@ -197,6 +317,23 @@ i, cite, em, var, address, dfn {
     }
 }
 
+.hero--blog {
+  height: 60vh;
+    h2 {
+    font-family: $header-font-family-medium;
+    color: $color--white;
+    }
+    a {
+    font-family: $header-font-family-medium;
+    color: $color--white;
+    }
+}
+
+.hero__date {
+  font-family: $header-font-family-medium;
+  color: $color--amber;
+}
+
 
 .project__image__second {
 	@include breakpoint(small only) {
@@ -210,6 +347,10 @@ i, cite, em, var, address, dfn {
 	@include breakpoint(small only) {
     padding: 2rem;
   	}
+}
+
+.project__images img {
+  padding-bottom: 2rem;
 }
 
 .project__content a {
@@ -241,8 +382,25 @@ i, cite, em, var, address, dfn {
   	}
 }
 
+// 8. Pagination
 
-// Excerpt
+.callout--pagination {
+  border: 2px solid $color--amber;
+  padding: 2rem 2rem 1rem 2rem;
+}
+
+.pagination {
+  background-color: $color--lighter-gray;
+  padding: 2rem 2rem 1rem 2rem;
+  width: 100%;
+  @include float;
+  &:hover {
+    background-color: $color--black;
+  }
+}
+
+
+// 9. Excerpt
 
 .excerpt {
 	position:relative;
@@ -311,7 +469,7 @@ i, cite, em, var, address, dfn {
 }
 
 
-// About
+// 10. About
 
 .about__content {
 	font-family: $header-font-family;
@@ -340,7 +498,7 @@ i, cite, em, var, address, dfn {
   padding-top: 2rem;
 }
 
-// Footer
+// 11. Footer
 
 footer {
 	background-color: $color--lighter-gray;
@@ -348,6 +506,7 @@ footer {
 	padding: 3rem;
 	a {
     color: $color--black;
+    display: block;
     }
   @include breakpoint(small only) {
 	padding: 2rem;
@@ -360,6 +519,27 @@ footer {
 	font-size: 1rem;
 }
 
+.footer__top__address {
+  padding-bottom: 1rem;
+}
+
+.footer__top__contact {
+  padding-bottom: 1rem;
+}
+
+.footer__top__follow__newsletter {
+	padding-top: 2rem;
+}
+
+.footer__top__arrow {
+  a {
+    color: $color--dark-gray;
+    }
+    a:hover {
+    color: $color--black;
+    }
+}
+
 footer .detail {
 	padding-bottom: 1rem;
 }
@@ -370,7 +550,7 @@ footer .detail {
     }
 }
 
-//Carousel
+// 12. Carousel
 
 .carousel {
   height: 85vh;
@@ -401,7 +581,7 @@ footer .detail {
       height:100%;
       display: block;
       z-index:0;
-      background-color: rgba(0,0,0,0.2);
+      background-color: rgba(0,0,0,0.0);
     }
     
     &__text {
@@ -424,7 +604,13 @@ footer .detail {
     }
 }
 
+.carousel__cell--light:before {
+   background-color: rgba(0,0,0,0.1);
+}
 
+.carousel__cell--dark:before {
+   background-color: rgba(0,0,0,0.3);
+}
 
 .hero-arrow {
 	position: absolute;
@@ -446,7 +632,7 @@ footer .detail {
 	position: relative;
 }
 
-// Contact
+// 13. Contact
 .contact-new-business {
 	border-top: solid 1px $color--light-gray;
 	padding-top: 3rem;
@@ -492,7 +678,7 @@ footer .detail {
     pointer-events: none;
 }
 
-// Mailing List
+// 14. Mailing List
 
 .mailing-list {
 	padding: 3rem;
@@ -510,4 +696,95 @@ label.middle {
 margin-bottom: 0rem;
 padding-bottom: 0rem;
 }
-// Testing
+
+// Book
+
+.hero--book {
+    height: 70vh;
+    background-position: center center;
+  
+
+    &:before {
+    background-color: rgba(0,0,0,0.0);
+}
+
+}
+
+.hero__text__inner--book h3 {
+      color:$color--black;
+  }
+
+.book {
+	padding: 3rem;
+	@include breakpoint(small only) {
+    padding: 2rem;
+  	}
+}
+
+.book__section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  border-bottom: 1px solid $color--gray;
+}
+
+.book__section--first {
+  padding-top: 0rem;
+}
+
+.book__section--last {
+  padding-bottom: 0rem;
+  border-bottom: 0px solid $color--gray;
+}
+
+
+.points h5 {
+  color: $color--dark-gray;
+  padding-bottom: 1rem;
+}
+
+.point {
+  margin: 0 0 1rem;
+padding: 0.5625rem 1.25rem 0 1.1875rem;
+border-left: 2px solid $color--amber;
+}
+
+
+#map {
+        height:50vh;
+        width:100%;
+}
+
+// People
+
+.people__key {
+  background-color: $color--dark-gray;
+}
+
+.people__friends {
+  background-color: $color--dark-gray;
+}
+
+.people__key__intro {
+  padding: 1rem 3rem 3rem 3rem;
+    @include breakpoint(small only) {
+    padding: 2rem;
+    }
+}
+
+.people__friends__intro {
+  padding: 3rem;
+    @include breakpoint(small only) {
+    padding: 2rem;
+    }
+}
+
+.person__reveal a {
+  color: $color--dark-gray;
+  &:hover {
+    color: $color--black;
+  }
+}
+
+.person__reveal h5 {
+  color: $color--amber;
+}

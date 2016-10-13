@@ -4,7 +4,11 @@ date: 2014-01-01 00:00:00 Z
 position: 3
 image: "/uploads/samsung.jpg"
 feature-image: "/uploads/samsung-feature.jpg"
-images: 
+images:
+- "/uploads/samsung-one.jpg"
+- "/uploads/samsung-two.jpg"
+- "/uploads/samsung-three.jpg"
+- "/uploads/samsung-four.jpg"
 company: Samsung
 is-featured: true
 excerpt-text: Writing the book that wins millions of Samsung fans
@@ -28,4 +32,4 @@ video:
 layout: project
 ---
 
-This is a brief overview of the project. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis.
+EARN delved deep into the Samsung brand and its history and created a set of guidelines that determined how the Samsung brand should manifest itself across a variety of touch points that resonate with their target audience of young consumers, whilst still being true to the brand’s heritage.

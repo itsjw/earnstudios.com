@@ -2,6 +2,15 @@
 title: EARN Studios
 timezone: UTC
 collections:
+  carousel:
+    title: Carousel
+    output: false
+  friends:
+    title: Friends of EARN
+    output: false
+  people:
+    title: People
+    output: false
   posts:
     title: Posts
     output: true
@@ -27,7 +36,66 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     image: 
-    description: 
+    author: 
+- scope:
+    path: ''
+    type: projects
+  values:
+    layout: 
+    image: 
+    feature-image: 
+    images:
+    - 
+    company: 
+    is-featured: 
+    excerpt-text: 
+    is-carousel: 
+    carousel-text: 
+    quote: 
+    quote-cite: 
+    brief-text: 
+    solution-text: 
+    results-text: 
+    video: 
+- scope:
+    path: ''
+    type: carousel
+  values:
+    feature-image: 
+    is-carousel: 
+    carousel-text: 
+    link: 
+    has_lightoverlay: 
+    has_darkoverlay: 
+- scope:
+    path: ''
+    type: friends
+  values:
+    image: 
+    link: 
+- scope:
+    path: ''
+    type: people
+  values:
+    image: 
+    job-title: 
+    linkedin: 
+- scope:
+    path: ''
+    type: ventures
+  values:
+    layout: 
+    image: 
+    feature-image: 
+    images:
+    - 
+    company: 
+    is-featured: 
+    excerpt-text: 
+    is-carousel: 
+    carousel-text: 
+    video: 
+    intro: 
 url: http://earnstudios.com
 permalink: pretty
 gems:
@@ -53,3 +121,11 @@ logo: "/assets/img/layout/logo.svg"
 per_page: 12
 date_format: "%b %d, %Y"
 future: true
+social:
+  facebook: 
+  instagram: 
+  twitter: 
+view_project: View Project
+view_venture: View Venture
+view_blog: View Blog
+view_person: View

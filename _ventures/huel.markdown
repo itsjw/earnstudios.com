@@ -3,19 +3,21 @@ title: Huel
 date: 2013-09-12 00:00:00 Z
 image: "/uploads/huel.jpg"
 feature-image: "/uploads/huel-feature.jpg"
-images: 
+images:
+- "/uploads/huel-one.jpg"
+- "/uploads/huel-two.jpg"
+- "/uploads/huel-three.jpg"
+- "/uploads/huel-four.jpg"
 company: Huel
 is-featured: 
 excerpt-text: The future of food
 is-carousel: 
-carousel-text: The future of food
+carousel-text: 'Huel: the future of food'
 video: 
 layout: venture
+intro: Huel is a nutritionally complete powdered food that contains all the protein,
+  carbs, fats, vitamins and minerals your body needs.
 ---
-
-We are investors in the future of fast food.
-
-Huel is a nutritionally complete powdered food that contains all the protein, carbs, fats, vitamins and minerals your body needs.
 
 We sit on the board of the company and provide strategic consultancy to the founder with a vision to become the global number one 'complete food’ brand. Our consultancy ranges from marketing strategy, NPD, commercial strategy, global development as the business rapidly moves into new territories.
 

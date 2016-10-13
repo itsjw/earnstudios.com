@@ -2,11 +2,12 @@
 title: Five more reasons why happy staff are good for business
 date: 2016-06-22 12:49:00 Z
 image: "/uploads/five-more-reasons.jpg"
+author: bridget_grenville-cleave
 ---
 
-***As a result of the success of 'Top 5 reasons why happy staff are good for business', we thought we’d give you 5 more reasons why focusing on the happiness of your team can translate into big business benefits.*** 
+### As a result of the success of 'Top 5 reasons why happy staff are good for business', we thought we’d give you 5 more reasons why focusing on the happiness of your team can translate into big business benefits.
 
-**1. Better health**
+#### Better Health
 
 There is growing evidence that happiness may protect against ill-heath and the risk of disease by strengthening our immune system, helping us deal with stress, pain, indulge in health-promoting behaviours (such as exercising and eating healthily) and lead to a longer life (1).  One of the most famous studies in Positive Psychology links positive emotion in early life to longevity six decades later (2).  
 
@@ -14,7 +15,7 @@ Happiness has been found to predict lower levels of the stress hormone cortisol 
 
 At work, happy employees take fewer sick days (5)  and what’s more, in line with the ‘contagion effect’, employees in one study were more likely to rate themselves as happy and healthy if their CEO was also happy! (6)  
 
-**2. Greater persistence and ability to overcome obstacles** 
+#### Greater persistence and ability to overcome obstacles
 
 It’s true that unremittingly cheerful people can be irritating especially when they insist that the difficulty you’re facing isn’t a problem but an opportunity. 
 
@@ -22,7 +23,7 @@ As a recovering pessimist myself, it’s doubly annoying to discover that optimi
 
 Since happiness is a subjective experience, what works will vary from person to person, although there are key themes which most people will share, such as strong relationships and meaningful, motivating work which plays to their strengths (as well as fair terms and conditions). Learning about happiness and its complexities is a step in the right direction.
 
-**3. Happiness is linked to greater resilience and ‘undoes’ negative emotions**
+#### Happiness is linked to greater resilience and ‘undoes’ negative emotions
 
 Positive Psychology research also suggests that there is a link between how happy we feel and our resilience – in other words our ability to overcome the inevitable disappointments, difficulties or set-backs in life and, if we have learned something valuable from the experience, to bounce back and be in a stronger, more resourceful position as a result. 
 
@@ -30,13 +31,13 @@ The quotation attributed to the philosopher Friedrich Nietzsche *“that which d
 
 Given the constant change that we all have to accommodate at work, with new initiatives, new bosses and colleagues, new products and services, new technology and processes, changes of strategic direction, new competitors and so on, resilience is a skill that every employee needs in abundance. Whilst it’s true that some people are predisposed to be more resilient than others (in the same way that some are more optimistic than others), fortunately, resilience skills can be trained. 
 
-**4. Happy people are more helpful**
+#### Happy people are more helpful
 
 Psychology research shows a strong association between happiness, health and longevity on the one hand and altruistic emotions and pro-social behaviours on the other. Happy people tend to be more helpful and volunteer more. Like other benefits associated with happiness, it’s a two-way street: if you're feeling happy you’re more likely to willingly provide social support and show compassion to others, and engaging in kind and helpful behaviour will boost your happiness (9).
 
 Since business success relies completely on day-to-day co-operation, collaboration and goodwill between colleagues, increasing the level of happiness in the company is one way to maximise this. And just think how much more satisfying the working day is when you help others get out of a tight spot and you know you can rely on them in return. 
 
-**5. Happiness is linked to higher customer service ratings**
+#### Happiness is linked to higher customer service ratings
 
 If you’ve ever had to ring a customer services department to resolve a problem with a product or service you’ve bought, you’ll know that speaking to a pleasant, friendly and good-humoured employee can immeasurably improve your experience, make the whole process easier and ensure that your conversation doesn’t escalate into an altercation. 
 
@@ -44,13 +45,13 @@ So you won’t be surprised to find that in a study of customer service departme
 
 So, there it is, in a nutshell: happiness is not only good for you and your employees it’s also good for your business.  Yes, work can be stressful, challenging and difficult at times, but it can also be fun, fulfilling and rewarding, and when it is, you’ll be doing your best work. Ironically, making happiness at work a priority can be tough.  But we’ve now given you 10 evidence-based reasons (5 in this article and 5 previously) why you need to take happiness seriously.  All you have to do now is take that first step. At the EARN Happiness School we’re passionate about making work your happy place so do get in touch.
 
-**Article written by Bridget Grenville-Cleave.** 
+*Article written by Bridget Grenville-Cleave*
 
 Bridget Grenville-Cleave has more than 20 years of experience in private and public sectors developing and delivering evidenced-based positive psychology training programmes, workshops, and CPD. She consults and coaches in the corporate, education and health sectors to enhance well-being, engagement and performance. She is also the leading consultant at EARN Happiness School and co-creator of How’s Your Day? app.
 
 For more great info on the science of happiness and how to create happiness at work and in life be sure to follow our [How’s Your Day](https://www.linkedin.com/company/how%27s-your-day-?trk=biz-brand-tree-co-name) page on LinkedIn.
 
-**Footnotes:**
+Footnotes
 
 (1) Burton, C. M., & King, L. A. (2004). The health benefits of writing about intensely positive experiences. Journal of research in personality, 38(2), 150-163.
 

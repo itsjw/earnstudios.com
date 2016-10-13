@@ -1,5 +1,7 @@
 $(document).foundation();
 
+$('body').removeClass('fade-out');
+
 // Scroll
 $('a[href*="#"]:not([href="#"])').click(function() {
 if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -19,10 +21,10 @@ $('.carousel').flickity({
   // options
   contain: true,
   setGallerySize: false,
-  wrapAround: false,
+  wrapAround: true,
   autoPlay: true,
-  prevNextButtons: false,
-  pageDots: true,
+  prevNextButtons: true,
+  pageDots: false,
   arrowShape: 'M100,46.875H11.9688l17.4688-17.4688L25,25L0,50l25,25l4.4062-4.4062L11.9688,53.125H100V46.875z'
 });
 
@@ -38,12 +40,3 @@ wow = new WOW(
 }
 )
 wow.init();
-
-// Maps
-$('.maps').click(function () {
-    $('.maps iframe').css("pointer-events", "auto");
-});
-
-$( ".maps" ).mouseleave(function() {
-  $('.maps iframe').css("pointer-events", "none"); 
-});

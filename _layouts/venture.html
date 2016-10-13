@@ -14,19 +14,22 @@ layout: light
 
 <!-- Content -->
 <div class="project__content">
-	
-<!-- Intro -->
+
+<!-- Results -->
 <div class="row project__results project__step">
-	<div class="small-12 medium-10 large-10 columns">
-	<h5>{{ content }}</h5>
+	<div class="small-12 medium-6 large-6 columns">
+	<h3>{{ page.intro }}</h3>
+	</div>
+	<div class="small-12 medium-6 large-6 columns">
+		{{ page.content }}
 	</div>
 </div>
-<!-- End Intro -->
+<!-- End Results -->
 
 {% if page.video %}
 <!-- Video -->
-<div class="row project__video project__step">
-<div class="small-12 medium-10 large-8 columns">
+<div class="row align-center project__video project__step">
+<div class="small-12 medium-12 large-12 columns">
 	<div class="flex-video widescreen vimeo">
 	  <iframe src="https://player.vimeo.com/video/{{ page.video }}?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 	</div>
@@ -34,6 +37,18 @@ layout: light
 </div>
 <!-- End Video -->
 {% endif %}
+
+<!-- Images -->
+{% if page.images %}
+<div class="row project__images small-up-1 medium-up-2 large-up-2">
+{% for image in page.images %}
+<div class="column">
+<img src="{{image}}" />
+</div>
+{% endfor %}
+</div>
+{% endif %}
+<!-- End Images -->
 
 </div>
 <!-- End Content -->
@@ -51,24 +66,7 @@ layout: light
 <!-- End Share -->
 
 <!-- Pagination -->
-<div class="project__pagination">
-	<div class="row">
-		
-		<div class="small-6 columns">
-		{% if page.previous.url %}
-		<p><a class="prev" href="{{page.previous.url}}"><svg class="icon icon-arrow-left8"><use xlink:href="#icon-arrow-left8"></use></svg> Previous</a></p>
-		<p class="hide-for-small-only"><a class="dark-gray prev" href="{{page.previous.url}}">{{page.previous.title}}</a></p>
-		{% endif %}
-		</div>
 
-		
-		<div class="small-6 columns text-right">
-		{% if page.next.url %}
-		<p><a class="next text-right" href="{{page.next.url}}">Next <svg class="icon icon-arrow-right8"><use xlink:href="#icon-arrow-right8"></use></svg></a></p>
-		<p class="hide-for-small-only"><a class="dark-gray next text-right" href="{{page.next.url}}">{{page.next.title}}</a></p>
-		{% endif %}
-		</div>
-		
-	</div>
-</div>
+{% include pagination.html %}
+
 <!-- End Pagination -->

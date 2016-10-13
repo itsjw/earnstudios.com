@@ -11,9 +11,9 @@ is-carousel:
 carousel-text: We invest in happiness to enhance our creativity
 video: 154205367
 layout: venture
+intro: At EARN, we believe in the importance of positive psychology and that small
+  changes in lifestyle wellbeing and happiness levels can be improved.
 ---
-
-At EARN, we believe in the importance of positive psychology and that small changes in lifestyle wellbeing and happiness levels can be improved.
 
 These principles help to shape the way we work as a team and we wanted to put something out into the world that would help other people and our clients too.
 
