@@ -50,3 +50,24 @@ svg.icon.icon-envelop2 {
   color: $color--black;
   }
 }
+
+.icon-left-long {
+  font-size: 2rem;
+  margin-right: 1rem;
+  margin-top: 1rem;
+  color: $color--white;
+	transition: $primary-transition;
+  &:hover {
+  color: $color--amber;
+  }
+}
+
+.icon-right-long {
+  font-size: 2rem;
+  margin-top: 1rem;
+  color: $color--white;
+	transition: $primary-transition;
+  &:hover {
+  color: $color--amber;
+  }
+}
