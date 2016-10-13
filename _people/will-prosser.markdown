@@ -5,4 +5,4 @@ image: "/uploads/Will-Prosser.jpg"
 job-title: Brand Director
 ---
 
-Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum.
+Will has over 12 years' experience delivering brand strategy and activation both at agencies and client side. Specialising in sport, entertainment and culture, Will has performed brand manager and partnership roles at EON Energy and Coca Cola whilst leading a breadth of projects for clients including Pepsico, Carlsberg, Levi’s, Powerade and Relentless Energy
