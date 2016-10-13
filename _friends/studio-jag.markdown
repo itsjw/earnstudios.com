@@ -1,7 +1,7 @@
 ---
 title: Studio J.A.G
 published: false
-position: 6
+position: 7
 link: http://www.studiojag.com
 ---
 
