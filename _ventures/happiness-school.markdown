@@ -1,5 +1,5 @@
 ---
-title: Happiness School
+title: EARN Happiness School
 date: 2013-09-12 00:00:00 Z
 image: "/uploads/happiness-school.jpg"
 feature-image: "/uploads/happiness-school-feature.jpg"
@@ -7,15 +7,13 @@ images:
 - "/uploads/happiness-school-one.jpg"
 - "/uploads/happiness-school-two.jpg"
 company: EARN
-is-featured: 
-excerpt-text: Be happy. Do more. It’s science.
-is-carousel: 
+excerpt-text: 'EARN Happiness School: Be happy. Do more. It’s science.'
 carousel-text: Be happy. Do more. It’s science.
 video: 132029294
-layout: venture
 intro: Whether it’s in the work place or elsewhere in our lives, the benefits of happiness
   are obvious. Happy people earn more and live longer, because they’re more productive
   - and thus – more fulfilled.
+layout: venture
 ---
 
 Well-being at work often gets overlooked – but why? And at what cost? 
