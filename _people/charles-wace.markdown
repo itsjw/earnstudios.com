@@ -1,8 +1,7 @@
 ---
 title: Charles Wace
 position: 1
-image: 
-job-title: Non-exec Chairman
+job-title: Chairman
 linkedin: charles-wace-a7546a98
 ---
 
