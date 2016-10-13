@@ -1,7 +1,7 @@
 ---
 title: Odelay Films
+published: false
 position: 4
-image: 
 link: http://odelayfilms.com
 ---
 
