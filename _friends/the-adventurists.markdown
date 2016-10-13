@@ -1,6 +1,6 @@
 ---
 title: The Adventurists
-position: 6
+position: 0
 image: "/uploads/the-adventurists.jpg"
 link: http://www.theadventurists.com
 ---

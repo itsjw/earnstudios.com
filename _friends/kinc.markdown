@@ -1,7 +1,7 @@
 ---
 title: Kinc
 published: false
-position: 7
+position: 8
 link: http://www.kinc.com
 ---
 
