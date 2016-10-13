@@ -1,7 +1,7 @@
 ---
 title: Charles Wace
 position: 1
-image: "/uploads/CW-e60aed.png"
+image: "/uploads/Original%20CW.jpg"
 job-title: Chairman
 linkedin: charles-wace-a7546a98
 ---
