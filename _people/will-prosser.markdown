@@ -1,6 +1,6 @@
 ---
 title: Will Prosser
-position: 5
+position: 7
 image: "/uploads/Will-Prosser.jpg"
 job-title: Brand Director
 linkedin: will-prosser-3229b919

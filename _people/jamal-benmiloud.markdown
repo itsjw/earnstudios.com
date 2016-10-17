@@ -1,6 +1,6 @@
 ---
 title: Jamal Benmiloud
-position: 1
+position: 2
 image: "/uploads/jamal-benmiloud.jpg"
 job-title: Founder & CCO
 linkedin: jamal-benmiloud-2127a439
