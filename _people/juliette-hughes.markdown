@@ -1,6 +1,6 @@
 ---
 title: Juliette Hughes
-position: 3
+position: 4
 image: "/uploads/juliette-hughes.jpg"
 job-title: Head of Creative
 linkedin: juliettehughes

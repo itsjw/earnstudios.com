@@ -1,6 +1,6 @@
 ---
 title: Leila Ghazai
-position: 5
+position: 6
 image: "/uploads/leila-ghazai.jpg"
 job-title: Account Director
 linkedin: leilaghazai
