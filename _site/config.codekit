@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19137",
+"creatorBuild": "19142",
 "files": {
 	"\/404.md": {
 		"criticStyle": 0,
@@ -759,6 +759,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/agostina-capria.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41934,
+		"inputAbbreviatedPath": "\/_site\/uploads\/agostina-capria.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/agostina-capria.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/bad-mood-films.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -781,17 +792,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/book.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 435488,
-		"inputAbbreviatedPath": "\/_site\/uploads\/book.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/book.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/uploads\/brand-love-apple.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -810,6 +810,17 @@
 		"initialSize": 140021,
 		"inputAbbreviatedPath": "\/_site\/uploads\/brand-love.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/brand-love.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/bridget-grenville-cleave.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50317,
+		"inputAbbreviatedPath": "\/_site\/uploads\/bridget-grenville-cleave.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/bridget-grenville-cleave.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -854,6 +865,17 @@
 		"initialSize": 85947,
 		"inputAbbreviatedPath": "\/_site\/uploads\/castrol.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/castrol.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/charles-wace.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43404,
+		"inputAbbreviatedPath": "\/_site\/uploads\/charles-wace.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/charles-wace.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1452,6 +1474,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/studio-yes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18361,
+		"inputAbbreviatedPath": "\/_site\/uploads\/studio-yes.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/studio-yes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/the-adventurists.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1474,6 +1507,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/tim-o-brien.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42259,
+		"inputAbbreviatedPath": "\/_site\/uploads\/tim-o-brien.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/tim-o-brien.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/top-five-quotes.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1492,6 +1536,28 @@
 		"initialSize": 189859,
 		"inputAbbreviatedPath": "\/_site\/uploads\/top-five-reasons.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/top-five-reasons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/we-make-awesome-shit.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60422,
+		"inputAbbreviatedPath": "\/_site\/uploads\/we-make-awesome-shit.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/we-make-awesome-shit.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/will-prosser.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123338,
+		"inputAbbreviatedPath": "\/_site\/uploads\/will-prosser.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/will-prosser.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1556,9 +1622,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 353481,
+		"initialSize": 170874,
 		"inputAbbreviatedPath": "\/_uploads\/about.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/about.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/agostina-capria.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41934,
+		"inputAbbreviatedPath": "\/_uploads\/agostina-capria.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/agostina-capria.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1585,17 +1662,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_uploads\/book.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 79085,
-		"inputAbbreviatedPath": "\/_uploads\/book.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/book.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_uploads\/brand-love-apple.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1614,6 +1680,17 @@
 		"initialSize": 140021,
 		"inputAbbreviatedPath": "\/_uploads\/brand-love.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/brand-love.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/bridget-grenville-cleave.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50317,
+		"inputAbbreviatedPath": "\/_uploads\/bridget-grenville-cleave.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/bridget-grenville-cleave.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1658,6 +1735,17 @@
 		"initialSize": 85947,
 		"inputAbbreviatedPath": "\/_uploads\/castrol.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/castrol.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/charles-wace.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43404,
+		"inputAbbreviatedPath": "\/_uploads\/charles-wace.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/charles-wace.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2062,7 +2150,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 161234,
+		"initialSize": 230023,
 		"inputAbbreviatedPath": "\/_uploads\/pow-feature.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/pow-feature.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2095,7 +2183,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 49875,
+		"initialSize": 51959,
 		"inputAbbreviatedPath": "\/_uploads\/pow.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/pow.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2205,7 +2293,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 28311,
+		"initialSize": 16179,
 		"inputAbbreviatedPath": "\/_uploads\/samsung.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/samsung.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2256,6 +2344,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/studio-yes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18361,
+		"inputAbbreviatedPath": "\/_uploads\/studio-yes.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/studio-yes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/the-adventurists.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2278,6 +2377,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/tim-o-brien.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42259,
+		"inputAbbreviatedPath": "\/_uploads\/tim-o-brien.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/tim-o-brien.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/top-five-quotes.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2296,6 +2406,28 @@
 		"initialSize": 189859,
 		"inputAbbreviatedPath": "\/_uploads\/top-five-reasons.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/top-five-reasons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/we-make-awesome-shit.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60422,
+		"inputAbbreviatedPath": "\/_uploads\/we-make-awesome-shit.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/we-make-awesome-shit.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/will-prosser.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123338,
+		"inputAbbreviatedPath": "\/_uploads\/will-prosser.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/will-prosser.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2693,8 +2825,8 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/book.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/book.html",
@@ -16122,8 +16254,8 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/index.html",
@@ -16175,8 +16307,8 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/people.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/people.html",
@@ -16257,38 +16389,6 @@
 	],
 "lastSavedByUser": "Gareth Johns",
 "manualImportLinks": {
-	"\/assets\/js\/app.js": [
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/bower_components\/jquery\/dist\/jquery.js",
-			"position": 0,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/bower_components\/foundation-sites\/dist\/foundation.js",
-			"position": 1,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/bower_components\/what-input\/what-input.js",
-			"position": 2,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/bower_components\/flickity\/dist\/flickity.pkgd.js",
-			"position": 3,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/bower_components\/wow\/dist\/wow.js",
-			"position": 4,
-			"type": 0
-			}
-		]
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",

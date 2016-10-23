@@ -1,7 +1,7 @@
 ---
 title: Agostina Capria
 position: 0
-image: "/uploads/Agostina.jpg"
+image: "/uploads/agostina-capria.jpg"
 job-title: Marketing Executive
 linkedin: agostina-capria-71111387
 ---
