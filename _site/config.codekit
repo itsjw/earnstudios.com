@@ -792,6 +792,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/book.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 198828,
+		"inputAbbreviatedPath": "\/_site\/uploads\/book.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/book.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/brand-love-apple.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1658,6 +1669,17 @@
 		"initialSize": 109598,
 		"inputAbbreviatedPath": "\/_uploads\/black-sparrow-presents.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/black-sparrow-presents.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/book.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 198828,
+		"inputAbbreviatedPath": "\/_uploads\/book.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/book.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
