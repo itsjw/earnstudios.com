@@ -8,10 +8,8 @@ images:
 - "/uploads/pow-two.jpg"
 company: POW Energy Water
 is-featured: true
-excerpt-text: We also dream big and experiment small for ourselves
-is-carousel: 
+excerpt-text: 'POW: We also dream big and experiment small for ourselves'
 carousel-text: We also dream big and experiment small for ourselves
-video: 
 intro: POW Energy Water brings together the hydrating power of water with natural
   caffeine from guarana, no added sugar, natural sweetness from fruit and no artificial
   flavours or colourings

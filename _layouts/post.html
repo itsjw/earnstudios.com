@@ -14,12 +14,13 @@ layout: light
       <div class="hero__date">
         {{ page.date | date: site.date_format }}
       </div>
-      {% if page.previous.url %}
-      <a class="prev" href="{{page.previous.url}}"><svg class="icon icon-arrow-left8"><use xlink:href="#icon-arrow-left8"></use></svg></a>
-      {% endif %}
       {% if page.next.url %}
-      <a class="next text-right" href="{{page.next.url}}"><svg class="icon icon-arrow-right8"><use xlink:href="#icon-arrow-right8"></use></svg></a>
+      <a class="next text-right" href="{{page.next.url}}"><svg class="icon icon-left-long"><use xlink:href="#icon-left-long"></use></svg></a>
       {% endif %}
+      {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}"><svg class="icon icon-right-long"><use xlink:href="#icon-right-long"></use></svg></a>
+      {% endif %}
+      
     </div>
   </div>
 </div>

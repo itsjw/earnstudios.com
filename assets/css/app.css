@@ -7909,6 +7909,25 @@ svg.icon.icon-envelop2 {
   .icon-arrow-up8:hover {
     color: #222222; }
 
+.icon-left-long {
+  font-size: 2rem;
+  margin-right: 1rem;
+  margin-top: 1rem;
+  color: #ffffff;
+  -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
+  transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+  .icon-left-long:hover {
+    color: #FFD600; }
+
+.icon-right-long {
+  font-size: 2rem;
+  margin-top: 1rem;
+  color: #ffffff;
+  -webkit-transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
+  transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+  .icon-right-long:hover {
+    color: #FFD600; }
+
 .overlay {
   z-index: 1001;
   position: fixed;
