@@ -6,7 +6,7 @@ collections:
     title: Carousel
     output: false
   friends:
-    title: Friends of EARN
+    title: Friends
     output: false
   people:
     title: People
