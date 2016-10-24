@@ -1629,6 +1629,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_uploads\/_uploads\/Will-Prosser.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123338,
+		"inputAbbreviatedPath": "\/_uploads\/_uploads\/Will-Prosser.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/_uploads\/Will-Prosser.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/about.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2399,6 +2410,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/Tim-O-Brien-387f76.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42259,
+		"inputAbbreviatedPath": "\/_uploads\/Tim-O-Brien-387f76.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/Tim-O-Brien-387f76.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/tim-o-brien.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2443,13 +2465,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_uploads\/will-prosser.jpg": {
+	"\/_uploads\/Will.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 123338,
-		"inputAbbreviatedPath": "\/_uploads\/will-prosser.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/will-prosser.jpg",
+		"inputAbbreviatedPath": "\/_uploads\/Will.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/Will.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
