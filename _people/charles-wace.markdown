@@ -6,4 +6,10 @@ job-title: Chairman
 linkedin: charles-wace-a7546a98
 ---
 
-Charles is founder and Non Executive Director of Twofour Group and came to be our Chairman through his work as our mentor via the Nesta Creative Business Mentor Network. Charles started his career in newspapers before moving to BBC Radio and Television where he worked as a reporter and producer. He is a board member of Creative England and was awarded the Ernst & Young Entrepreneur of the Year Award for Technology & Communication South Region along with a regional Royal Television Society Award for Outstanding Achievement. Charles was recently awarded an Honorary Doctorate of Business from Plymouth University.
+Charles is the founder of the award-winning global media group Twofour, a factual, features & entertainment television producer and content agency.  He came to be our Chairman through his work as our mentor via the Nesta Creative Business Mentor Network.
+
+Twofour’s fast paced growth led it to become one of the UK’s largest independent production companies.  It was twice named the UK’s top production company by Broadcast Magazine in 2010 and 2014.
+ 
+Charles stepped down as Group Chief Executive when he sold Twofour in 2013, at which point the group had circa £60 million turnover and 350 employees.
+ 
+Charles chaired the UK independent trade body Pact (Producers Alliance for Cinema and Television) for 2 years and he is currently Chairman of the Creative England Trading Company, a Director of Creative England and an independent Governor for Falmouth University.
