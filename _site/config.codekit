@@ -825,13 +825,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/bridget-grenville-cleave.jpg": {
+	"\/_site\/uploads\/bridget-grenville-cleave-831b23.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 50317,
-		"inputAbbreviatedPath": "\/_site\/uploads\/bridget-grenville-cleave.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/bridget-grenville-cleave.jpg",
+		"inputAbbreviatedPath": "\/_site\/uploads\/bridget-grenville-cleave-831b23.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/bridget-grenville-cleave-831b23.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1485,13 +1485,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/studio-yes.jpg": {
+	"\/_site\/uploads\/Studio-Yes.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 18361,
-		"inputAbbreviatedPath": "\/_site\/uploads\/studio-yes.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/studio-yes.jpg",
+		"inputAbbreviatedPath": "\/_site\/uploads\/Studio-Yes.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Studio-Yes.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1518,13 +1518,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/tim-o-brien.jpg": {
+	"\/_site\/uploads\/Tim-O-Brien-387f76.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 42259,
-		"inputAbbreviatedPath": "\/_site\/uploads\/tim-o-brien.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/tim-o-brien.jpg",
+		"inputAbbreviatedPath": "\/_site\/uploads\/Tim-O-Brien-387f76.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Tim-O-Brien-387f76.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/Tim-O-Brien.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42259,
+		"inputAbbreviatedPath": "\/_site\/uploads\/Tim-O-Brien.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Tim-O-Brien.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1562,13 +1573,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/will-prosser.jpg": {
+	"\/_site\/uploads\/Will.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 123338,
-		"inputAbbreviatedPath": "\/_site\/uploads\/will-prosser.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/will-prosser.jpg",
+		"inputAbbreviatedPath": "\/_site\/uploads\/Will.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Will.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1629,11 +1640,22 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_uploads\/_uploads\/Will-Prosser.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123338,
+		"inputAbbreviatedPath": "\/_uploads\/_uploads\/Will-Prosser.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/_uploads\/Will-Prosser.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/about.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 170874,
+		"initialSize": 353481,
 		"inputAbbreviatedPath": "\/_uploads\/about.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/about.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1677,7 +1699,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 198828,
+		"initialSize": 79085,
 		"inputAbbreviatedPath": "\/_uploads\/book.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/book.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1706,13 +1728,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_uploads\/bridget-grenville-cleave.jpg": {
+	"\/_uploads\/bridget-grenville-cleave-831b23.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 50317,
-		"inputAbbreviatedPath": "\/_uploads\/bridget-grenville-cleave.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/bridget-grenville-cleave.jpg",
+		"inputAbbreviatedPath": "\/_uploads\/bridget-grenville-cleave-831b23.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/bridget-grenville-cleave-831b23.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2172,7 +2194,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 230023,
+		"initialSize": 161234,
 		"inputAbbreviatedPath": "\/_uploads\/pow-feature.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/pow-feature.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2205,7 +2227,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 51959,
+		"initialSize": 49875,
 		"inputAbbreviatedPath": "\/_uploads\/pow.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/pow.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2315,7 +2337,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 16179,
+		"initialSize": 28311,
 		"inputAbbreviatedPath": "\/_uploads\/samsung.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/samsung.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2366,13 +2388,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_uploads\/studio-yes.jpg": {
+	"\/_uploads\/Studio-Yes.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 18361,
-		"inputAbbreviatedPath": "\/_uploads\/studio-yes.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/studio-yes.jpg",
+		"inputAbbreviatedPath": "\/_uploads\/Studio-Yes.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/Studio-Yes.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2399,13 +2421,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_uploads\/tim-o-brien.jpg": {
+	"\/_uploads\/Tim-O-Brien-387f76.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 42259,
-		"inputAbbreviatedPath": "\/_uploads\/tim-o-brien.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/tim-o-brien.jpg",
+		"inputAbbreviatedPath": "\/_uploads\/Tim-O-Brien-387f76.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/Tim-O-Brien-387f76.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/Tim-O-Brien.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42259,
+		"inputAbbreviatedPath": "\/_uploads\/Tim-O-Brien.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/Tim-O-Brien.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2443,13 +2476,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_uploads\/will-prosser.jpg": {
+	"\/_uploads\/Will.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 123338,
-		"inputAbbreviatedPath": "\/_uploads\/will-prosser.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/will-prosser.jpg",
+		"inputAbbreviatedPath": "\/_uploads\/Will.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/Will.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2847,8 +2880,8 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/book.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/book.html",
@@ -16276,8 +16309,8 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/index.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/index.html",
@@ -16329,8 +16362,8 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/people.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/people.html",
@@ -16411,6 +16444,38 @@
 	],
 "lastSavedByUser": "Gareth Johns",
 "manualImportLinks": {
+	"\/assets\/js\/app.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/bower_components\/jquery\/dist\/jquery.js",
+			"position": 0,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation-sites\/dist\/foundation.js",
+			"position": 1,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/bower_components\/what-input\/what-input.js",
+			"position": 2,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/bower_components\/flickity\/dist\/flickity.pkgd.js",
+			"position": 3,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/bower_components\/wow\/dist\/wow.js",
+			"position": 4,
+			"type": 0
+			}
+		]
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
