@@ -6,8 +6,8 @@ layout: light
 <div class="hero hero--book" style="background-image: url({{page.feature-image}})">	
   <div class="row hero__text align-middle">
     <div class="small-12 medium-6 large-4 columns hero__text__inner  hero__text__inner--book">
-      <h1>Brand Love</h1>
-      <h3>How to build a brand worth talking about</h3>
+      <h1>{{page.hero-title}}</h1>
+      <h3>{{page.hero-subtitle}}</h3>
     </div>
   </div>
 </div>
@@ -22,7 +22,7 @@ layout: light
 
 <!-- Left -->
 <div class="small-12 medium-6 large-4 columns">
-  <h3>What is brand love?</h3>
+  <h3>{{page.what-is-title}}</h3>
 </div>
 <!-- End Left -->
 
@@ -30,10 +30,9 @@ layout: light
 <div class="small-12 medium-6 large-7 columns">
 <!-- Points -->
 <div class="points">
-  <div class="point"><h5>There are 18,000,000 photos on Instagram tagged #starbucks. Not one is paid for by Starbucks</h5></div>
-  <div class="point"><h5>When Chinese mobile brand Xiaomi launched their new tablet, stock sold out in 2.7 seconds</h5></div>
-  <div class="point"><h5>Monster Energy drinks has become the most successful energy drinks brand in the US, without a single dollar spent on advertising</h5></div>
-  <div class="point"><h5>LEGO continues to defy critics and analyst expectations selling billions of dollars of analog toys in the digital age</h5></div>
+{% for point in page.what-is-points %}
+  <div class="point"><h5>{{ point }}</h5></div>
+{% endfor %}
 </div>
 <p>All these stories are made possible by Brand Love</p>
 <!-- End Points -->
@@ -41,9 +40,7 @@ layout: light
 <!-- Explained -->
 <div class="explained">
   <hr>
-  <p>Fans don't just "like" these brands, they love them. And the good news is that it's neither expensive or exclusive to cool cutting-edge brands. Brand Love is as achievable to all brands. Whether you're an airline or selling energy drinks, Brand Love is a guide to help you build a brand worth talking about.</p>
-  
-  <p>Written by an ex-telecoms CEO, the head of marketing for one of the world's fastest growing soda brands and a digital anthropologist, Brand Love is a journey that takes you around the world from the US to China in search of the brands both fans and industry analysts are talking about.</p>
+<p>{{page.what-is-text}}</p>
 </div>
 <!-- End Explained -->
 </div>
@@ -57,7 +54,7 @@ layout: light
 
 <!-- Left -->
 <div class="small-12 medium-6 large-4 columns">
-  <h3>What questions does this book answer?</h3>
+  <h3>{{page.what-questions-title}}</h3>
 </div>
 <!-- End Left -->
 
@@ -65,16 +62,18 @@ layout: light
 <div class="small-12 medium-6 large-7 columns">
 <!-- Points -->
   <div class="points">
-    <div class="point"><h5>What is Brand Love?</h5></div>
-    <div class="point"><h5>Why do some brands have it while others are just liked?</h5></div>
-    <div class="point"><h5>How can you replicate their success formula?</h5></div>
+    
+{% for point in page.what-questions-points %}
+  <div class="point"><h5>{{ point }}</h5></div>
+{% endfor %}
+    
   </div>
 <!-- End Points -->
 
 <!-- Explained -->
 <div class="explained">
   <hr>
-  <p>Brand Love answers these 3 questions through case studies of brands doing it right; brands well-adapted to the digital age; brands that can build billion dollar market caps without significant sums spent on advertising; and brands that defy the expectations of both investors and their category by breaking all the rules.</p>
+  <p>{{page.what-questions-text}}</p>
 </div>
 <!-- End Explained -->
 </div>
@@ -89,7 +88,7 @@ layout: light
 
 <!-- Left -->
 <div class="small-12 medium-6 large-4 columns">
-  <h3>Brands featured in this book</h3>
+  <h3>{{page.brands-title}}</h3>
 </div>
 <!-- End Left -->
 
@@ -97,7 +96,7 @@ layout: light
 <div class="small-12 medium-6 large-7 columns">
 <!-- Explained -->
 <div class="explained">
-<p>7-11, Amazon, Apple, Best Buy, British Airways, Chipotle Mexican Grill, Converse, Cisco, Coke, Delta, Disney, Ford, GoPro, Kodak, LEGO, Mattel, McDonalds, Microsoft, Minecraft, Monster Energy Drinks, Nokia, Pepsi, Pure Digital, Red Bull, Samsung, Shake Shack, Skinny Mobile, Southwest Airlines, Starbucks, Wahoo's Fish Tacos, Xiaomi, Zappos.</p>
+<p>{{page.brands-text}}</p>
 </div>
 <!-- End Explained -->
 </div>
@@ -111,8 +110,8 @@ layout: light
 
 <!-- Left -->
 <div class="small-12 medium-6 large-4 columns">
-  <h3>Complimentary copy</h3>
-  <p>If you’re interested in finding out more about our book, please fill out your details and we’ll send you a complimentary sample.</p>
+  <h3>{{page.complimentary-title}}</h3>
+  <p>{{page.complimentary-text}}</p>
   <span class="asterisk">* denotes required field</span>
 </div>
 <!-- End Left -->
