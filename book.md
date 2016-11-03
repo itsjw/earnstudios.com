@@ -33,7 +33,7 @@ brands-text: 7-11, Amazon, Apple, Best Buy, British Airways, Chipotle Mexican Gr
   Microsoft, Minecraft, Monster Energy Drinks, Nokia, Pepsi, Pure Digital, Red Bull,
   Samsung, Shake Shack, Skinny Mobile, Southwest Airlines, Starbucks, Wahoo's Fish
   Tacos, Xiaomi, Zappos.
-complimentary-title: Complimentary copy
+complimentary-title: With our compliments
 complimentary-text: If you’re interested in finding out more about our book, please
   fill out your details and we’ll send you a complimentary sample.
 layout: book
