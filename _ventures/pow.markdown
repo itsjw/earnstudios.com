@@ -1,7 +1,7 @@
 ---
 title: POW Energy Water
 date: 2013-09-12 00:00:00 Z
-image: "/uploads/pow.jpg"
+image: "/uploads/hires-8809.jpg"
 feature-image: "/uploads/hires-9496.jpg"
 images:
 - "/uploads/pow-one.jpg"
