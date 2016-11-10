@@ -6,7 +6,8 @@ feature-image: "/uploads/hires-9496.jpg"
 images:
 - "/uploads/pow-one.jpg"
 - "/uploads/pow-two.jpg"
-- 
+- "/uploads/hires-8570.jpg"
+- "/uploads/hires-8690.jpg"
 company: POW Energy Water
 is-featured: true
 excerpt-text: 'POW: We also dream big and experiment small for ourselves'
