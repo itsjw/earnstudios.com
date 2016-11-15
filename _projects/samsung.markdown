@@ -11,9 +11,8 @@ images:
 - "/uploads/samsung-four.jpg"
 company: Samsung
 is-featured: true
-excerpt-text: Writing the book that wins millions of Samsung fans
-is-carousel: 
-carousel-text: Writing the book that wins millions of Samsung fans
+excerpt-text: Wrote the book that wins millions of Samsung fans
+carousel-text: Wrote the book that wins millions of Samsung fans
 quote: EARN looks at the business in a different way and gives you the brutal truth
   and what is bad and good and be able to deliver it back in an “out of the world”
   way that is refreshing and honest
@@ -28,7 +27,6 @@ solution-text: EARN delved deep into the Samsung brand and its history and creat
   consumers, whilst still being true to the brand’s heritage.
 results-text: The creation of a Samsung Brand Manual, used by Samsung marketing teams
   across Europe
-video: 
 layout: project
 ---
 
