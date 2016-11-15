@@ -1,7 +1,7 @@
 ---
 title: SlimFast
 date: 2015-09-01 00:00:00 Z
-position: 4
+position: 6
 image: "/uploads/slimfast.jpg"
 feature-image: "/uploads/slimfast-feature.jpg"
 company: SlimFast
