@@ -4,18 +4,12 @@ date: 2015-09-01 00:00:00 Z
 position: 2
 image: "/uploads/slimfast.jpg"
 feature-image: "/uploads/slimfast-feature.jpg"
-images: 
 company: SlimFast
-is-featured: true
+is-featured: false
 excerpt-text: Rejuvenating the SlimFast Challenge
-is-carousel: 
 carousel-text: Rejuvenating the SlimFast Challenge
-quote: 
-quote-cite: 
 brief-text: 'SlimFast brought us a brief to develop an idea to amplify their existing
   2016 marketing plan. '
-brief-image-one: "/uploads/slimfast-one.jpg"
-brief-image-two: "/uploads/slimfast-two.jpg"
 solution-text: "EARN developed a modern version of the SlimFast Challenge. Building
   on the legacy and awareness of the original SlimFast Challenge, we developed the
   next generation version; one that is in line with the SlimFast brand’s vision to
@@ -27,7 +21,8 @@ results-text: |-
   Over 20,000 registrations for the SlimFast Challenge via the newly created app.
 
   Over 1,000 active and vocal Facebook group members; helping to establish a community around the brand supporting each other and engaging with SlimFast.
-video: 
+brief-image-one: "/uploads/slimfast-one.jpg"
+brief-image-two: "/uploads/slimfast-two.jpg"
 layout: project
 ---
 
