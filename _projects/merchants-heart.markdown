@@ -1,10 +1,12 @@
 ---
 title: Merchant's Heart
 date: 2015-09-12 00:00:00 Z
-position: 7
+position: 2
 image: "/uploads/merchants-heart.jpg"
 feature-image: "/uploads/merchants-heart-feature.jpg"
-images: 
+images:
+- "/uploads/merchants-heart-one.jpg"
+- "/uploads/merchants-heart-two.jpg"
 company: Lucozade Ribena Suntory
 is-featured: 
 excerpt-text: Creating a cultural shift… and a range of premium mixers
@@ -16,8 +18,6 @@ quote-cite: Peter Harding, CEO Lucozade Ribena Suntory
 brief-text: 'We were tasked by Lucozade Ribena Suntory (LRS) to create a cultural
   shift that would catalyse creativity and innovation across the whole company.  Sounds
   easy, doesn’t it? '
-brief-image-one: "/uploads/merchants-heart-one.jpg"
-brief-image-two: "/uploads/merchants-heart-two.jpg"
 solution-text: "It’s easy to talk about changing but it’s much harder to actually
   change. The only way you create change is through doing. \n\nWe saw an opportunity
   for the company to shift from its old ways of product development, i.e. two-year
