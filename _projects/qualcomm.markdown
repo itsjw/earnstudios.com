@@ -2,11 +2,13 @@
 title: Qualcomm
 date: 2016-04-01 00:00:00 Z
 position: 1
-image: "/uploads/qualcomm.jpg"
+image: "/uploads/qualcomm-feature.jpg"
 feature-image: "/uploads/qualcomm-feature.jpg"
 images:
 - "/uploads/qualcomm-one.jpg"
 - "/uploads/qualcomm-two.jpg"
+- "/uploads/Wembley-EE-Qualcomm-DroneRace-012.jpg"
+- "/uploads/Shot-2.jpg"
 company: Qualcomm
 is-featured: true
 excerpt-text: Launching the first ever drone race at Wembley Stadium
