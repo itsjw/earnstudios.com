@@ -1,6 +1,7 @@
 ---
 title: Pop Works & Company
 date: 2016-11-15 09:48:00 Z
+image: "/uploads/POP-PRODUCTION-PORTRAITS-585.jpg"
 feature-image: "/uploads/POP-PRODUCT-128.jpg"
 company: PepsiCo
 excerpt-text: Launched PepsiCo’s new popcorn brand to become no. 2 in the market in
@@ -18,4 +19,4 @@ results-text: 'Pop Works quickly became the second biggest Popcorn brand on the 
   gaining 6% market share '
 ---
 
-Insert copy from Will
+Life is serious, popcorn isn't. That's why we launched much more than just a product but an entertainment brand on a mission to create pops of entertainment brought to you by Pop Works Studios. Our first creation saw Pop Works Chief Inventor and vlogger, Simone Giertz, create the Pop Works Popcorn Party Server. Check out the film here. 
