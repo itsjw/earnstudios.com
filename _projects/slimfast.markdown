@@ -4,6 +4,9 @@ date: 2015-09-01 00:00:00 Z
 position: 6
 image: "/uploads/slimfast.jpg"
 feature-image: "/uploads/slimfast-feature.jpg"
+images:
+- "/uploads/slimfast-one.jpg"
+- "/uploads/slimfast-two.jpg"
 company: SlimFast
 is-featured: false
 excerpt-text: Rejuvenating the SlimFast Challenge
@@ -21,8 +24,6 @@ results-text: |-
   Over 20,000 registrations for the SlimFast Challenge via the newly created app.
 
   Over 1,000 active and vocal Facebook group members; helping to establish a community around the brand supporting each other and engaging with SlimFast.
-brief-image-one: "/uploads/slimfast-one.jpg"
-brief-image-two: "/uploads/slimfast-two.jpg"
 layout: project
 ---
 
