@@ -11,7 +11,7 @@ images:
 - "/uploads/211A6870-select.jpg"
 - "/uploads/POP-PRODUCTION-PORTRAITS.jpg"
 company: PepsiCo
-is-featured: true
+is-featured: false
 excerpt-text: Launched PepsiCo’s new popcorn brand to become no. 2 in the market in
   its first week.
 is-carousel: true
