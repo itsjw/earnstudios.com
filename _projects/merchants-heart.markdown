@@ -1,7 +1,7 @@
 ---
 title: Merchant's Heart
 date: 2015-09-12 00:00:00 Z
-position: 5
+position: 2
 image: "/uploads/merchants-heart.jpg"
 feature-image: "/uploads/merchants-heart-feature.jpg"
 images: 
