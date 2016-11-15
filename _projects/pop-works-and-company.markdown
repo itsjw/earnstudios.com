@@ -1,5 +1,5 @@
 ---
-title: Pop Works & Company
+title: Pop Works
 date: 2016-11-15 09:48:00 Z
 position: 0
 image: "/uploads/POP-PRODUCTION-PORTRAITS-585.jpg"
