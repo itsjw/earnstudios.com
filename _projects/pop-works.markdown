@@ -28,4 +28,3 @@ results-text: 'Pop Works quickly became the second biggest Popcorn brand on the 
   gaining 6% market share '
 ---
 
-Life is serious, popcorn isn't. That's why we launched much more than just a product but an entertainment brand on a mission to create pops of entertainment brought to you by Pop Works Studios. Our first creation saw Pop Works Chief Inventor and vlogger, Simone Giertz, create the Pop Works Popcorn Party Server. Check out the film here. 
