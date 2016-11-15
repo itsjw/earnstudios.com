@@ -6,5 +6,6 @@ is-carousel: true
 carousel-text: Launched PepsiCo’s new popcorn brand to become no. 2 in the market
   in its first week.
 link: "/projects/pop-works-and-company/"
+has_darkoverlay: true
 ---
 
