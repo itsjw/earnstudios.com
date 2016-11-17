@@ -11,9 +11,9 @@ images:
 - "/uploads/Shot-2.jpg"
 company: Qualcomm
 is-featured: true
-excerpt-text: Launching the first ever drone race at Wembley Stadium
+excerpt-text: Qualcomm Freestyle Drone Racing at Wembley Stadium
 is-carousel: false
-carousel-text: Launching the first ever drone race at Wembley Stadium
+carousel-text: Qualcomm Freestyle Drone Racing at Wembley Stadium
 quote: Very innovative, driven, lean, agile and fun inventors that get the job done
 quote-cite: Andrew Garrihy, VP Marketing, Qualcomm
 brief-text: Qualcomm asked us for help demonstrating the groundbreaking power of their

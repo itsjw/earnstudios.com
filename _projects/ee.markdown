@@ -9,9 +9,8 @@ images:
 - "/uploads/ee-two.jpg"
 company: EE
 is-featured: true
-excerpt-text: 50,000 new EE customers in 10 hours…and counting
-is-carousel: 
-carousel-text: 50,000 new EE customers in 10 hours…and counting
+excerpt-text: 'EE Limited Editions: The mobile network run by YouTubers '
+carousel-text: 'EE Limited Editions: The mobile network run by YouTubers '
 quote: Smart, collaborative, focused
 quote-cite: Spencer McHugh, Marketing Director, EE
 brief-text: To drive trial of PAYG Sims amongst young data hungry people
