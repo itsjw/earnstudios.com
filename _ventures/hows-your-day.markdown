@@ -8,8 +8,8 @@ images:
 - "/uploads/HYD-page-2.jpg"
 company: EARN
 is-featured: true
-excerpt-text: 'How''s Your Day App: We invest in happiness to enhance our creativity'
-carousel-text: We invest in happiness to enhance our creativity
+excerpt-text: 'How''s Your Day App: The Happiness Tracker'
+carousel-text: 'How''s Your Day App: The Happiness Tracker'
 video: 154205367
 intro: At EARN, we believe in the importance of positive psychology and that small
   changes in lifestyle wellbeing and happiness levels can be improved.
