@@ -24,7 +24,7 @@ our-history-text: |-
   Established in 2012, in our relatively short existence, EARN has worked in many countries, with a wide range of blue chip clients include Castrol, EE, ITV, Lucozade Ribena Suntory, Pepsico, Qualcomm, Samsung, Universal Studios and Veuve Clicquot. Through this experience, the team has acquired a high level of expertise in building global brand platforms that drive significant engagement and advocacy with our clients’ brands.
 
   EARN’s first ever project made Castrol the most shared sponsor of the FIFA World Cup with the Castrol Footkhana film being shared by over 1 million people. Another project, for EE broke records in customer acquisition with 50,000 new customers in the first 10 hours of our EE Limited Editions SIM video launching on YouTube.
-client-logos-image: "/uploads/Client%20Logo.png"
+client-logos-image: "/uploads/ClientLogo3.png"
 layout: about
 ---
 
