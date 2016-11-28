@@ -87,6 +87,12 @@
 		"oAP": "\/_friends\/fizz-pop-bang.markdown",
 		"oF": 0
 		},
+	"\/_friends\/mark-pavitt.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_friends\/mark-pavitt.markdown",
+		"oF": 0
+		},
 	"\/_friends\/studio-yes.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -470,6 +476,14 @@
 		"oA": 1,
 		"oAP": "\/build\/_site",
 		"oF": 0
+		},
+	"\/_uploads\/_MG_3161 1.jpg": {
+		"ft": 16384,
+		"iS": 57245,
+		"oA": 1,
+		"oAP": "\/_uploads\/_MG_3161 1.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/_uploads\/_uploads\/Will-Prosser.jpg": {
 		"ft": 16384,
@@ -875,15 +889,13 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/logos.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_uploads\/logos.svg",
+	"\/_uploads\/Mark-Pavitt.jpg": {
+		"ft": 16384,
+		"iS": 91634,
+		"oA": 0,
+		"oAP": "\/_uploads\/Mark-Pavitt.jpg",
 		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
+		"opt": 0
 		},
 	"\/_uploads\/merchants-heart-feature.jpg": {
 		"ft": 16384,
@@ -1122,6 +1134,14 @@
 		"iS": 28311,
 		"oA": 0,
 		"oAP": "\/_uploads\/samsung.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/Screen Shot 2016-11-23 at 13.57.24.png": {
+		"ft": 32768,
+		"iS": 53458,
+		"oA": 0,
+		"oAP": "\/_uploads\/Screen Shot 2016-11-23 at 13.57.24.png",
 		"oF": 0,
 		"opt": 0
 		},
