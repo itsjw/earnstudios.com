@@ -1505,6 +1505,14 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/assets\/img\/marker.png": {
+		"ft": 32768,
+		"iS": 544,
+		"oA": 0,
+		"oAP": "\/assets\/img\/marker.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/assets\/img\/meta\/og-image.png": {
 		"ft": 32768,
 		"iS": 14790,
