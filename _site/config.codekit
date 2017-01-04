@@ -700,6 +700,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/projects\/pop-works\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/projects\/pop-works\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/projects\/qualcomm\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1056,6 +1065,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/hires-8570.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55287,
+		"inputAbbreviatedPath": "\/_site\/uploads\/hires-8570.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/hires-8570.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/hires-8690.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73101,
+		"inputAbbreviatedPath": "\/_site\/uploads\/hires-8690.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/hires-8690.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/hires-8809.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81799,
+		"inputAbbreviatedPath": "\/_site\/uploads\/hires-8809.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/hires-8809.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/hires-9496.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123618,
+		"inputAbbreviatedPath": "\/_site\/uploads\/hires-9496.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/hires-9496.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/hows-your-day-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1144,6 +1197,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/HYD-page-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30209,
+		"inputAbbreviatedPath": "\/_site\/uploads\/HYD-page-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/HYD-page-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/HYD-page-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36307,
+		"inputAbbreviatedPath": "\/_site\/uploads\/HYD-page-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/HYD-page-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/itv.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1195,6 +1270,17 @@
 		"initialSize": 94956,
 		"inputAbbreviatedPath": "\/_site\/uploads\/leila-ghazai.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/leila-ghazai.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/Mark-Pavitt.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91634,
+		"inputAbbreviatedPath": "\/_site\/uploads\/Mark-Pavitt.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Mark-Pavitt.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1265,6 +1351,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/POP-PRODUCT-128.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101025,
+		"inputAbbreviatedPath": "\/_site\/uploads\/POP-PRODUCT-128.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/POP-PRODUCT-128.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/POP_PRODUCTION_PORTRAITS_164.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116641,
+		"inputAbbreviatedPath": "\/_site\/uploads\/POP_PRODUCTION_PORTRAITS_164.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/POP_PRODUCTION_PORTRAITS_164.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/popworks-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1272,6 +1380,72 @@
 		"initialSize": 262912,
 		"inputAbbreviatedPath": "\/_site\/uploads\/popworks-feature.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/popworks-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/popworks-five.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52101,
+		"inputAbbreviatedPath": "\/_site\/uploads\/popworks-five.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/popworks-five.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/popworks-four.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50769,
+		"inputAbbreviatedPath": "\/_site\/uploads\/popworks-four.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/popworks-four.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/popworks-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52240,
+		"inputAbbreviatedPath": "\/_site\/uploads\/popworks-one.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/popworks-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/popworks-six.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45228,
+		"inputAbbreviatedPath": "\/_site\/uploads\/popworks-six.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/popworks-six.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/popworks-three.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63139,
+		"inputAbbreviatedPath": "\/_site\/uploads\/popworks-three.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/popworks-three.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/popworks-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44197,
+		"inputAbbreviatedPath": "\/_site\/uploads\/popworks-two.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/popworks-two.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1441,6 +1615,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/Screen Shot 2016-11-23 at 13.57.24.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53458,
+		"inputAbbreviatedPath": "\/_site\/uploads\/Screen Shot 2016-11-23 at 13.57.24.png",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Screen Shot 2016-11-23 at 13.57.24.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/Shot-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59158,
+		"inputAbbreviatedPath": "\/_site\/uploads\/Shot-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Shot-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/slimfast-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1573,6 +1769,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/Wembley-EE-Qualcomm-DroneRace-012.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84978,
+		"inputAbbreviatedPath": "\/_site\/uploads\/Wembley-EE-Qualcomm-DroneRace-012.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Wembley-EE-Qualcomm-DroneRace-012.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/Will.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1640,13 +1847,13 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_uploads\/_uploads\/Will-Prosser.jpg": {
+	"\/_uploads\/_MG_3161 1.jpg": {
 		"fileType": 16384,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 123338,
-		"inputAbbreviatedPath": "\/_uploads\/_uploads\/Will-Prosser.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/_uploads\/Will-Prosser.jpg",
+		"initialSize": 57245,
+		"inputAbbreviatedPath": "\/_uploads\/_MG_3161 1.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/_MG_3161 1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1959,6 +2166,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/hires-8570.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55287,
+		"inputAbbreviatedPath": "\/_uploads\/hires-8570.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/hires-8570.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/hires-8690.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73101,
+		"inputAbbreviatedPath": "\/_uploads\/hires-8690.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/hires-8690.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/hires-8809.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81799,
+		"inputAbbreviatedPath": "\/_uploads\/hires-8809.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/hires-8809.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/hires-9496.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123618,
+		"inputAbbreviatedPath": "\/_uploads\/hires-9496.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/hires-9496.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/hows-your-day-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2047,6 +2298,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/HYD-page-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30209,
+		"inputAbbreviatedPath": "\/_uploads\/HYD-page-1.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/HYD-page-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/HYD-page-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36307,
+		"inputAbbreviatedPath": "\/_uploads\/HYD-page-2.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/HYD-page-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/itv.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2098,6 +2371,17 @@
 		"initialSize": 94956,
 		"inputAbbreviatedPath": "\/_uploads\/leila-ghazai.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/leila-ghazai.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/Mark-Pavitt.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91634,
+		"inputAbbreviatedPath": "\/_uploads\/Mark-Pavitt.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/Mark-Pavitt.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2168,6 +2452,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/POP-PRODUCT-128.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101025,
+		"inputAbbreviatedPath": "\/_uploads\/POP-PRODUCT-128.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/POP-PRODUCT-128.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/POP_PRODUCTION_PORTRAITS_164.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116641,
+		"inputAbbreviatedPath": "\/_uploads\/POP_PRODUCTION_PORTRAITS_164.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/POP_PRODUCTION_PORTRAITS_164.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/popworks-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2175,6 +2481,72 @@
 		"initialSize": 262912,
 		"inputAbbreviatedPath": "\/_uploads\/popworks-feature.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/popworks-feature.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/popworks-five.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52101,
+		"inputAbbreviatedPath": "\/_uploads\/popworks-five.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/popworks-five.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/popworks-four.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50769,
+		"inputAbbreviatedPath": "\/_uploads\/popworks-four.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/popworks-four.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/popworks-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52240,
+		"inputAbbreviatedPath": "\/_uploads\/popworks-one.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/popworks-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/popworks-six.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45228,
+		"inputAbbreviatedPath": "\/_uploads\/popworks-six.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/popworks-six.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/popworks-three.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63139,
+		"inputAbbreviatedPath": "\/_uploads\/popworks-three.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/popworks-three.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/popworks-two.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44197,
+		"inputAbbreviatedPath": "\/_uploads\/popworks-two.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/popworks-two.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2344,6 +2716,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/Screen Shot 2016-11-23 at 13.57.24.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53458,
+		"inputAbbreviatedPath": "\/_uploads\/Screen Shot 2016-11-23 at 13.57.24.png",
+		"outputAbbreviatedPath": "\/_uploads\/Screen Shot 2016-11-23 at 13.57.24.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/Shot-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59158,
+		"inputAbbreviatedPath": "\/_uploads\/Shot-2.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/Shot-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/slimfast-feature.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2472,6 +2866,17 @@
 		"initialSize": 60422,
 		"inputAbbreviatedPath": "\/_uploads\/we-make-awesome-shit.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/we-make-awesome-shit.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/Wembley-EE-Qualcomm-DroneRace-012.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84978,
+		"inputAbbreviatedPath": "\/_uploads\/Wembley-EE-Qualcomm-DroneRace-012.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/Wembley-EE-Qualcomm-DroneRace-012.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

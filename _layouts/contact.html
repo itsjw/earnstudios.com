@@ -13,7 +13,7 @@ layout: dark
     var map;
     function init() {
         var mapOptions = {
-            center: new google.maps.LatLng(51.517947, -0.090275),
+            center: new google.maps.LatLng(51.517538, -0.180459),
             zoom: 16,
             zoomControl: true,
             zoomControlOptions: {
@@ -156,7 +156,7 @@ layout: dark
         var mapElement = document.getElementById('map');
         var map = new google.maps.Map(mapElement, mapOptions);
         var locations = [
-['EARN Studios', 'undefined', '+44 (0)20 3318 8227', 'hello@earnstudios.com', 'http://earnstudios.com', 51.517947, -0.090275, 'https://mapbuildr.com/assets/img/markers/solid-pin-orange.png']
+['EARN Studios', 'undefined', '+44 (0)20 3318 8227', 'hello@earnstudios.com', 'http://earnstudios.com', 51.517538, -0.180459, 'https://mapbuildr.com/assets/img/markers/solid-pin-orange.png']
         ];
         for (i = 0; i < locations.length; i++) {
 			if (locations[i][1] =='undefined'){ description ='';} else { description = locations[i][1];}
@@ -219,8 +219,9 @@ link = '';            bindInfoWindow(marker, map, locations[i][0], description, 
 	<h3>Enough about us... let’s talk about you</h3>
 	</div>
 	<div class="small-12 medium-6 large-6 columns">
-	<h5><a href="https://goo.gl/maps/2mbaDdFXTvL2">EARN Studios Limited<br>WeWork Moorgate<br>
-1 Fore St, London EC2Y 5EJ<br>
+	<h5><a href="https://goo.gl/maps/Kjon8qneAZk">EARN Studios Limited<br>WeWork Paddington<br>
+2 Eastbourne Terrace<br>
+London W2 6LG<br>
 United Kingdom</a><h5>
 	</div>
 </div>

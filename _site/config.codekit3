@@ -7,7 +7,7 @@
 		"uuidString": "EDB44E38-DB9B-408C-B9C2-C572FB45B1A6"
 		}
 	],
-"creatorBuild": "25444",
+"creatorBuild": "25479",
 "files": {
 	"\/404.md": {
 		"cS": 0,
@@ -351,6 +351,12 @@
 		"oAP": "\/_people\/leila-ghazai.markdown",
 		"oF": 0
 		},
+	"\/_people\/mark-pavitt.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_people\/mark-pavitt.markdown",
+		"oF": 0
+		},
 	"\/_people\/nichola-spencer.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -482,14 +488,6 @@
 		"iS": 57245,
 		"oA": 1,
 		"oAP": "\/_uploads\/_MG_3161 1.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/_uploads\/Will-Prosser.jpg": {
-		"ft": 16384,
-		"iS": 123338,
-		"oA": 0,
-		"oAP": "\/_uploads\/_uploads\/Will-Prosser.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -888,6 +886,16 @@
 		"oAP": "\/_uploads\/leila-ghazai.jpg",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/_uploads\/logos.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_uploads\/logos.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/_uploads\/Mark-Pavitt.jpg": {
 		"ft": 16384,
@@ -13655,6 +13663,10 @@
 			"active": 0,
 			"optionString": "{'properties': 'always'}"
 			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
+			},
 		"class-methods-use-this": {
 			"active": 0,
 			"optionString": "{'exceptMethods': []}"
@@ -13818,6 +13830,10 @@
 		"max-statements": {
 			"active": 0,
 			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
+			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
 			},
 		"multiline-ternary": {
 			"active": 0,
@@ -14183,6 +14199,10 @@
 			"active": 0,
 			"optionString": "'except-parens'"
 			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-script-url": {
 			"active": 0,
 			"optionString": ""
@@ -14414,6 +14434,10 @@
 		"radix": {
 			"active": 0,
 			"optionString": "'always'"
+			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-jsdoc": {
 			"active": 0,
@@ -15247,6 +15271,10 @@
 			},
 		"space-colon": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"support-ie8": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"toplevel": {
