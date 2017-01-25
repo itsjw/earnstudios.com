@@ -1,6 +1,7 @@
 ---
 title: Morgan Collins
 date: 2017-01-25 12:53:00 Z
+position: 5
 image: "/uploads/Morgan-Collins.jpg"
 job-title: Account Director
 linkedin: morgan-collins-a4775539
