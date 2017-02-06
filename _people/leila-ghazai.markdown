@@ -2,7 +2,7 @@
 title: Leila Ghazai
 position: 4
 image: "/uploads/leila-ghazai.jpg"
-job-title: Account Director
+job-title: Client Director
 linkedin: leilaghazai
 ---
 
