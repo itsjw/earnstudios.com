@@ -1,7 +1,7 @@
 ---
 title: Money Talks
 date: 2017-02-10 12:43:00 Z
-image: "/uploads/FD_2.jpg"
+image: "/uploads/FD_2.1.jpg"
 feature-image: "/uploads/FD_6.jpg"
 company: first direct
 is-featured: true
