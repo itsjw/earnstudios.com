@@ -3,6 +3,8 @@ title: Money Talks
 date: 2017-02-10 12:43:00 Z
 company: first direct
 is-featured: false
+excerpt-text: Money Talks – first direct’s mission to get millennials opening up about
+  money
 brief-text: 'Engage the next generation of financially active millennials to raise
   awareness and relevance of first direct amongst new audiences  '
 solution-text: 'EARN Studios created Money Talks – a fun initiative to get people
