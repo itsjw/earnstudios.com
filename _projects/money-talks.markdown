@@ -15,6 +15,7 @@ solution-text: 'EARN Studios created Money Talks – a fun initiative to get peo
   with it. We created a humorous launch film in partnership with Very British Problems
   and used social influencers to spread the word and kick start those awkward money
   conversations. '
+video: 203115761
 ---
 
 first direct’s mission to get millennials opening up about money
