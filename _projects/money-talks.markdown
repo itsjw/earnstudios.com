@@ -16,7 +16,7 @@ carousel-text: Money Talks – first direct’s mission to get millennials openi
 brief-text: 'Engage the next generation of financially active millennials to raise
   awareness and relevance of first direct amongst new audiences  '
 solution-text: 'EARN Studios created Money Talks – a fun initiative to get people
-  talking about money; because the more open we are with money, the better we are
+  talking about money; because the more open we are about money, the better we are
   with it. We created a humorous launch film in partnership with Very British Problems
   and used social influencers to spread the word and kick start those awkward money
   conversations. '
