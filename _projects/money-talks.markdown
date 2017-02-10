@@ -20,6 +20,8 @@ solution-text: 'EARN Studios created Money Talks – a fun initiative to get peo
   with it. We created a humorous launch film in partnership with Very British Problems
   and used social influencers to spread the word and kick start those awkward money
   conversations. '
+results-text: This project is so current that we don’t have the results yet! Check
+  back soon to find out more
 video: 203115761
 ---
 
