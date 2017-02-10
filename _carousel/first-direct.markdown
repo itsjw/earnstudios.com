@@ -6,5 +6,6 @@ is-carousel: true
 carousel-text: Money Talks – first direct’s mission to get millennials opening up
   about money
 link: "/projects/money-talks/"
+has_darkoverlay: true
 ---
 
