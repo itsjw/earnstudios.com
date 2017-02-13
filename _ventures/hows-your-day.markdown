@@ -7,7 +7,7 @@ images:
 - "/uploads/HYD-page-1.jpg"
 - "/uploads/HYD-page-2.jpg"
 company: EARN
-is-featured: true
+is-featured: false
 excerpt-text: 'How''s Your Day App: The Happiness Tracker'
 carousel-text: 'How''s Your Day App: The Happiness Tracker'
 video: 154205367
