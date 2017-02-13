@@ -7,7 +7,7 @@ images:
 - "/uploads/FD_7.jpg"
 - "/uploads/FD_8.jpg"
 company: first direct
-is-featured: true
+is-featured: false
 excerpt-text: Money Talks – first direct’s mission to get millennials opening up about
   money
 is-carousel: false
