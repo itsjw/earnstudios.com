@@ -12,7 +12,7 @@ images:
 - "/uploads/popworks-five.jpg"
 - "/uploads/POP-PRODUCT-128.jpg"
 company: PepsiCo
-is-featured: false
+is-featured: true
 excerpt-text: Launched PepsiCo’s new popcorn brand to become No.2 in its first week
 is-carousel: true
 carousel-text: Launched PepsiCo’s new popcorn brand to become No.2 in its first week
