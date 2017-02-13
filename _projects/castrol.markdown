@@ -1,16 +1,15 @@
 ---
 title: Castrol Footkhana
 date: 2014-04-01 00:00:00 Z
-position: 3
+position: 5
 image: "/uploads/castrol.jpg"
 feature-image: "/uploads/castrol-feature.jpg"
 images:
 - "/uploads/castrol-one.jpg"
 - "/uploads/castrol-two.jpg"
 company: Castrol
-is-featured: true
+is-featured: false
 excerpt-text: Castrol Footkhana - the most shared film in the world
-is-carousel: 
 carousel-text: Castrol Footkhana - the most shared film in the world
 quote: An agency that thinks differently, with a focus on brand ownership where the
   brand’s values are at the heart of the idea

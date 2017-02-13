@@ -1,7 +1,7 @@
 ---
 title: Pop Works
 date: 2016-11-15 09:48:00 Z
-position: 0
+position: 1
 image: "/uploads/popworks.jpg"
 feature-image: "/uploads/POP_PRODUCTION_PORTRAITS_164.jpg"
 images:
@@ -12,7 +12,7 @@ images:
 - "/uploads/popworks-five.jpg"
 - "/uploads/POP-PRODUCT-128.jpg"
 company: PepsiCo
-is-featured: false
+is-featured: true
 excerpt-text: Launched PepsiCo’s new popcorn brand to become No.2 in its first week
 is-carousel: true
 carousel-text: Launched PepsiCo’s new popcorn brand to become No.2 in its first week

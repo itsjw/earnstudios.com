@@ -8,7 +8,7 @@ images:
 - "/uploads/merchants-heart-one.jpg"
 - "/uploads/merchants-heart-two.jpg"
 company: Lucozade Ribena Suntory
-is-featured: 
+is-featured: true
 excerpt-text: Creating a cultural shift… and a range of premium mixers
 is-carousel: true
 carousel-text: Creating a cultural shift… and a range of premium mixers
@@ -35,7 +35,6 @@ results-text: "Merchant’s Heart was launched into 10 beta bars in London durin
   Heart was voted as the most popular new product development of the year.  We credit
   its success to the collaborative approach taken in developing this product and the
   multidisciplinary team’s vision for how to bring it to market."
-video: 
 layout: project
 ---
 

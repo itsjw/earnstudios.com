@@ -1,7 +1,7 @@
 ---
 title: Samsung
 date: 2014-01-01 00:00:00 Z
-position: 5
+position: 6
 image: "/uploads/samsung.jpg"
 feature-image: "/uploads/samsung-feature.jpg"
 images:
@@ -10,7 +10,7 @@ images:
 - "/uploads/samsung-three.jpg"
 - "/uploads/samsung-four.jpg"
 company: Samsung
-is-featured: true
+is-featured: false
 excerpt-text: Wrote the book that wins millions of Samsung fans
 carousel-text: Wrote the book that wins millions of Samsung fans
 quote: EARN looks at the business in a different way and gives you the brutal truth
