@@ -7,7 +7,7 @@
 		"uuidString": "EDB44E38-DB9B-408C-B9C2-C572FB45B1A6"
 		}
 	],
-"creatorBuild": "25479",
+"creatorBuild": "25504",
 "files": {
 	"\/404.md": {
 		"cS": 0,
@@ -31,6 +31,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_carousel\/book.markdown",
+		"oF": 0
+		},
+	"\/_carousel\/first-direct.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_carousel\/first-direct.markdown",
 		"oF": 0
 		},
 	"\/_carousel\/merchants-heart.markdown": {
@@ -351,10 +357,10 @@
 		"oAP": "\/_people\/leila-ghazai.markdown",
 		"oF": 0
 		},
-	"\/_people\/mark-pavitt.markdown": {
+	"\/_people\/morgan-collins.markdown": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_people\/mark-pavitt.markdown",
+		"oAP": "\/_people\/morgan-collins.markdown",
 		"oF": 0
 		},
 	"\/_people\/nichola-spencer.markdown": {
@@ -451,6 +457,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/merchants-heart.markdown",
+		"oF": 0
+		},
+	"\/_projects\/money-talks.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/money-talks.markdown",
 		"oF": 0
 		},
 	"\/_projects\/pop-works.markdown": {
@@ -676,6 +688,102 @@
 		"iS": 43392,
 		"oA": 0,
 		"oAP": "\/_uploads\/ee.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/FD_1.jpg": {
+		"ft": 16384,
+		"iS": 1606453,
+		"oA": 0,
+		"oAP": "\/_uploads\/FD_1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/FD_2.1.jpg": {
+		"ft": 16384,
+		"iS": 70786,
+		"oA": 0,
+		"oAP": "\/_uploads\/FD_2.1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/FD_2.jpg": {
+		"ft": 16384,
+		"iS": 579660,
+		"oA": 0,
+		"oAP": "\/_uploads\/FD_2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/FD_3.jpeg": {
+		"ft": 16384,
+		"iS": 1576332,
+		"oA": 0,
+		"oAP": "\/_uploads\/FD_3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/FD_3.jpg": {
+		"ft": 16384,
+		"iS": 642942,
+		"oA": 0,
+		"oAP": "\/_uploads\/FD_3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/FD_4-42730c.jpg": {
+		"ft": 16384,
+		"iS": 1946927,
+		"oA": 0,
+		"oAP": "\/_uploads\/FD_4-42730c.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/FD_4.jpg": {
+		"ft": 16384,
+		"iS": 1557954,
+		"oA": 0,
+		"oAP": "\/_uploads\/FD_4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/FD_5.jpg": {
+		"ft": 16384,
+		"iS": 1383614,
+		"oA": 0,
+		"oAP": "\/_uploads\/FD_5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/FD_6-5673d1.jpg": {
+		"ft": 16384,
+		"iS": 165318,
+		"oA": 0,
+		"oAP": "\/_uploads\/FD_6-5673d1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/FD_6.jpg": {
+		"ft": 16384,
+		"iS": 165318,
+		"oA": 0,
+		"oAP": "\/_uploads\/FD_6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/FD_7.jpg": {
+		"ft": 16384,
+		"iS": 67321,
+		"oA": 0,
+		"oAP": "\/_uploads\/FD_7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/FD_8.jpg": {
+		"ft": 16384,
+		"iS": 51998,
+		"oA": 0,
+		"oAP": "\/_uploads\/FD_8.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -945,6 +1053,30 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/_uploads\/Morgan-Collins.jpg": {
+		"ft": 16384,
+		"iS": 97234,
+		"oA": 0,
+		"oAP": "\/_uploads\/Morgan-Collins.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/Morgan-Collins2-664b2d.jpg": {
+		"ft": 16384,
+		"iS": 60037,
+		"oA": 0,
+		"oAP": "\/_uploads\/Morgan-Collins2-664b2d.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/Morgan-Collins2.jpg": {
+		"ft": 16384,
+		"iS": 60037,
+		"oA": 0,
+		"oAP": "\/_uploads\/Morgan-Collins2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/_uploads\/nichola-spencer.jpg": {
 		"ft": 16384,
 		"iS": 66588,
@@ -1142,14 +1274,6 @@
 		"iS": 28311,
 		"oA": 0,
 		"oAP": "\/_uploads\/samsung.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/Screen Shot 2016-11-23 at 13.57.24.png": {
-		"ft": 32768,
-		"iS": 53458,
-		"oA": 0,
-		"oAP": "\/_uploads\/Screen Shot 2016-11-23 at 13.57.24.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1505,11 +1629,11 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/img\/marker.png": {
+	"\/assets\/img\/layout\/marker.png": {
 		"ft": 32768,
 		"iS": 544,
 		"oA": 0,
-		"oAP": "\/assets\/img\/marker.png",
+		"oAP": "\/assets\/img\/layout\/marker.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -13875,6 +13999,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
@@ -14414,6 +14542,10 @@
 		"prefer-const": {
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
 		"prefer-numeric-literals": {
 			"active": 0,
