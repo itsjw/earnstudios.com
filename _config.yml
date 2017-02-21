@@ -108,9 +108,18 @@ kramdown:
   hard_wrap: false
 highlighter: rouge
 exclude:
+- Gruntfile.js
+- Gemfile
+- Gemfile.lock
+- package.json
+- README*
+- node_modules
+- ".gitignore"
 - bower_components
-description: We are an entrepreneurial creative agency, our mission is to earn brand
-  love with brave clients
+- config.codekit3
+- CHANGELOG.md
+- LICENSE.md
+description: EARN is a consultancy for future facing brands. Founded in 2013 to build long term brand love and revenue with brave clients.
 company: EARN Studios Limited
 email: hello@earnstudios.com
 linkedin: company/earn-studios-ltd

@@ -3,7 +3,7 @@ title: Pop Works
 date: 2016-11-15 09:48:00 Z
 position: 1
 image: "/uploads/popworks.jpg"
-feature-image: "/uploads/POP_PRODUCTION_PORTRAITS_164.jpg"
+feature-image: "/uploads/popworks-feature.jpg"
 images:
 - "/uploads/popworks-one.jpg"
 - "/uploads/popworks-two.jpg"

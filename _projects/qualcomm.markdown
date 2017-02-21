@@ -7,8 +7,8 @@ feature-image: "/uploads/qualcomm-feature.jpg"
 images:
 - "/uploads/qualcomm-one.jpg"
 - "/uploads/qualcomm-two.jpg"
-- "/uploads/Wembley-EE-Qualcomm-DroneRace-012.jpg"
-- "/uploads/Shot-2.jpg"
+- "/uploads/qualcomm-three.jpg"
+- "/uploads/qualcomm-four.jpg"
 company: Qualcomm
 is-featured: true
 excerpt-text: Qualcomm Freestyle Drone Racing at Wembley Stadium
