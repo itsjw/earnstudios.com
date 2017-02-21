@@ -4,8 +4,8 @@ date: 2013-09-12 00:00:00 Z
 image: "/uploads/hows-your-day.jpg"
 feature-image: "/uploads/hows-your-day-feature.jpg"
 images:
-- "/uploads/HYD-page-1.jpg"
-- "/uploads/HYD-page-2.jpg"
+- "/uploads/hows-your-day-one.jpg"
+- "/uploads/hows-your-day-two.jpg"
 company: EARN
 is-featured: false
 excerpt-text: 'How''s Your Day App: The Happiness Tracker'

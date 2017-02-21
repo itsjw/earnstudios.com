@@ -2,7 +2,7 @@
 title: Book
 feature-image: "/uploads/book.jpg"
 hero-title: Brand Love
-hero-subtitle: How to build a brand worth talking about
+hero-subtitle: Download your free sample today
 what-is-title: What is brand love?
 what-is-points:
 - 'There are 18,000,000 photos on Instagram tagged #starbucks. Not one is paid for

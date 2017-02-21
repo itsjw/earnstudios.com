@@ -13,7 +13,7 @@ EARN Happiness School (EHS) began as an internal project for EARN employees with
 
 Fuelled by the belief that a happier team would equate to a better performing, more creative and productive team – which in turn gives us happier clients.
 
-![earn-media-ehs-2016-02.jpg](/uploads/earn-media-ehs-2016-02.jpg)
+![earn-happiness-school-one.jpg](/uploads/earn-happiness-school-one.jpg)
 
 We’re certainly not professing to uncover the definitive answer for how to be happy, but we do believe that being mindful of happiness and understanding more about it will lead to a more positive and fulfilling existence.
 
@@ -33,7 +33,7 @@ Being appreciative of each team member’s inner story is also key. More so acti
 
 Additionally, genuinely understanding the needs within a team is paramount, from the common needs shared amongst everyone to the distinct needs of the individuals. Through this greater understanding and knowledge, teams can build trust and respect - key factors affecting performance. It’s a big topic, and one that is best explained in Tim’s new book '[Inner Story](http://www.amazon.co.uk/Inner-Story-Understand-Change-world/dp/1518820476/ref=sr_1_1?ie=UTF8&qid=1453907655&sr=8-1&keywords=inner\+story)'
 
-![earn-media-ehs-2016-03.jpg](/uploads/earn-media-ehs-2016-03.jpg)
+![earn-happiness-school-two.jpg](/uploads/earn-happiness-school-two.jpg)
 
 So to answer the original question, ‘Is happiness a key factor in high performing teams?’ though for now it may be hard to scientifically prove that it is, learning from Tim’s experiences and examples, it unquestionably offers a positive improvement to both individuals and teams as a whole and that’s of great value to any business.
 

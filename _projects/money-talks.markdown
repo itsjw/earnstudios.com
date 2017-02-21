@@ -2,11 +2,11 @@
 title: Money Talks
 date: 2017-02-10 12:43:00 Z
 position: 0
-image: "/uploads/FD_2.1.jpg"
-feature-image: "/uploads/FD_6.jpg"
+image: "/uploads/first-direct.jpg"
+feature-image: "/uploads/first-direct-feature.jpg"
 images:
-- "/uploads/FD_7.jpg"
-- "/uploads/FD_8.jpg"
+- "/uploads/first-direct-one.jpg"
+- "/uploads/first-direct-two.jpg"
 company: first direct
 is-featured: false
 excerpt-text: Money Talks – first direct’s mission to get millennials opening up about
