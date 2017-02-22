@@ -8,7 +8,7 @@ images:
 - "/uploads/slimfast-one.jpg"
 - "/uploads/slimfast-two.jpg"
 company: SlimFast
-is-featured: false
+is-featured: true
 excerpt-text: Rejuvenating the SlimFast Challenge
 carousel-text: Rejuvenating the SlimFast Challenge
 brief-text: 'SlimFast brought us a brief to develop an idea to amplify their existing
