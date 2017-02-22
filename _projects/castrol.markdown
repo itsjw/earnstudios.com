@@ -3,7 +3,7 @@ title: Castrol Footkhana
 date: 2014-04-01 00:00:00 Z
 position: 5
 image: "/uploads/castrol.jpg"
-feature-image: "/uploads/Castrol.jpeg"
+feature-image: "/uploads/Castrol-e0da10.jpeg"
 images:
 - "/uploads/castrol-one.jpg"
 - "/uploads/castrol-two.jpg"
