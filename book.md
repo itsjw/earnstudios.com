@@ -1,5 +1,5 @@
 ---
-title: Brand Lov
+title: Brand Love
 feature-image: "/uploads/book.jpg"
 hero-title: Brand Love
 hero-subtitle: Download your free sample today
