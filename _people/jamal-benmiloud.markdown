@@ -2,7 +2,7 @@
 title: Jamal Benmiloud
 position: 2
 image: "/uploads/jamal-benmiloud.jpg"
-job-title: Founder & CCO
+job-title: Founder & CEO
 linkedin: jamal-benmiloud-2127a439
 ---
 
