@@ -1,6 +1,7 @@
 ---
 title: How's Your Day?
 date: 2013-09-12 00:00:00 Z
+position: 3
 image: "/uploads/hows-your-day.jpg"
 feature-image: "/uploads/hows-your-day-feature.jpg"
 images:
