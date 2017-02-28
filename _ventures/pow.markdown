@@ -11,7 +11,7 @@ images:
 - "/uploads/pow-four.jpg"
 company: POW Energy Water
 is-featured: true
-excerpt-text: 'POW: The Natural Energy Drink'
+excerpt-text: 'POW: The natural energy drink'
 carousel-text: 'POW: The Natural Energy Drink'
 intro: POW Energy Water brings together the hydrating power of water with natural
   caffeine from guarana, no added sugar, natural sweetness from fruit and no artificial
