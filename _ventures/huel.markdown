@@ -1,6 +1,7 @@
 ---
 title: Huel
 date: 2013-09-12 00:00:00 Z
+position: 2
 image: "/uploads/huel.jpg"
 feature-image: "/uploads/huel-feature.jpg"
 images:
