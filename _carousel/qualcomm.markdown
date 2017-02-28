@@ -1,6 +1,6 @@
 ---
 title: Qualcomm
-position: 1
+position: 3
 feature-image: "/uploads/qualcomm-feature.jpg"
 is-carousel: false
 carousel-text: Launching the first ever drone race at Wembley Stadium
