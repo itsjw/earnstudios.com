@@ -8,7 +8,7 @@ images:
 - "/uploads/hows-your-day-one.jpg"
 - "/uploads/hows-your-day-two.jpg"
 company: EARN
-is-featured: false
+is-featured: true
 excerpt-text: 'How''s Your Day App: The Happiness Tracker'
 carousel-text: 'How''s Your Day App: The Happiness Tracker'
 video: 154205367
