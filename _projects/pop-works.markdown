@@ -16,7 +16,8 @@ is-featured: false
 excerpt-text: Our launch campaign for Pop Works made it the second biggest popcorn
   with the highest ad recall for any PepsiCo brand.
 is-carousel: true
-carousel-text: Launched PepsiCo’s new popcorn brand to become No.2 in its first week
+carousel-text: Our launch campaign for Pop Works made it the second biggest popcorn
+  with the highest ad recall for any PepsiCo brand.
 brief-text: Launch Pop Works in an innovative way to a ‘connected millennial’ audience
 solution-text: Life is serious, popcorn isn't. That's why we launched much more than
   just a product but an entertainment brand on a mission to create pops of entertainment
