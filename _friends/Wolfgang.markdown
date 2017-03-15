@@ -1,7 +1,7 @@
 ---
-title: Bad Mood Films
+title: Wolfgang
 position: 5
 image: "/uploads/bad-mood-films.jpg"
-link: http://www.badmoods.co.uk
+link: https://madebywolfgang.com/
 ---
 
