@@ -9,9 +9,10 @@ images:
 - "/uploads/slimfast-two.jpg"
 company: SlimFast
 is-featured: true
-excerpt-text: SlimFast Challenge – we made their brand more community driven to achieve
-  their highest awareness and sales to date.
-carousel-text: Rejuvenating the SlimFast Challenge
+excerpt-text: SlimFast Challenge – our plan achieved their highest awareness and sales
+  results of the year.
+carousel-text: SlimFast Challenge – our plan achieved their highest awareness and
+  sales results of the year.
 brief-text: 'SlimFast brought us a brief to develop an idea to amplify their existing
   2016 marketing plan. '
 solution-text: "EARN developed a modern version of the SlimFast Challenge. Building
