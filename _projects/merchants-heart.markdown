@@ -8,7 +8,7 @@ images:
 - "/uploads/merchants-heart-one.jpg"
 - "/uploads/merchants-heart-two.jpg"
 company: Lucozade Ribena Suntory
-is-featured: true
+is-featured: false
 excerpt-text: Creating a cultural shift… and a range of premium mixers
 is-carousel: true
 carousel-text: Creating a cultural shift… and a range of premium mixers
