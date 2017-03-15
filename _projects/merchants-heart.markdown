@@ -10,7 +10,7 @@ images:
 company: Lucozade Ribena Suntory
 is-featured: false
 excerpt-text: Creating a cultural shift… and a range of premium mixers
-is-carousel: true
+is-carousel: false
 carousel-text: Creating a cultural shift… and a range of premium mixers
 quote: EARN have helped transform our culture to live and breathe innovative thinking.
   We have happy people who are delivering great results
