@@ -11,7 +11,8 @@ company: Castrol
 is-featured: true
 excerpt-text: Castrol Footkhana – our World Cup activation idea became the most shared
   film in the world.
-carousel-text: Castrol Footkhana - the most shared film in the world
+carousel-text: Castrol Footkhana – our World Cup activation idea became the most shared
+  film in the world.
 quote: An agency that thinks differently, with a focus on brand ownership where the
   brand’s values are at the heart of the idea
 quote-cite: Paul Goodmaker, Sponsorship Director, Castrol
