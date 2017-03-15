@@ -11,10 +11,11 @@ images:
 - "/uploads/qualcomm-four.jpg"
 company: Qualcomm
 is-featured: true
-excerpt-text: Qualcomm Drone Racing at Wembley – our ambitious B2B product launch
-  gained over 1 billion impacts.
+excerpt-text: Qualcomm Drone Race – our ambitious product launch earned over 1 billion
+  impacts.
 is-carousel: false
-carousel-text: Qualcomm Freestyle Drone Racing at Wembley Stadium
+carousel-text: Qualcomm Drone Race – our ambitious product launch earned over 1 billion
+  impacts.
 quote: Very innovative, driven, lean, agile and fun inventors that get the job done
 quote-cite: Andrew Garrihy, VP Marketing, Qualcomm
 brief-text: Qualcomm asked us for help demonstrating the groundbreaking power of their
