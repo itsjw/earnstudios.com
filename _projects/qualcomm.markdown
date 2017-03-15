@@ -11,7 +11,8 @@ images:
 - "/uploads/qualcomm-four.jpg"
 company: Qualcomm
 is-featured: true
-excerpt-text: Qualcomm Freestyle Drone Racing at Wembley Stadium
+excerpt-text: Qualcomm Drone Racing at Wembley – our ambitious B2B product launch
+  gained over 1 billion impacts.
 is-carousel: false
 carousel-text: Qualcomm Freestyle Drone Racing at Wembley Stadium
 quote: Very innovative, driven, lean, agile and fun inventors that get the job done
