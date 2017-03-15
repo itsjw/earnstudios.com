@@ -9,11 +9,11 @@ images:
 - "/uploads/first-direct-two.jpg"
 company: first direct
 is-featured: false
-excerpt-text: Money Talks – first direct’s mission to get millennials opening up about
-  money
+excerpt-text: first direct Money Talks – a digital series that increased their content
+  engagement by 500%
 is-carousel: false
-carousel-text: Money Talks – first direct’s mission to get millennials opening up
-  about money
+carousel-text: first direct Money Talks – a digital series that increased their content
+  engagement by 500%
 brief-text: 'Engage the next generation of financially active millennials to raise
   awareness and relevance of first direct amongst new audiences  '
 solution-text: 'EARN Studios created Money Talks – a fun initiative to get people
@@ -26,4 +26,4 @@ results-text: This project is so current that we don’t have the results yet! C
 video: 203115761
 ---
 
-first direct’s mission to get millennials opening up about money
+first direct Money Talks – a digital series that increased their content engagement by 500%
