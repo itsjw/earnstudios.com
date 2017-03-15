@@ -9,7 +9,8 @@ images:
 - "/uploads/slimfast-two.jpg"
 company: SlimFast
 is-featured: true
-excerpt-text: Rejuvenating the SlimFast Challenge
+excerpt-text: SlimFast Challenge – we made their brand more community driven to achieve
+  their highest awareness and sales to date.
 carousel-text: Rejuvenating the SlimFast Challenge
 brief-text: 'SlimFast brought us a brief to develop an idea to amplify their existing
   2016 marketing plan. '
