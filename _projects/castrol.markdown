@@ -8,8 +8,9 @@ images:
 - "/uploads/castrol-one.jpg"
 - "/uploads/castrol-two.jpg"
 company: Castrol
-is-featured: false
-excerpt-text: Castrol Footkhana - the most shared film in the world
+is-featured: true
+excerpt-text: Castrol Footkhana – our sponsorship activation became the most shared
+  film in the world with over 1 million shares.
 carousel-text: Castrol Footkhana - the most shared film in the world
 quote: An agency that thinks differently, with a focus on brand ownership where the
   brand’s values are at the heart of the idea
