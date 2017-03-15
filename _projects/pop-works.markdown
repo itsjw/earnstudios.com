@@ -13,7 +13,8 @@ images:
 - "/uploads/POP-PRODUCT-128.jpg"
 company: PepsiCo
 is-featured: false
-excerpt-text: Launched PepsiCo’s new popcorn brand to become No.2 in its first week
+excerpt-text: Our launch campaign for Pop Works made it the second biggest popcorn
+  with the highest ad recall for any PepsiCo brand.
 is-carousel: true
 carousel-text: Launched PepsiCo’s new popcorn brand to become No.2 in its first week
 brief-text: Launch Pop Works in an innovative way to a ‘connected millennial’ audience
