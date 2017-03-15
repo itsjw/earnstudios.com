@@ -1,6 +1,6 @@
 ---
 title: Jamal Benmiloud
-position: 2
+position: 3
 image: "/uploads/jamal-benmiloud.jpg"
 job-title: Founder & CEO
 linkedin: jamal-benmiloud-2127a439
