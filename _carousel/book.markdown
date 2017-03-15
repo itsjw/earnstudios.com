@@ -1,6 +1,6 @@
 ---
 title: Book
-position: 0
+position: 1
 feature-image: "/uploads/book.jpg"
 is-carousel: true
 carousel-text: Download a free sample of our Brand Love book
