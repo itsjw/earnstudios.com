@@ -5,7 +5,7 @@ position: 2
 feature-image: "/uploads/first-direct-feature.jpg"
 is-carousel: true
 carousel-text: First Direct Money Talks – a digital series that increased their content
-  engagement by 500%.
+  engagement by 500%
 link: "/projects/money-talks/"
 has_lightoverlay: false
 has_darkoverlay: false
