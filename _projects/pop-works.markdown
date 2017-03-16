@@ -10,7 +10,7 @@ images:
 - "/uploads/popworks-three.jpg"
 - "/uploads/popworks-four.jpg"
 - "/uploads/popworks-five.jpg"
-- "/uploads/POP-PRODUCT-128.jpg"
+- "/uploads/popworks-seven.jpg"
 company: PepsiCo
 is-featured: false
 excerpt-text: Our launch campaign for Pop Works made it the second biggest popcorn
