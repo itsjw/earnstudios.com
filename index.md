@@ -6,7 +6,7 @@ about-text: |-
 
   Fans don’t just “like” these brands, they love them and help build them. And the good news is that it’s not exclusive to cool, cutting-edge brands. Brand Love is achievable to all brands. Whether you’re a bank, an airline or selling drinks.
 
-  Download a sample of our founder’s book [here](http://earnstudios.com/book/)
+  Download a sample of our founder’s book here
 ventures-about-text: We also invest time and money in developing our own ventures
   to bring learnings into client projects
 layout: index
