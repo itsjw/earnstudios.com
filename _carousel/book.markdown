@@ -3,8 +3,7 @@ title: Book
 position: 1
 feature-image: "/uploads/book.jpg"
 is-carousel: true
-carousel-text: Download our founder’s book - case studies include Red Bull, Monster
-  Energy, LEGO, Xiaomi, Zappos and Go Pro.
+carousel-text: We earn extraordinary brand love and revenue results for our clients.
 link: "/book/"
 has_lightoverlay: true
 ---
