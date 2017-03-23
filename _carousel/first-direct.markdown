@@ -3,7 +3,7 @@ title: first direct
 date: 2017-02-10 16:55:00 Z
 position: 2
 feature-image: "/uploads/first-direct-feature.jpg"
-is-carousel: true
+is-carousel: false
 carousel-text: first direct Money Talks – a digital series that increased their content
   engagement by 500%
 link: "/projects/money-talks/"
