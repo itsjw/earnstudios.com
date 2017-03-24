@@ -11,10 +11,10 @@ images:
 - "/uploads/qualcomm-four.jpg"
 company: Qualcomm
 is-featured: true
-excerpt-text: Qualcomm Drone Race – our ambitious product launch earned over 1 billion
+excerpt-text: Qualcomm Drone Race – Our ambitious product launch earned over 1 billion
   impacts.
 is-carousel: false
-carousel-text: Qualcomm Drone Race – our ambitious product launch earned over 1 billion
+carousel-text: Qualcomm Drone Race – Our ambitious product launch earned over 1 billion
   impacts.
 quote: Very innovative, driven, lean, agile and fun inventors that get the job done
 quote-cite: Andrew Garrihy, VP Marketing, Qualcomm
