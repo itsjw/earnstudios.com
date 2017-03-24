@@ -25,4 +25,4 @@ results-text: This project is so current that we don’t have the results yet! C
 video: 203115761
 ---
 
-first direct Money Talks – a digital series that increased their content engagement by 500%
+first direct Money Talks – We increased content engagement by 500%.
