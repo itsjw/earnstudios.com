@@ -8,7 +8,7 @@ images:
 - "/uploads/first-direct-one.jpg"
 - "/uploads/first-direct-two.jpg"
 company: first direct
-is-featured: false
+is-featured: true
 excerpt-text: first direct Money Talks – a digital series that increased their content
   engagement by 500%
 is-carousel: false
