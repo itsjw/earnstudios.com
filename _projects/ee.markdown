@@ -9,10 +9,10 @@ images:
 - "/uploads/ee-two.jpg"
 company: EE
 is-featured: true
-excerpt-text: 'EE Limited Editions – we invented the mobile network run by YouTubers
-  that made £millions. '
-carousel-text: 'EE Limited Editions – we invented the mobile network run by YouTubers
-  that made £millions. '
+excerpt-text: EE Limited Editions – We invented a mobile network run by YouTubers
+  that made millions in revenue and fans.
+carousel-text: EE Limited Editions – We invented a mobile network run by YouTubers
+  that made millions in revenue and fans.
 quote: Smart, collaborative, focused
 quote-cite: Spencer McHugh, Marketing Director, EE
 brief-text: To drive trial of PAYG Sims amongst young data hungry people
