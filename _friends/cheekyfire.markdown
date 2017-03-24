@@ -1,6 +1,6 @@
 ---
 title: Cheekyfire
-position: 7
+position: 8
 image: "/uploads/cheekyfire.jpg"
 link: http://www.cheekyfire.com
 ---
