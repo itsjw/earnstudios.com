@@ -23,9 +23,9 @@ solution-text: "EARN developed a modern version of the SlimFast Challenge. Build
   provided a wealth of content, tools and assets to be activated across all of their
   channels (Twitter, Instagram, website, newsletters, PR, advertising and ambassadors.)"
 results-text: |-
-  Over 20,000 registrations for the SlimFast Challenge via the newly created app.
+  Over 40,000 registrations for the SlimFast Challenge via the newly created app.
 
-  Over 1,000 active and vocal Facebook group members; helping to establish a community around the brand supporting each other and engaging with SlimFast.
+  Over 5,000 active and vocal Facebook group members; helping to establish a community around the brand supporting each other and engaging with SlimFast.
 layout: project
 ---
 
