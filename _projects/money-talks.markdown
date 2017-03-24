@@ -12,8 +12,7 @@ is-featured: false
 excerpt-text: first direct Money Talks – a digital series that increased their content
   engagement by 500%
 is-carousel: false
-carousel-text: first direct Money Talks – a digital series that increased their content
-  engagement by 500%
+carousel-text: 'first direct: We increased content engagement by 500%.'
 brief-text: 'Engage the next generation of financially active millennials to raise
   awareness and relevance of first direct amongst new audiences  '
 solution-text: 'EARN Studios created Money Talks – a fun initiative to get people
