@@ -137,8 +137,9 @@ view_venture: View Venture
 view_blog: View Blog
 view_person: View
 compress_html:
-comments:
-- "<!-- "
-- " -->"
-blanklines: true
-profile: false
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
