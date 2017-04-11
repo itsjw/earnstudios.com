@@ -1,3 +1,7 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
 <html class="no-js" lang="en" dir="ltr">
 
@@ -10,7 +14,7 @@
 {% else %}
 <body id="top" class="animated fadeIn">
 {% endif %}
-  
+
 {% if page.url == "/" %}
 <script>document.body.className += ' fade-out';</script>
 {% endif %}
@@ -26,12 +30,11 @@
 <!-- Footer -->  
 {% include footer.html %}
 <!-- End Footer -->  
-  
-  
-</body>
 
 <!-- Scripts -->
 {% include scripts.html %}
 <!-- End Scripts -->
+  
+</body>
 
 </html>

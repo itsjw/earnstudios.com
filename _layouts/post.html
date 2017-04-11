@@ -12,13 +12,13 @@ layout: light
         <a href="mailto:{{ author.email }}">{{ author.name }}</a>
       {% endif %}
       <div class="hero__date">
-        {{ page.date | date: site.date_format }}
+<!--         {{ page.date | date: site.date_format }} -->
       </div>
       {% if page.next.url %}
-      <a class="next text-right" href="{{page.next.url}}"><svg class="icon icon-left-long"><use xlink:href="#icon-left-long"></use></svg></a>
+      <a class="next text-right" href="{{page.next.url}}"><svg class="icon icon-left-long"><use xlink:href="/assets/icons/symbol-defs.svg#icon-left-long"></use></svg></a>
       {% endif %}
       {% if page.previous.url %}
-      <a class="prev" href="{{page.previous.url}}"><svg class="icon icon-right-long"><use xlink:href="#icon-right-long"></use></svg></a>
+      <a class="prev" href="{{page.previous.url}}"><svg class="icon icon-right-long"><use xlink:href="/assets/icons/symbol-defs.svg#icon-right-long"></use></svg></a>
       {% endif %}
       
     </div>
