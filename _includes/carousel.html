@@ -3,7 +3,7 @@
   {% for slide in slide_documents %}
     <div class="carousel__cell {% if slide.has_darkoverlay == true %}carousel__cell--dark{% endif %}" style="background-image: url({{slide.feature-image}})">
       <div class="row carousel__cell__text align-middle">
-        <div class="small-12 medium-9 large-7 columns animated fadeInUp">
+        <div class="small-12 medium-10 large-9 columns animated fadeInUp">
           <h1><a href="{{ slide.link }}">{{slide.carousel-text}}</a></h1>
           <p><a href="{{ slide.link }}">View </a></p>
         </div>

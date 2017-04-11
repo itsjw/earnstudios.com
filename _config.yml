@@ -119,12 +119,11 @@ exclude:
 - config.codekit3
 - CHANGELOG.md
 - LICENSE.md
+- bower.json
 description: EARN is a consultancy for future facing brands. Founded in 2013 to build
   long term brand love and revenue with brave clients.
 company: EARN Studios Limited
 email: hello@earnstudios.com
-linkedin: company/earn-studios-ltd
-vimeo: user29030585
 google_site_verification: rOPaFOZ15OwhQRVRAWah2G1u4wvP83iRa4XpIqkcJyg
 analytics: UA-84661141-1
 logo: "/assets/img/layout/logo.svg"
@@ -132,10 +131,15 @@ per_page: 12
 date_format: "%b %d, %Y"
 future: true
 social:
-  facebook: 
-  instagram: 
-  twitter: 
+  linkedin: company/earn-studios-ltd
+  vimeo: user29030585
 view_project: View Project
 view_venture: View Venture
 view_blog: View Blog
 view_person: View
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
