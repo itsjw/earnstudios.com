@@ -28,7 +28,7 @@ layout: dark
       <!-- Image -->
       <div class="excerpt__image">
 
-{% if {{person.image}} %}
+{% if person.image %}
 <img src="{{person.image}}" alt="{{person.title}}" />
 {% else %}
 <img src="/uploads/blank.svg" alt="{{person.title}}" />
@@ -83,7 +83,7 @@ layout: dark
       <!-- Image -->
       <div class="excerpt__image">
 
-{% if {{friend.image}} %}
+{% if friend.image %}
 <img src="{{friend.image}}" alt="{{friend.title}}" />
 {% else %}
 <img src="/uploads/blank.svg" alt="{{friend.title}}" />

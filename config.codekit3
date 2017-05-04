@@ -141,10 +141,10 @@
 		"oAP": "\/_friends\/we-make-awesome-sh-dot-it.markdown",
 		"oF": 0
 		},
-	"\/_friends\/Wolfgang.markdown": {
+	"\/_friends\/wolfgang.markdown": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_friends\/Wolfgang.markdown",
+		"oAP": "\/_friends\/wolfgang.markdown",
 		"oF": 0
 		},
 	"\/_friends\/workmad.markdown": {
@@ -157,6 +157,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/analytics.html",
+		"oF": 0
+		},
+	"\/_includes\/book-modal.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/book-modal.html",
 		"oF": 0
 		},
 	"\/_includes\/bookrequest.html": {

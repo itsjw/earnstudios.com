@@ -137,6 +137,9 @@ view_project: View Project
 view_venture: View Venture
 view_blog: View Blog
 view_person: View
+complimentary-title: With our compliments
+complimentary-text: If you’re interested in finding out more about our book, please
+  fill out your details and we’ll send you a complimentary sample.
 compress_html:
   comments:
   - "<!-- "
