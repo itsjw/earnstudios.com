@@ -257,7 +257,7 @@
 		},
 	"\/_layouts\/book.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/_layouts\/book.html",
 		"oF": 0
 		},
@@ -1602,7 +1602,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/assets\/css\/app-ck.css",
 		"oF": 0,
 		"oS": 0
