@@ -1988,6 +1988,12 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/book.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/book.html",
+		"oF": 0
+		},
 	"\/book.md": {
 		"cS": 0,
 		"eF": 1,
