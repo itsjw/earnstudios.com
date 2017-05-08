@@ -710,9 +710,21 @@ padding-bottom: 0rem;
 
 }
 
-.hero__text__inner--book h3 {
-      color:$color--black;
+.hero__text__inner--book h3 a {
+      color:$color--white;
+      border-bottom: $color--white 1px solid;
   }
+  
+.hero__text__inner--book p a {
+      border-bottom: $color--white 1px solid;
+      padding-bottom: 0.25rem;
+      color: $color--white;
+      transition: $primary-transition;
+      &:hover {
+        color: $color--amber;
+        padding-bottom: 0.5rem;
+      }
+    }
 
 .book {
 	padding: 3rem;
