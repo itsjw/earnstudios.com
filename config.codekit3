@@ -1988,12 +1988,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/book.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/book.html",
-		"oF": 0
-		},
 	"\/book.md": {
 		"cS": 0,
 		"eF": 1,
@@ -2002,10 +1996,10 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/book.html",
-		"oF": 0,
-		"oFM": 0,
+		"oA": 2,
+		"oAP": "\/book.md",
+		"oF": 1,
+		"oFM": 9,
 		"oS": 0,
 		"pHT": 0,
 		"pME": 1,
