@@ -1,7 +1,6 @@
 ---
 title: KANPAI!
 date: 2017-05-10 17:02:00 Z
-image: "/uploads/kanpai_front_and_back.png"
 company: Merchan'ts Heart
 excerpt-text: 'KANPAI! – Merchant’s Heart’s first brand property '
 brief-text: To make Merchant’s Heart be more than just a product, to make it an essential
