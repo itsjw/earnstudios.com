@@ -3,8 +3,11 @@ title: KANPAI!
 date: 2017-05-10 17:02:00 Z
 image: "/uploads/kanpai_front_and_back-da71cc.png"
 feature-image: "/uploads/kanpai_featured-140396.jpg"
+images:
+- "/uploads/Kanpai_ali.jpg"
 company: Merchant's Heart
 excerpt-text: 'KANPAI! – Merchant’s Heart’s first brand property '
+carousel-text: 'KANPAI! – Merchant’s Heart’s first brand property '
 brief-text: To make Merchant’s Heart be more than just a product, to make it an essential
   part of drink culture
 solution-text: "We created KANPAI! magazine as a brand property to sit independently
