@@ -4,7 +4,10 @@ date: 2017-05-10 17:02:00 Z
 image: "/uploads/kanpai_front_and_back-da71cc.png"
 feature-image: "/uploads/kanpai_featured-140396.jpg"
 images:
+- "/uploads/kanpai_cocktail.jpg"
 - "/uploads/Kanpai_ali.jpg"
+- "/uploads/kanpai_backtomine.jpg"
+- "/uploads/kanpai_lab.jpg"
 company: Merchant's Heart
 excerpt-text: 'KANPAI! – Merchant’s Heart’s first brand property '
 carousel-text: 'KANPAI! – Merchant’s Heart’s first brand property '
