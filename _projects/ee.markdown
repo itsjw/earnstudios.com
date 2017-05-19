@@ -9,8 +9,7 @@ images:
 - "/uploads/ee-two.jpg"
 company: EE
 is-featured: true
-excerpt-text: EE Limited Editions – We invented a mobile network run by YouTubers
-  that made millions in revenue and fans.
+excerpt-text: EE - Mobile network run by YouTubers
 carousel-text: EE Limited Editions – We invented a mobile network run by YouTubers
   that made millions in revenue and fans.
 quote: Smart, collaborative, focused
