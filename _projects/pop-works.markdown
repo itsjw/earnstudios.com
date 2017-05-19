@@ -12,9 +12,8 @@ images:
 - "/uploads/popworks-five.jpg"
 - "/uploads/popworks-seven.jpg"
 company: PepsiCo
-is-featured: false
-excerpt-text: Our launch campaign for Pop Works made it the second biggest popcorn
-  with the highest ad recall for any PepsiCo brand.
+is-featured: true
+excerpt-text: Pop Works - Highest ad recall for PepsiCo
 is-carousel: true
 carousel-text: Our launch campaign for Pop Works made it the second biggest popcorn
   with the highest ad recall for any PepsiCo brand.
