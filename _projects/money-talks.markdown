@@ -24,4 +24,4 @@ results-text: first direct saw a 500% increase on view through rates and audienc
 video: 203115761
 ---
 
-first direct Money Talks – We increased content engagement by 500%.
+first direct Money Talks – 500% increase in engagement
