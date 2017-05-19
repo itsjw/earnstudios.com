@@ -9,7 +9,7 @@ images:
 - "/uploads/first-direct-two.jpg"
 company: first direct
 is-featured: true
-excerpt-text: first direct Money Talks – We increased content engagement by 500%.
+excerpt-text: first direct – 500% increase in engagement
 is-carousel: false
 carousel-text: first direct Money Talks – We increased content engagement by 500%.
 brief-text: 'Engage the next generation of financially active millennials to raise
