@@ -11,7 +11,7 @@ images:
 - "/uploads/qualcomm-four.jpg"
 company: Qualcomm
 is-featured: true
-excerpt-text: Qualcomm Drone Race –  B2B launch that earned 1 billion impacts
+excerpt-text: Qualcomm –  B2B launch that earned 1 billion impacts
 is-carousel: false
 carousel-text: Qualcomm Drone Race – Our ambitious product launch earned over 1 billion
   impacts.
