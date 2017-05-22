@@ -1,7 +1,7 @@
 ---
 title: Book
 feature-image: "/uploads/book.jpg"
-hero-title: Brand Love
+hero-title: 
 hero-subtitle: Download your free sample today
 what-is-title: What is brand love?
 what-is-points:
