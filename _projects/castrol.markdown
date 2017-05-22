@@ -9,7 +9,7 @@ images:
 - "/uploads/castrol-two.jpg"
 company: Castrol
 is-featured: true
-excerpt-text: Castrol – Most shared film the world
+excerpt-text: Castrol – Most shared film in the world
 carousel-text: Castrol Footkhana – Our World Cup activation idea became the most shared
   film in the world.
 quote: An agency that thinks differently, with a focus on brand ownership where the
