@@ -2,7 +2,7 @@
 title: Fast Art
 date: 2017-05-23 16:45:00 Z
 image: "/uploads/FF_poster.png"
-feature-image: "/uploads/FF_poster.png"
+feature-image: "/uploads/Universal_Header.png"
 images:
 - "/uploads/Universal5.png"
 - "/uploads/Universal6.png"
