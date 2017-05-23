@@ -1,6 +1,7 @@
 ---
 title: Fast Art
 date: 2017-05-23 16:05:00 Z
+image: "/uploads/FF_Carousel.jpg"
 company: Universal Pictures
 is-featured: false
 is-carousel: true
