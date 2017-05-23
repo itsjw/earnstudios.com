@@ -8,7 +8,7 @@ images:
 - "/uploads/Universal5.png"
 - "/uploads/Universal6.png"
 company: Universal Pictures
-is-featured: true
+is-featured: false
 excerpt-text: Universal Pictures - We broke the global box office sales record
 is-carousel: true
 carousel-text: Universal Pictures - We broke the global box office sales record
