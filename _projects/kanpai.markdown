@@ -1,6 +1,7 @@
 ---
 title: KANPAI!
 date: 2017-05-10 17:02:00 Z
+published: false
 position: 0
 image: "/uploads/kanpai_front_and_back-da71cc.png"
 feature-image: "/uploads/kanpai_featured-140396.jpg"
