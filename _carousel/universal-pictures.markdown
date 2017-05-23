@@ -7,6 +7,7 @@ feature-image: "/uploads/Carousel_FF.png"
 is-carousel: true
 carousel-text: We broke the global box office sales record
 link: "/projects/fast-art/"
-has_darkoverlay: true
+has_lightoverlay: true
+has_darkoverlay: false
 ---
 
