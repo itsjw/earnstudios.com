@@ -1,9 +1,10 @@
 ---
 title: Fast Art
 date: 2017-05-23 16:05:00 Z
-image: "/uploads/FF_Carousel.jpg"
+image: "/uploads/FF_Carousel-1b5820.jpg"
 company: Universal Pictures
 is-featured: false
+excerpt-text: Fast Art- We broke the global box office sales record
 is-carousel: true
 carousel-text: We broke the global box office sales record
 brief-text: Drive record box office sales and pre-bookings
