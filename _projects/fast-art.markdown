@@ -18,7 +18,7 @@ solution-text: Limited edition "money can’t buy" fan art to drive pre-bookings
   of twelve bespoke pieces.
 results-text: Smashed global box office records and activated in 52 markets with 37
   languages - the largest uptake in Universal history. Online promotions included
-  to a cinema exhibition.
+  a cinema exhibition.
 ---
 
 We broke the global box office sales record
