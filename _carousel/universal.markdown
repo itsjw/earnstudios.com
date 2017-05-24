@@ -6,7 +6,7 @@ feature-image: "/uploads/fast-art-feature.jpg"
 is-carousel: true
 carousel-text: We smashed the global box office record
 link: "/projects/fast-art/"
-has_lightoverlay:
+has_lightoverlay: 
 has_darkoverlay: true
 ---
 
