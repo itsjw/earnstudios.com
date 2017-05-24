@@ -9,7 +9,7 @@ images:
 - "/uploads/hows-your-day-two.jpg"
 company: EARN
 is-featured: true
-excerpt-text: 'How''s Your Day App: The Happiness Tracker'
+excerpt-text: Our Happiness Tracker App
 carousel-text: 'How''s Your Day App: The Happiness Tracker'
 video: 154205367
 intro: At EARN, we believe in the importance of positive psychology and that small
