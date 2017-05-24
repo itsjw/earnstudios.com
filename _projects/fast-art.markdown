@@ -1,14 +1,15 @@
 ---
 title: Fast Art
 date: 2017-05-23 16:45:00 Z
-image: "/uploads/FF_poster.png"
-feature-image: "/uploads/Universal_Carousel-d259d2.png"
+image: "/uploads/fast-art-feature.jpg"
+feature-image: "/uploads/fast-art-feature.jpg"
 images:
-- "/uploads/Universal5.png"
-- "/uploads/Universal6.png"
-company: Universal Pictures
+- "/uploads/fast-art-one.jpg"
+- "/uploads/fast-art-two.jpg"
+company: Universal
+has-logo: true
 is-featured: false
-excerpt-text: Universal Pictures - We smashed the global box office record
+excerpt-text: We smashed the global box office record
 is-carousel: true
 carousel-text: We smashed the global box office record
 brief-text: 'Drive record box office sales and pre-bookings '

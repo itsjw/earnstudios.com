@@ -8,6 +8,7 @@ images:
 - "/uploads/slimfast-one.jpg"
 - "/uploads/slimfast-two.jpg"
 company: SlimFast
+has-logo: true
 is-featured: false
 excerpt-text: SlimFast Challenge – our plan achieved their highest awareness and sales
   results of the year.

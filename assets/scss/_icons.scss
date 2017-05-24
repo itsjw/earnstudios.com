@@ -26,12 +26,12 @@ Example showing how to change the color/size of the icons:
 }
 
 .icon-logo {
-    width: 2.1357421875em;
+  width: 1.5078125em;
 }
 
 // Styling
 .icon-logo {
-    font-size: 3rem;
+    font-size: 3.25rem;
 }
 
 .icon-logo--footer {
@@ -65,6 +65,15 @@ svg.icon.icon-envelop2 {
 .icon-right-long {
   font-size: 2rem;
   margin-top: 1rem;
+  color: $color--white;
+	transition: $primary-transition;
+  &:hover {
+  color: $color--amber;
+  }
+}
+
+.icon-company {
+  font-size: 5rem;
   color: $color--white;
 	transition: $primary-transition;
   &:hover {
