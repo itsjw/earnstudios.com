@@ -8,9 +8,9 @@ images:
 - "/uploads/Universal6.png"
 company: Universal Pictures
 is-featured: false
-excerpt-text: Universal Pictures - We smashed the global box office records
+excerpt-text: Universal Pictures - We smashed the global box office record
 is-carousel: true
-carousel-text: We smashed the global box office records
+carousel-text: We smashed the global box office record
 brief-text: 'Drive record box office sales and pre-bookings '
 solution-text: Limited edition "money can’t buy" fan art to drive pre-bookings around
   the world. Globally renowned graffiti artists were commissioned to create a collection
@@ -20,4 +20,4 @@ results-text: Smashed global box office records and activated in 52 markets with
   a cinema exhibition.
 ---
 
-We smashed the global box office records
+We smashed the global box office record
