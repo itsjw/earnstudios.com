@@ -11,8 +11,8 @@ images:
 - "/uploads/huel-four.jpg"
 company: Huel
 is-featured: true
-excerpt-text: 'Huel: The future of food'
-carousel-text: 'Huel: the future of food'
+excerpt-text: The future of food
+carousel-text: The future of food
 intro: Huel is a nutritionally complete powdered food that contains all the protein,
   carbs, fats, vitamins and minerals your body needs.
 layout: venture
