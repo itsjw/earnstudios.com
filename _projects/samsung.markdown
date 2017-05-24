@@ -10,9 +10,10 @@ images:
 - "/uploads/samsung-three.jpg"
 - "/uploads/samsung-four.jpg"
 company: Samsung
+has-logo: true
 is-featured: false
-excerpt-text: Wrote the book that wins millions of Samsung fans
-carousel-text: Wrote the book that wins millions of Samsung fans
+excerpt-text: Wrote the book that wins millions of fans
+carousel-text: Wrote the book that wins millions of fans
 quote: EARN looks at the business in a different way and gives you the brutal truth
   and what is bad and good and be able to deliver it back in an “out of the world”
   way that is refreshing and honest

@@ -8,6 +8,16 @@
     </div>
     <!-- End Title -->
     
+    <!-- Logo -->
+    <div class="excerpt__logo wow fadeInUp">
+    {% if project.has-logo %}
+    <svg class="icon icon-{{ project.company | slugify }} icon-company"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ project.company | slugify }}"></use></svg>
+    {% else %}
+    {{project.company}}
+    {% endif %}
+    </div>
+    <!-- End Logo -->
+    
     <!-- Image -->
     <div class="excerpt__image">
     <img src="{{project.image}}" alt="{{project.title}}" />

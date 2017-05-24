@@ -8,8 +8,9 @@ images:
 - "/uploads/merchants-heart-one.jpg"
 - "/uploads/merchants-heart-two.jpg"
 company: Lucozade Ribena Suntory
+has-logo: true
 is-featured: true
-excerpt-text: Lucozade Ribera Suntory - 6 x faster innovation process
+excerpt-text: Six times faster innovation process
 is-carousel: false
 carousel-text: Creating a cultural shift… and a range of premium mixers
 quote: EARN have helped transform our culture to live and breathe innovative thinking.

@@ -57,6 +57,12 @@
 		"oAP": "\/_carousel\/qualcomm.markdown",
 		"oF": 0
 		},
+	"\/_carousel\/universal.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_carousel\/universal.markdown",
+		"oF": 0
+		},
 	"\/_config.yml": {
 		"ft": 8192,
 		"oA": 1,
@@ -483,6 +489,18 @@
 		"oAP": "\/_projects\/ee.markdown",
 		"oF": 0
 		},
+	"\/_projects\/fast-art.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/fast-art.markdown",
+		"oF": 0
+		},
+	"\/_projects\/kanpai.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/kanpai.markdown",
+		"oF": 0
+		},
 	"\/_projects\/merchants-heart.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -635,6 +653,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/Carousel_FF.png": {
+		"ft": 32768,
+		"iS": 887578,
+		"oA": 0,
+		"oAP": "\/_uploads\/Carousel_FF.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_uploads\/castrol-feature.jpg": {
 		"ft": 16384,
 		"iS": 340236,
@@ -760,6 +789,36 @@
 		"iS": 43392,
 		"oA": 0,
 		"oAP": "\/_uploads\/ee.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/fast-art-feature.jpg": {
+		"ft": 16384,
+		"iS": 325027,
+		"oA": 0,
+		"oAP": "\/_uploads\/fast-art-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/fast-art-one.jpg": {
+		"ft": 16384,
+		"iS": 72404,
+		"oA": 0,
+		"oAP": "\/_uploads\/fast-art-one.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/fast-art-two.jpg": {
+		"ft": 16384,
+		"iS": 76272,
+		"oA": 0,
+		"oAP": "\/_uploads\/fast-art-two.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1010,6 +1069,108 @@
 		"iS": 80416,
 		"oA": 0,
 		"oAP": "\/_uploads\/juliette-hughes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/kanpai-front-and-back.jpeg": {
+		"ft": 16384,
+		"iS": 63345,
+		"oA": 0,
+		"oAP": "\/_uploads\/kanpai-front-and-back.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/Kanpai_ali.jpg": {
+		"ft": 16384,
+		"iS": 35518,
+		"oA": 0,
+		"oAP": "\/_uploads\/Kanpai_ali.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/kanpai_backtomine.jpg": {
+		"ft": 16384,
+		"iS": 51772,
+		"oA": 0,
+		"oAP": "\/_uploads\/kanpai_backtomine.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/kanpai_cocktail.jpg": {
+		"ft": 16384,
+		"iS": 27691,
+		"oA": 0,
+		"oAP": "\/_uploads\/kanpai_cocktail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/kanpai_featured-0d334f.jpg": {
+		"ft": 16384,
+		"iS": 181738,
+		"oA": 0,
+		"oAP": "\/_uploads\/kanpai_featured-0d334f.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/kanpai_featured-140396.jpg": {
+		"ft": 16384,
+		"iS": 172923,
+		"oA": 0,
+		"oAP": "\/_uploads\/kanpai_featured-140396.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/kanpai_featured.jpg": {
+		"ft": 16384,
+		"iS": 180941,
+		"oA": 0,
+		"oAP": "\/_uploads\/kanpai_featured.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/kanpai_front_and_back-da71cc.png": {
+		"ft": 32768,
+		"iS": 112075,
+		"oA": 0,
+		"oAP": "\/_uploads\/kanpai_front_and_back-da71cc.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/kanpai_front_and_back.png": {
+		"ft": 32768,
+		"iS": 527790,
+		"oA": 0,
+		"oAP": "\/_uploads\/kanpai_front_and_back.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/kanpai_lab.jpg": {
+		"ft": 16384,
+		"iS": 51676,
+		"oA": 0,
+		"oAP": "\/_uploads\/kanpai_lab.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1525,6 +1686,72 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/Universal5.png": {
+		"ft": 32768,
+		"iS": 456153,
+		"oA": 0,
+		"oAP": "\/_uploads\/Universal5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/Universal6.png": {
+		"ft": 32768,
+		"iS": 425011,
+		"oA": 0,
+		"oAP": "\/_uploads\/Universal6.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/Universal_Carousel-d259d2.png": {
+		"ft": 32768,
+		"iS": 971909,
+		"oA": 0,
+		"oAP": "\/_uploads\/Universal_Carousel-d259d2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/Universal_Carousel.png": {
+		"ft": 32768,
+		"iS": 1054502,
+		"oA": 0,
+		"oAP": "\/_uploads\/Universal_Carousel.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/Universal_Header-311c01.png": {
+		"ft": 32768,
+		"iS": 905316,
+		"oA": 0,
+		"oAP": "\/_uploads\/Universal_Header-311c01.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/Universal_Header.png": {
+		"ft": 32768,
+		"iS": 905316,
+		"oA": 0,
+		"oAP": "\/_uploads\/Universal_Header.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_uploads\/we-make-awesome-shit.jpg": {
 		"ft": 16384,
 		"iS": 60422,
@@ -1801,6 +2028,15 @@
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/assets\/js\/min\/min\/app-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/js\/min\/svgxuse-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/min\/min\/svgxuse-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0

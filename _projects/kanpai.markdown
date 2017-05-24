@@ -9,8 +9,9 @@ images:
 - "/uploads/Kanpai_ali.jpg"
 - "/uploads/kanpai_backtomine.jpg"
 - "/uploads/kanpai_lab.jpg"
-company: Merchant's Heart
-excerpt-text: 'KANPAI! – Merchant’s Heart’s first brand property '
+company: Lucozade Ribena Suntory
+has-logo: true
+excerpt-text: 'Merchant’s Heart’s first brand property '
 carousel-text: 'KANPAI! – Merchant’s Heart’s first brand property '
 brief-text: To make Merchant’s Heart, a line of premium spirit enhancers, an essential
   part of drink culture

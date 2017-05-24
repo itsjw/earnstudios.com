@@ -456,6 +456,18 @@ i, cite, em, var, address, dfn {
     }
 }
 
+.excerpt__logo {
+  color: $color--white;
+  position:absolute;
+  bottom: 0rem;
+  left: 0rem;
+  padding: 3rem;
+  z-index: 1;  
+    @include breakpoint(small only) {
+    padding: 2rem;
+    }
+}
+
 
 .excerpt__image:after {
   content:'\A';
