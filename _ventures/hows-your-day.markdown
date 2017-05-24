@@ -10,7 +10,7 @@ images:
 company: EARN
 is-featured: true
 excerpt-text: Our Happiness Tracker App
-carousel-text: 'How''s Your Day App: The Happiness Tracker'
+carousel-text: Our Happiness Tracker App
 video: 154205367
 intro: At EARN, we believe in the importance of positive psychology and that small
   changes in lifestyle wellbeing and happiness levels can be improved.
