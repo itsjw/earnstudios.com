@@ -7,11 +7,10 @@ images:
 - "/uploads/fast-art-one.jpg"
 - "/uploads/fast-art-two.jpg"
 company: Universal
-has-logo: true
 is-featured: false
-excerpt-text: We smashed the global box office record
+excerpt-text: Fast Art smashed the global box office record
 is-carousel: true
-carousel-text: We smashed the global box office record
+carousel-text: Fast Art smashed the global box office record
 brief-text: 'Drive record box office sales and pre-bookings '
 solution-text: Limited edition "money can’t buy" fan art to drive pre-bookings around
   the world. Globally renowned graffiti artists were commissioned to create a collection
@@ -19,6 +18,7 @@ solution-text: Limited edition "money can’t buy" fan art to drive pre-bookings
 results-text: Smashed global box office records and activated in 52 markets with 37
   languages - the largest uptake in Universal history. Online promotions included
   a cinema exhibition.
+has-logo: true
 ---
 
-We smashed the global box office record
+Fast Art smashed the global box office record
