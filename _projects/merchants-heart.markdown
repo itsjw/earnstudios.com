@@ -9,9 +9,9 @@ images:
 - "/uploads/merchants-heart-two.jpg"
 company: Lucozade Ribena Suntory
 is-featured: true
-excerpt-text: Merchant’s Heart was their fastest innovation project
+excerpt-text: Merchant’s Heart was invented and launched in 6 months
 is-carousel: false
-carousel-text: Merchant’s Heart was their fastest innovation project
+carousel-text: Merchant’s Heart was invented and launched in 6 months
 quote: EARN have helped transform our culture to live and breathe innovative thinking.
   We have happy people who are delivering great results
 quote-cite: Peter Harding, CEO Lucozade Ribena Suntory
