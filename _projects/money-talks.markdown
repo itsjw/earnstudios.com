@@ -8,11 +8,10 @@ images:
 - "/uploads/first-direct-one.jpg"
 - "/uploads/first-direct-two.jpg"
 company: first direct
-has-logo: true
 is-featured: true
-excerpt-text: 500% increase in engagement
+excerpt-text: Money Talks increased content engagement by 500%
 is-carousel: false
-carousel-text: first direct Money Talks – We increased content engagement by 500%.
+carousel-text: Money Talks increased content engagement by 500%
 brief-text: 'Engage the next generation of financially active millennials to raise
   awareness and relevance of first direct amongst new audiences  '
 solution-text: 'EARN Studios created Money Talks – a fun initiative to get people
@@ -23,6 +22,7 @@ solution-text: 'EARN Studios created Money Talks – a fun initiative to get peo
 results-text: first direct saw a 500% increase on view through rates and audience
   engagement. The film received over 400,000 views over a variety of media channels.
 video: 203115761
+has-logo: true
 ---
 
-first direct Money Talks – 500% increase in engagement
+Money Talks increased content engagement by 500%

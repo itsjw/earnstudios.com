@@ -8,12 +8,9 @@ images:
 - "/uploads/slimfast-one.jpg"
 - "/uploads/slimfast-two.jpg"
 company: SlimFast
-has-logo: true
 is-featured: false
-excerpt-text: SlimFast Challenge – our plan achieved their highest awareness and sales
-  results of the year.
-carousel-text: SlimFast Challenge – our plan achieved their highest awareness and
-  sales results of the year.
+excerpt-text: 'SlimFast Challenge 2.0 achieved the highest sales results '
+carousel-text: 'SlimFast Challenge 2.0 achieved the highest sales results '
 brief-text: 'SlimFast brought us a brief to develop an idea to amplify their existing
   2016 marketing plan. '
 solution-text: "EARN developed a modern version of the SlimFast Challenge. Building
@@ -27,6 +24,7 @@ results-text: |-
   Over 40,000 registrations for the SlimFast Challenge via the newly created app.
 
   Over 5,000 active and vocal Facebook group members; helping to establish a community around the brand supporting each other and engaging with SlimFast.
+has-logo: true
 layout: project
 ---
 

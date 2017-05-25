@@ -8,11 +8,10 @@ images:
 - "/uploads/merchants-heart-one.jpg"
 - "/uploads/merchants-heart-two.jpg"
 company: Lucozade Ribena Suntory
-has-logo: true
 is-featured: true
-excerpt-text: Six times faster innovation process
+excerpt-text: Merchant’s Heart was their fastest innovation project
 is-carousel: false
-carousel-text: Creating a cultural shift… and a range of premium mixers
+carousel-text: Merchant’s Heart was their fastest innovation project
 quote: EARN have helped transform our culture to live and breathe innovative thinking.
   We have happy people who are delivering great results
 quote-cite: Peter Harding, CEO Lucozade Ribena Suntory
@@ -36,6 +35,7 @@ results-text: "Merchant’s Heart was launched into 10 beta bars in London durin
   Heart was voted as the most popular new product development of the year.  We credit
   its success to the collaborative approach taken in developing this product and the
   multidisciplinary team’s vision for how to bring it to market."
+has-logo: true
 layout: project
 ---
 

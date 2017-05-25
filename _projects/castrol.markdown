@@ -8,11 +8,9 @@ images:
 - "/uploads/castrol-one.jpg"
 - "/uploads/castrol-two.jpg"
 company: Castrol
-has-logo: true
 is-featured: true
-excerpt-text: Most shared film in the world
-carousel-text: Castrol Footkhana – Our World Cup activation idea became the most shared
-  film in the world.
+excerpt-text: Castrol Footkhana became the most shared film in the world
+carousel-text: Castrol Footkhana became the most shared film in the world
 quote: An agency that thinks differently, with a focus on brand ownership where the
   brand’s values are at the heart of the idea
 quote-cite: Paul Goodmaker, Sponsorship Director, Castrol
@@ -25,6 +23,7 @@ solution-text: EARN Studios worked with Brazilian football superstar Neymar Jr
 results-text: Over 1 million shares of the Castrol Footkhana video on YouTube. Over
   25 million views of the video worldwide
 video: 114787800
+has-logo: true
 layout: project
 ---
 

@@ -10,12 +10,10 @@ images:
 - "/uploads/qualcomm-three.jpg"
 - "/uploads/qualcomm-four.jpg"
 company: Qualcomm
-has-logo: true
 is-featured: true
-excerpt-text: B2B launch that earned 1 billion impacts
+excerpt-text: Our drone race earned 1 billion impacts
 is-carousel: false
-carousel-text: Qualcomm Drone Race – Our ambitious product launch earned over 1 billion
-  impacts.
+carousel-text: Our drone race earned 1 billion impacts
 quote: Very innovative, driven, lean, agile and fun inventors that get the job done
 quote-cite: Andrew Garrihy, VP Marketing, Qualcomm
 brief-text: Qualcomm asked us for help demonstrating the groundbreaking power of their
@@ -28,6 +26,7 @@ solution-text: "Working together with ERSA (the European Rotor Sports Associatio
   invited to experience the race as if they themselves were the pilots."
 results-text: 1 billion media impacts
 video: 183617169
+has-logo: true
 layout: project
 ---
 

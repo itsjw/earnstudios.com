@@ -10,9 +10,9 @@ images:
 - "/uploads/kanpai_backtomine.jpg"
 - "/uploads/kanpai_lab.jpg"
 company: Lucozade Ribena Suntory
-has-logo: true
-excerpt-text: 'Merchant’s Heart’s first brand property '
-carousel-text: 'KANPAI! – Merchant’s Heart’s first brand property '
+excerpt-text: Our inspiring magazine from Merchant’s Heart
+is-carousel: true
+carousel-text: Our inspiring magazine from Merchant’s Heart
 brief-text: To make Merchant’s Heart, a line of premium spirit enhancers, an essential
   part of drink culture
 solution-text: "We created KANPAI! magazine as a brand property to sit independently
@@ -24,6 +24,7 @@ solution-text: "We created KANPAI! magazine as a brand property to sit independe
   to name a few."
 results-text: "KANPAI! launched on April 18th with a party in Soho with over 180 attendees.
   \n\n\nAs the project is very new, come back soon for more results!"
+has-logo: true
 ---
 
-KANPAI! – Merchant’s Heart’s first brand property 
+Our inspiring magazine from Merchant’s Heart
