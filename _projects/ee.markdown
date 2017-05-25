@@ -8,11 +8,9 @@ images:
 - "/uploads/ee-one.jpg"
 - "/uploads/ee-two.jpg"
 company: EE
-has-logo: true
 is-featured: true
-excerpt-text: Mobile network run by YouTubers
-carousel-text: EE Limited Editions – We invented a mobile network run by YouTubers
-  that made millions in revenue and fans.
+excerpt-text: Our mobile network run by YouTubers made £ millions
+carousel-text: Our mobile network run by YouTubers made £ millions
 quote: Smart, collaborative, focused
 quote-cite: Spencer McHugh, Marketing Director, EE
 brief-text: To drive trial of PAYG Sims amongst young data hungry people
@@ -22,6 +20,7 @@ solution-text: We created the EE Limited Edition SIMs project, which enabled inf
   product for their fans who loved the idea of being texted by their heroes.
 results-text: Over 55,000 new customers
 video: 125559691
+has-logo: true
 layout: project
 ---
 
