@@ -9,8 +9,8 @@ images:
 - "/uploads/castrol-two.jpg"
 company: Castrol
 is-featured: true
-excerpt-text: Castrol Footkhana became the most shared film in the world
-carousel-text: Castrol Footkhana became the most shared film in the world
+excerpt-text: Castrol Footkhana was the most shared film in the world
+carousel-text: Castrol Footkhana was the most shared film in the world
 quote: An agency that thinks differently, with a focus on brand ownership where the
   brand’s values are at the heart of the idea
 quote-cite: Paul Goodmaker, Sponsorship Director, Castrol
