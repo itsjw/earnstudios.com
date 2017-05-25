@@ -9,8 +9,8 @@ images:
 - "/uploads/ee-two.jpg"
 company: EE
 is-featured: true
-excerpt-text: Our mobile network run by YouTubers made £ millions
-carousel-text: Our mobile network run by YouTubers made £ millions
+excerpt-text: Our mobile network run by YouTubers made £millions
+carousel-text: Our mobile network run by YouTubers made £millions
 quote: Smart, collaborative, focused
 quote-cite: Spencer McHugh, Marketing Director, EE
 brief-text: To drive trial of PAYG Sims amongst young data hungry people
