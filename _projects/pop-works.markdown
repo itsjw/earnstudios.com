@@ -13,10 +13,9 @@ images:
 - "/uploads/popworks-seven.jpg"
 company: PepsiCo
 is-featured: true
-excerpt-text: Highest ad recall for PepsiCo
+excerpt-text: PopWorks Studios achieved the highest ad recall for PepsiCo
 is-carousel: true
-carousel-text: Our launch campaign for Pop Works made it the second biggest popcorn
-  with the highest ad recall for any PepsiCo brand.
+carousel-text: PopWorks Studios achieved the highest ad recall for PepsiCo
 brief-text: Launch Pop Works in an innovative way to a ‘connected millennial’ audience
 solution-text: Life is serious, popcorn isn't. That's why we launched much more than
   just a product but an entertainment brand on a mission to create pops of entertainment
