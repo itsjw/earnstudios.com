@@ -12,7 +12,6 @@ images:
 - "/uploads/popworks-five.jpg"
 - "/uploads/popworks-seven.jpg"
 company: PepsiCo
-has-logo: false
 is-featured: true
 excerpt-text: Highest ad recall for PepsiCo
 is-carousel: true
@@ -28,6 +27,7 @@ results-text: Pop Works became the No.2 popcorn brand on the market in its first
   In addition, 90% of sales volume was incremental to the category, and ROI for engagement
   & recall rates is the highest amongst any PepsiCo brand to date.
 video: 218647443
+has-logo: true
 brief-image-one: "/uploads/merchants-heart-one.jpg"
 brief-image-two: "/uploads/merchants-heart-two.jpg"
 layout: project
