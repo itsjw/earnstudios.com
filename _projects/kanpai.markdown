@@ -11,6 +11,7 @@ images:
 - "/uploads/kanpai_lab.jpg"
 company: Lucozade Ribena Suntory
 excerpt-text: Our inspiring magazine from Merchant’s Heart
+is-carousel: true
 carousel-text: Our inspiring magazine from Merchant’s Heart
 brief-text: To make Merchant’s Heart, a line of premium spirit enhancers, an essential
   part of drink culture
