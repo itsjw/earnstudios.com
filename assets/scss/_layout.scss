@@ -461,7 +461,7 @@ i, cite, em, var, address, dfn {
   position:absolute;
   bottom: 0rem;
   left: 0rem;
-  padding: 3rem;
+  padding: 0rem 0rem 1rem 3rem;
   z-index: 1;  
     @include breakpoint(small only) {
     padding: 2rem;
