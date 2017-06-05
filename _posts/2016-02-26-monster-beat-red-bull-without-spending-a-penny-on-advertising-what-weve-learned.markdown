@@ -22,4 +22,4 @@ It’s what EARN Founder and CCO, Jamal Benmiloud, formerly leading the marketin
 
 Brand Love isn’t reserved for hip, youth-oriented brands like Monster and Apple. It’s even possible if you’re operating in a less exciting, more restrictive sector like an airline. And you don’t need expensive campaigns or extensive redesigns to develop it. As a matter of fact, these traditional marketing techniques often fall apart after customers experience brands. If you want to cultivate Brand Love you have to start with your people. Who are your fans? Where is their ecosystem? Enlist a beachhead of employees and fans who love your idea, actively promote your brand and want a meaningful relationship with your company and then meet them where they live. 
 
-Follow EARN on [LinkedIn](https://www.linkedin.com/company/earn-media-limited)
+Follow EARN on [LinkedIn](https://www.linkedin.com/company-beta/5114446)
