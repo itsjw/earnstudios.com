@@ -38,4 +38,4 @@ Now that you’ve read what Jamal and Stephen had to say, we’d love to hear yo
 
 And if you like this blog and want more like it be sure to share it on LinkedIn via our InShare button.xw
 
-Follow EARN on [LinkedIn](https://www.linkedin.com/company/earn-media-limited)
+Follow EARN on [LinkedIn](https://www.linkedin.com/company-beta/5114446)
