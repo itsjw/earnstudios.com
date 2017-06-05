@@ -17,4 +17,4 @@ So, that’s our humble view but we’d love to hear your thoughts… is there a
 
 ![brand-love.svg](/uploads/brand-love.svg)
 
-Follow EARN on [LinkedIn](https://www.linkedin.com/company/earn-media-limited)
+Follow EARN on [LinkedIn](https://www.linkedin.com/company-beta/5114446)
