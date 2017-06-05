@@ -40,4 +40,4 @@ So to answer the original question, ‘Is happiness a key factor in high perform
 Download How’s Your Day? in Apple or Play Store – a free personal happiness tracker that helps you monitor, learn and improve your happiness.
 [howsyourday.today](http://howsyourday.today/)
 
-Follow EARN on [LinkedIn](https://www.linkedin.com/company/earn-media-limited)
+Follow EARN on [LinkedIn](https://www.linkedin.com/company-beta/5114446)
