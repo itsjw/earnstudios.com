@@ -31,4 +31,4 @@ Now that you’ve heard from me, I’d like to hear from you. Are you in a dream
 
 And if you know anyone that might find some motivation, encouragement or clarity from this blog please share it with them.
 
-Follow EARN on [LinkedIn](https://www.linkedin.com/company/earn-media-limited)
+Follow EARN on [LinkedIn](https://www.linkedin.com/company-beta/5114446)
