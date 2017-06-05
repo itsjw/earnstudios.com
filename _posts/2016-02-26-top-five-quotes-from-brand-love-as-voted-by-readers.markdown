@@ -21,4 +21,4 @@ Download Brand Love: How to Build a Brand Worth Talking About Kindle Edition [he
 
 To download the book via Amazon.com click [here](http://www.amazon.com/Brand-Love-Build-Worth-Talking-ebook/dp/B00VBPBU1G/ref=sr_1_3?ie=UTF8&qid=1456246435&sr=8-3&keywords=brand+love+book)
 
-Follow EARN on [LinkedIn](https://www.linkedin.com/company/earn-media-limited)
+Follow EARN on [LinkedIn](https://www.linkedin.com/company-beta/5114446)
