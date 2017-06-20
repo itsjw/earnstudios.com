@@ -1,7 +1,7 @@
 ---
 title: Morgan Collins
 date: 2017-01-26 18:54:00 Z
-position: 6
+position: 7
 image: "/uploads/Morgan-Collins.jpg"
 job-title: Client Director
 linkedin: morgan-collins-a4775539
