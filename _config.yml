@@ -98,10 +98,6 @@ defaults:
     intro: 
 url: http://earnstudios.com
 permalink: pretty
-plugins_dir:
-- jekyll-seo-tag
-- jekyll-sitemap
-- jekyll-feed
 markdown: kramdown
 kramdown:
   input: GFM
