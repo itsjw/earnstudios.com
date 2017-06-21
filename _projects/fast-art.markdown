@@ -4,8 +4,8 @@ date: 2017-05-23 16:45:00 Z
 image: "/uploads/fast-art-feature.jpg"
 feature-image: "/uploads/fast-art-feature.jpg"
 images:
-- "/uploads/Suiko-11_12-Int-Web.jpg"
-- "/uploads/fast-art-two.jpg"
+- "/uploads/Fast-1.jpg"
+- "/uploads/Fast-2.jpg"
 - 
 company: Universal
 is-featured: false
