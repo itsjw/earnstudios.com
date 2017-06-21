@@ -3,6 +3,7 @@ title: Briar Dye-Hutchinson
 date: 2017-06-20 16:12:00 Z
 position: 2
 image: "/uploads/Briar.jpg"
+job-title: Senior Account Manager
 linkedin: briar-dye-hutchinson-baa0a0b7
 ---
 
