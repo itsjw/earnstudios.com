@@ -4,4 +4,4 @@ Website for EARN Studios. Please go to [earnstudios.com](http://earnstudios.com)
 
 * * *
 
-Copyright (c) 2017 Gareth Johns Art Direction + Design – info@garethjohnsdesign.com
+Copyright (c) 2017 Gareth Johns Design + Development – info@garethjohnsdesign.com
