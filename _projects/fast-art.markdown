@@ -4,10 +4,10 @@ date: 2017-05-23 16:45:00 Z
 image: "/uploads/fast-art-feature.jpg"
 feature-image: "/uploads/fast-art-feature.jpg"
 images:
-- "/uploads/Fast-1.jpg"
-- "/uploads/Fast-2.jpg"
-- "/uploads/Fast-3.jpg"
 - "/uploads/fast-4.jpg"
+- "/uploads/Fast-2.jpg"
+- "/uploads/Fast-1.jpg"
+- "/uploads/Fast-3.jpg"
 company: Universal
 is-featured: false
 excerpt-text: Fast Art smashed the global box office record
