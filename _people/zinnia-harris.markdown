@@ -1,6 +1,6 @@
 ---
 title: Zinnia Harris
-position: 11
+position: 12
 image: "/uploads/zinnia-harris.jpg"
 job-title: MD & Head of Strategy
 linkedin: zinnia-harris-77a02023

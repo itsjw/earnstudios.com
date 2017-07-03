@@ -1,6 +1,6 @@
 ---
 title: Nichola Spencer
-position: 8
+position: 9
 image: "/uploads/nichola-spencer.jpg"
 job-title: Business Operations Director
 linkedin: nichola-spencer-852b4827
