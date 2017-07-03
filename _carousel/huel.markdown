@@ -1,7 +1,7 @@
 ---
 title: Huel
 date: 2017-07-03 08:23:00 Z
-feature-image: "/uploads/huel.jpg"
+feature-image: "/uploads/huel-feature.jpg"
 is-carousel: true
 carousel-text: The future of food
 link: "/ventures/huel/"
