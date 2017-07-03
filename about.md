@@ -1,6 +1,6 @@
 ---
 title: About
-feature-image: "/uploads/about.jpg"
+feature-image: "/uploads/_MG_5689.jpg"
 carousel-text: An inventive and entrepreneurial team who earn brand love with brave
   clients
 what-we-do-text: |-
