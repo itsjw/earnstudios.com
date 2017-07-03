@@ -98,7 +98,7 @@ defaults:
     intro: 
 url: http://earnstudios.com
 permalink: pretty
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
