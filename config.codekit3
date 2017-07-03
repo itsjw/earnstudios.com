@@ -405,6 +405,12 @@
 		"oAP": "\/_people\/leila-ghazai.markdown",
 		"oF": 0
 		},
+	"\/_people\/lexie-forrester.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_people\/lexie-forrester.markdown",
+		"oF": 0
+		},
 	"\/_people\/morgan-collins.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -3123,6 +3129,26 @@
 		"iS": 94956,
 		"oA": 0,
 		"oAP": "\/_uploads\/leila-ghazai.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/lexie-forrester.jpg": {
+		"ft": 16384,
+		"iS": 60222,
+		"oA": 0,
+		"oAP": "\/_uploads\/lexie-forrester.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/lexie.jpg": {
+		"ft": 16384,
+		"iS": 54138,
+		"oA": 0,
+		"oAP": "\/_uploads\/lexie.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
