@@ -561,6 +561,12 @@
 		"oAP": "\/_site\/404.html",
 		"oF": 0
 		},
+	"\/_site\/about.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/about.html",
+		"oF": 0
+		},
 	"\/_site\/about\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -986,6 +992,16 @@
 		"oAP": "\/_site\/sitemap.xml",
 		"oF": 0
 		},
+	"\/_site\/uploads\/about-rev.jpg": {
+		"ft": 16384,
+		"iS": 247172,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/about-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/uploads\/about.jpg": {
 		"ft": 16384,
 		"iS": 170874,
@@ -1247,11 +1263,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/uploads\/Fast-1-0e0f98.jpg": {
+		"ft": 16384,
+		"iS": 215047,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/Fast-1-0e0f98.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/uploads\/Fast-1.jpg": {
 		"ft": 16384,
 		"iS": 209894,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/Fast-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/Fast-2-946c19.jpg": {
+		"ft": 16384,
+		"iS": 164792,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/Fast-2-946c19.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1267,11 +1303,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_site\/uploads\/Fast-3-b4d5f6.jpg": {
+		"ft": 16384,
+		"iS": 261781,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/Fast-3-b4d5f6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_site\/uploads\/Fast-3.jpg": {
 		"ft": 16384,
 		"iS": 257676,
 		"oA": 0,
 		"oAP": "\/_site\/uploads\/Fast-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/fast-4-e778fa.jpg": {
+		"ft": 16384,
+		"iS": 165743,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/fast-4-e778fa.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2320,6 +2376,16 @@
 		"iS": 788642,
 		"oA": 1,
 		"oAP": "\/_uploads\/_MG_5689.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/about-rev.jpg": {
+		"ft": 16384,
+		"iS": 247172,
+		"oA": 0,
+		"oAP": "\/_uploads\/about-rev.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3686,6 +3752,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ventures\/pow.markdown",
+		"oF": 0
+		},
+	"\/about.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/about.html",
 		"oF": 0
 		},
 	"\/about.md": {
@@ -11752,7 +11824,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "_site\/"
 	},
 "settingsFileVersion": "3"
 }
