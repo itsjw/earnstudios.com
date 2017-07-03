@@ -6,6 +6,7 @@ feature-image: "/uploads/huel-feature.jpg"
 is-carousel: true
 carousel-text: The future of food
 link: "/ventures/huel/"
+has_darkoverlay: true
 ---
 
 The future of food
