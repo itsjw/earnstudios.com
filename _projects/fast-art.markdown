@@ -9,9 +9,9 @@ images:
 - "/uploads/fast-4-e778fa.jpg"
 - "/uploads/Fast-3-b4d5f6.jpg"
 company: Universal
-is-featured: false
+is-featured: true
 excerpt-text: Fast Art smashed the global box office record
-is-carousel: true
+is-carousel: false
 carousel-text: Fast Art smashed the global box office record
 brief-text: 'Drive record box office sales and pre-bookings '
 solution-text: Limited edition "money can’t buy" fan art to drive pre-bookings around
