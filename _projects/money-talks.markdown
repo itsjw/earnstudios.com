@@ -1,7 +1,7 @@
 ---
 title: Money Talks
 date: 2017-02-10 12:43:00 Z
-position: 1
+position: 2
 image: "/uploads/first-direct.jpg"
 feature-image: "/uploads/first-direct-feature.jpg"
 images:

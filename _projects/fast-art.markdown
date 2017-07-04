@@ -1,6 +1,7 @@
 ---
 title: Fast Art
 date: 2017-05-23 16:45:00 Z
+position: 0
 image: "/uploads/fast-art-feature.jpg"
 feature-image: "/uploads/fast-art-feature.jpg"
 images:
