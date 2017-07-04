@@ -1,8 +1,7 @@
 ---
 title: About
 feature-image: "/uploads/about-rev.jpg"
-carousel-text: An inventive and entrepreneurial team who earn brand love with brave
-  clients
+carousel-text: EARN Studios is a marketing innovation partner for future facing businesses.
 what-we-do-text: |-
   We are an entrepreneurial creative team.
 
