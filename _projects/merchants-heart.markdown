@@ -8,7 +8,7 @@ images:
 - "/uploads/merchants-heart-one.jpg"
 - "/uploads/merchants-heart-two.jpg"
 company: Lucozade Ribena Suntory
-is-featured: true
+is-featured: false
 excerpt-text: Merchant’s Heart was invented and launched in 6 months
 is-carousel: false
 carousel-text: Merchant’s Heart was invented and launched in 6 months
