@@ -8,13 +8,14 @@
           
           {% if slide.has-modal %}
           
-          <div class="small-12 medium-10 large-8 columns carousel__cell__book__logos">
-          <img src="{{page.book-logos-image}}" alt="logos" />
-          </div>
+  
           
 	
           <a data-open="book-modal" class="button alert uppercase" id="carousel__book__button">Download Book</a>
           
+          <div class="small-12 medium-10 large-6 columns carousel__cell__book__logos">
+          <img src="{{page.book-logos-image}}" alt="logos" />
+          </div>
 	
           {% else %}
           <p><a href="{{ slide.link }}">View </a></p>
