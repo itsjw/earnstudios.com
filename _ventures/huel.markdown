@@ -1,7 +1,7 @@
 ---
 title: Huel
 date: 2013-09-12 00:00:00 Z
-position: 2
+position: 0
 image: "/uploads/huel.jpg"
 feature-image: "/uploads/huel-feature.jpg"
 images:
@@ -10,7 +10,7 @@ images:
 - "/uploads/huel-three.jpg"
 - "/uploads/huel-four.jpg"
 company: Huel
-is-featured: false
+is-featured: true
 excerpt-text: The future of food
 carousel-text: The future of food
 intro: Huel is a nutritionally complete powdered food that contains all the protein,

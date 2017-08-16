@@ -1,7 +1,7 @@
 ---
 title: POW Energy Water
 date: 2013-09-12 00:00:00 Z
-position: 1
+position: 2
 image: "/uploads/pow.jpg"
 feature-image: "/uploads/pow-feature.jpg"
 images:
@@ -10,7 +10,7 @@ images:
 - "/uploads/pow-three.jpg"
 - "/uploads/pow-four.jpg"
 company: POW Energy Water
-is-featured: true
+is-featured: false
 excerpt-text: 'POW: The natural energy drink'
 carousel-text: 'POW: The natural energy drink'
 intro: POW Energy Water brings together the hydrating power of water with natural

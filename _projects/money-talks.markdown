@@ -8,7 +8,7 @@ images:
 - "/uploads/first-direct-one.jpg"
 - "/uploads/first-direct-two.jpg"
 company: first direct
-is-featured: false
+is-featured: true
 excerpt-text: Money Talks increased engagement by 500%
 is-carousel: false
 carousel-text: Money Talks increased engagement by 500%

@@ -1,7 +1,7 @@
 ---
 title: EARN Happiness School
 date: 2013-09-12 00:00:00 Z
-position: 0
+position: 1
 image: "/uploads/happiness-school.jpg"
 feature-image: "/uploads/happiness-school-feature.jpg"
 images:
