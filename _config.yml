@@ -109,8 +109,6 @@ kramdown:
 highlighter: rouge
 exclude:
 - Gruntfile.js
-- Gemfile
-- Gemfile.lock
 - package.json
 - README*
 - node_modules
