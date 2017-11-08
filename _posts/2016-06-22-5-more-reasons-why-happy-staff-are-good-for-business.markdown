@@ -1,7 +1,7 @@
 ---
 title: Five more reasons why happy staff are good for business
 date: 2016-06-22 12:49:00 Z
-image: "/uploads/five-more-reasons.jpg"
+image: "/uploads/geckoboard-zendesk-support-dashboard.png"
 author: bridget_grenville-cleave
 ---
 
