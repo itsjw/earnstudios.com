@@ -3,7 +3,7 @@ title: Ollie Wace
 date: 2017-04-07 13:26:00 Z
 position: 10
 image: "/uploads/ollie-wace.jpg"
-job-title: Associate
+job-title: Strategy Associate
 linkedin: ollie-wace-24b184a7
 ---
 
