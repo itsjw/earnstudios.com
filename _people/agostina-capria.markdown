@@ -2,7 +2,7 @@
 title: Agostina Capria
 position: 0
 image: "/uploads/agostina-capria.jpg"
-job-title: Associate
+job-title: Senior Associate
 linkedin: agostina-capria-71111387
 ---
 
