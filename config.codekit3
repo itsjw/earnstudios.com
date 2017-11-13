@@ -7,13 +7,13 @@
 		"uuidString": "EDB44E38-DB9B-408C-B9C2-C572FB45B1A6"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26148",
 "files": {
 	"\/404.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -28,534 +28,609 @@
 		"uCM": 0
 		},
 	"\/_carousel\/book.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_carousel\/book.markdown",
 		"oF": 0
 		},
 	"\/_carousel\/first-direct.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_carousel\/first-direct.markdown",
 		"oF": 0
 		},
 	"\/_carousel\/huel.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_carousel\/huel.markdown",
 		"oF": 0
 		},
 	"\/_carousel\/kanpai.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_carousel\/kanpai.markdown",
 		"oF": 0
 		},
 	"\/_carousel\/merchants-heart.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_carousel\/merchants-heart.markdown",
 		"oF": 0
 		},
 	"\/_carousel\/pop-works.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_carousel\/pop-works.markdown",
 		"oF": 0
 		},
 	"\/_carousel\/qualcomm.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_carousel\/qualcomm.markdown",
 		"oF": 0
 		},
 	"\/_carousel\/universal.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_carousel\/universal.markdown",
 		"oF": 0
 		},
 	"\/_config.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
 	"\/_data\/authors.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_data\/authors.yml",
 		"oF": 0
 		},
 	"\/_data\/navigation.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_data\/navigation.yml",
 		"oF": 0
 		},
 	"\/_friends\/cheekyfire.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_friends\/cheekyfire.markdown",
 		"oF": 0
 		},
 	"\/_friends\/fergus-craig.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_friends\/fergus-craig.markdown",
 		"oF": 0
 		},
 	"\/_friends\/fizz-pop-bang.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_friends\/fizz-pop-bang.markdown",
 		"oF": 0
 		},
 	"\/_friends\/lindsay-orridge.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_friends\/lindsay-orridge.markdown",
 		"oF": 0
 		},
 	"\/_friends\/mark-pavitt.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_friends\/mark-pavitt.markdown",
 		"oF": 0
 		},
 	"\/_friends\/op-talent.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_friends\/op-talent.markdown",
 		"oF": 0
 		},
 	"\/_friends\/studio-yes.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_friends\/studio-yes.markdown",
 		"oF": 0
 		},
 	"\/_friends\/the-adventurists.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_friends\/the-adventurists.markdown",
 		"oF": 0
 		},
 	"\/_friends\/the-genius-box.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_friends\/the-genius-box.markdown",
 		"oF": 0
 		},
 	"\/_friends\/tim-obrien.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_friends\/tim-obrien.markdown",
 		"oF": 0
 		},
 	"\/_friends\/we-make-awesome-sh-dot-it.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_friends\/we-make-awesome-sh-dot-it.markdown",
 		"oF": 0
 		},
 	"\/_friends\/Wolfgang.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_friends\/Wolfgang.markdown",
 		"oF": 0
 		},
 	"\/_friends\/workmad.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_friends\/workmad.markdown",
 		"oF": 0
 		},
 	"\/_includes\/analytics.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/analytics.html",
 		"oF": 0
 		},
 	"\/_includes\/book-modal.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_includes\/book-modal.html",
 		"oF": 0
 		},
 	"\/_includes\/bookrequest.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/bookrequest.html",
 		"oF": 0
 		},
 	"\/_includes\/carousel.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/carousel.html",
 		"oF": 0
 		},
 	"\/_includes\/excerpt-venture.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/excerpt-venture.html",
 		"oF": 0
 		},
 	"\/_includes\/excerpt.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/excerpt.html",
 		"oF": 0
 		},
 	"\/_includes\/footer.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/footer.html",
 		"oF": 0
 		},
 	"\/_includes\/head.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_includes\/head.html",
 		"oF": 0
 		},
 	"\/_includes\/navigation-dark.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/navigation-dark.html",
 		"oF": 0
 		},
 	"\/_includes\/navigation-light.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/navigation-light.html",
 		"oF": 0
 		},
 	"\/_includes\/overlay-menu.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/overlay-menu.html",
 		"oF": 0
 		},
 	"\/_includes\/pagination.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/pagination.html",
 		"oF": 0
 		},
 	"\/_includes\/post.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/post.html",
 		"oF": 0
 		},
 	"\/_includes\/scripts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_includes\/scripts.html",
 		"oF": 0
 		},
 	"\/_includes\/sharing.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_includes\/sharing.html",
 		"oF": 0
 		},
 	"\/_layouts\/about.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/about.html",
 		"oF": 0
 		},
 	"\/_layouts\/blog.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/blog.html",
 		"oF": 0
 		},
 	"\/_layouts\/book.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/book.html",
 		"oF": 0
 		},
 	"\/_layouts\/compress.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/compress.html",
 		"oF": 0
 		},
 	"\/_layouts\/contact.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/contact.html",
 		"oF": 0
 		},
 	"\/_layouts\/dark.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/dark.html",
 		"oF": 0
 		},
 	"\/_layouts\/default.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/default.html",
 		"oF": 0
 		},
 	"\/_layouts\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/index.html",
 		"oF": 0
 		},
 	"\/_layouts\/light.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/light.html",
 		"oF": 0
 		},
 	"\/_layouts\/missing.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/missing.html",
 		"oF": 0
 		},
 	"\/_layouts\/page.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/page.html",
 		"oF": 0
 		},
 	"\/_layouts\/people.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/people.html",
 		"oF": 0
 		},
 	"\/_layouts\/post.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/post.html",
 		"oF": 0
 		},
 	"\/_layouts\/project.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/project.html",
 		"oF": 0
 		},
 	"\/_layouts\/projects.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/projects.html",
 		"oF": 0
 		},
 	"\/_layouts\/venture.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/venture.html",
 		"oF": 0
 		},
 	"\/_layouts\/ventures.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_layouts\/ventures.html",
 		"oF": 0
 		},
 	"\/_people\/agostina-capria.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_people\/agostina-capria.markdown",
 		"oF": 0
 		},
 	"\/_people\/becky-turnbull.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_people\/becky-turnbull.markdown",
 		"oF": 0
 		},
-	"\/_people\/briar-dye-hutchinson.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_people\/briar-dye-hutchinson.markdown",
-		"oF": 0
-		},
 	"\/_people\/charles-wace.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_people\/charles-wace.markdown",
 		"oF": 0
 		},
 	"\/_people\/jamal-benmiloud.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_people\/jamal-benmiloud.markdown",
 		"oF": 0
 		},
 	"\/_people\/juliette-hughes.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_people\/juliette-hughes.markdown",
 		"oF": 0
 		},
 	"\/_people\/leila-ghazai.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_people\/leila-ghazai.markdown",
 		"oF": 0
 		},
 	"\/_people\/lexie-forrester.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_people\/lexie-forrester.markdown",
 		"oF": 0
 		},
-	"\/_people\/morgan-collins.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_people\/morgan-collins.markdown",
-		"oF": 0
-		},
 	"\/_people\/nichola-spencer.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_people\/nichola-spencer.markdown",
 		"oF": 0
 		},
 	"\/_people\/ollie-wace.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_people\/ollie-wace.markdown",
 		"oF": 0
 		},
 	"\/_people\/will-prosser.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_people\/will-prosser.markdown",
 		"oF": 0
 		},
 	"\/_people\/zinnia-harris.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_people\/zinnia-harris.markdown",
 		"oF": 0
 		},
 	"\/_posts\/2016-01-22-brand-love.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_posts\/2016-01-22-brand-love.markdown",
 		"oF": 0
 		},
 	"\/_posts\/2016-01-22-do-companies-even-need-creative-agencies-in-the-connection-economy.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_posts\/2016-01-22-do-companies-even-need-creative-agencies-in-the-connection-economy.markdown",
 		"oF": 0
 		},
 	"\/_posts\/2016-01-28-earn-happiness-school-is-happiness-a-key-factor-in-high-performing-teams.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_posts\/2016-01-28-earn-happiness-school-is-happiness-a-key-factor-in-high-performing-teams.markdown",
 		"oF": 0
 		},
 	"\/_posts\/2016-02-26-monster-beat-red-bull-without-spending-a-penny-on-advertising-what-weve-learned.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_posts\/2016-02-26-monster-beat-red-bull-without-spending-a-penny-on-advertising-what-weve-learned.markdown",
 		"oF": 0
 		},
 	"\/_posts\/2016-02-26-top-five-quotes-from-brand-love-as-voted-by-readers.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_posts\/2016-02-26-top-five-quotes-from-brand-love-as-voted-by-readers.markdown",
 		"oF": 0
 		},
 	"\/_posts\/2016-03-08-brand-love-model.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_posts\/2016-03-08-brand-love-model.markdown",
 		"oF": 0
 		},
 	"\/_posts\/2016-03-31-top-5-reasons-why-happy-staff-are-good-for-business-why-happiness-at-work-is-a-serious-business.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_posts\/2016-03-31-top-5-reasons-why-happy-staff-are-good-for-business-why-happiness-at-work-is-a-serious-business.markdown",
 		"oF": 0
 		},
 	"\/_posts\/2016-04-11-why-i-quit-the-best-job-in-the-world-to-launch-my-own-business.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_posts\/2016-04-11-why-i-quit-the-best-job-in-the-world-to-launch-my-own-business.markdown",
 		"oF": 0
 		},
 	"\/_posts\/2016-05-20-the-future-marketers-toolkit-what-all-marketers-need-to-know.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_posts\/2016-05-20-the-future-marketers-toolkit-what-all-marketers-need-to-know.markdown",
 		"oF": 0
 		},
 	"\/_posts\/2016-06-22-5-more-reasons-why-happy-staff-are-good-for-business.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_posts\/2016-06-22-5-more-reasons-why-happy-staff-are-good-for-business.markdown",
 		"oF": 0
 		},
 	"\/_projects\/castrol.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/castrol.markdown",
 		"oF": 0
 		},
 	"\/_projects\/ee.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/ee.markdown",
 		"oF": 0
 		},
 	"\/_projects\/fast-art.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/fast-art.markdown",
 		"oF": 0
 		},
 	"\/_projects\/kanpai.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/kanpai.markdown",
 		"oF": 0
 		},
 	"\/_projects\/merchants-heart.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/merchants-heart.markdown",
 		"oF": 0
 		},
 	"\/_projects\/money-talks.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/money-talks.markdown",
 		"oF": 0
 		},
 	"\/_projects\/pop-works.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/pop-works.markdown",
 		"oF": 0
 		},
 	"\/_projects\/qualcomm.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/qualcomm.markdown",
 		"oF": 0
 		},
 	"\/_projects\/samsung.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/samsung.markdown",
 		"oF": 0
 		},
 	"\/_projects\/slimfast.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_projects\/slimfast.markdown",
@@ -1048,6 +1123,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/geckoboard-zendesk-support-dashboard.png": {
+		"ft": 32768,
+		"iS": 86562,
+		"oA": 0,
+		"oAP": "\/_uploads\/geckoboard-zendesk-support-dashboard.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_uploads\/happiness-school-feature.jpg": {
 		"ft": 16384,
 		"iS": 192670,
@@ -1209,6 +1295,7 @@
 		"q": 100
 		},
 	"\/_uploads\/Huel.tiff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_uploads\/Huel.tiff",
@@ -1983,34 +2070,38 @@
 		"q": 100
 		},
 	"\/_ventures\/happiness-school.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ventures\/happiness-school.markdown",
 		"oF": 0
 		},
 	"\/_ventures\/hows-your-day.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ventures\/hows-your-day.markdown",
 		"oF": 0
 		},
 	"\/_ventures\/huel.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ventures\/huel.markdown",
 		"oF": 0
 		},
 	"\/_ventures\/pow.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_ventures\/pow.markdown",
 		"oF": 0
 		},
 	"\/about.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2035,6 +2126,7 @@
 		"oS": 0
 		},
 	"\/assets\/css\/app.css.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/css\/app.css.map",
@@ -2074,6 +2166,7 @@
 		"q": 100
 		},
 	"\/assets\/favicons\/browserconfig.xml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/favicons\/browserconfig.xml",
@@ -2102,6 +2195,7 @@
 		"q": 100
 		},
 	"\/assets\/favicons\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/favicons\/favicon.ico",
@@ -2137,36 +2231,42 @@
 		"prP": 0
 		},
 	"\/assets\/fonts\/Apercu-Bold.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/Apercu-Bold.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/Apercu-Bold.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/Apercu-Bold.woff2",
 		"oF": 0
 		},
 	"\/assets\/fonts\/Apercu-Medium.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/Apercu-Medium.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/Apercu-Medium.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/Apercu-Medium.woff2",
 		"oF": 0
 		},
 	"\/assets\/fonts\/Apercu-Regular.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/Apercu-Regular.woff",
 		"oF": 0
 		},
 	"\/assets\/fonts\/Apercu-Regular.woff2": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/Apercu-Regular.woff2",
@@ -2411,10 +2511,10 @@
 		"uL": 1
 		},
 	"\/blog.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2429,10 +2529,10 @@
 		"uCM": 0
 		},
 	"\/book.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2481,10 +2581,10 @@
 		"tS": 0
 		},
 	"\/bower_components\/classie\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2525,10 +2625,10 @@
 		"tS": 0
 		},
 	"\/bower_components\/desandro-matches-selector\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2569,10 +2669,10 @@
 		"tS": 0
 		},
 	"\/bower_components\/doc-ready\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2621,10 +2721,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/ev-emitter\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2683,10 +2783,10 @@
 		"tS": 0
 		},
 	"\/bower_components\/eventEmitter\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2701,6 +2801,7 @@
 		"uCM": 0
 		},
 	"\/bower_components\/eventEmitter\/UNLICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/eventEmitter\/UNLICENSE",
@@ -2741,10 +2842,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/eventie\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2775,10 +2876,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/fizzy-ui-utils\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2979,10 +3080,10 @@
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3005,22 +3106,24 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/.bowerrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.bowerrc",
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/.eslintrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.eslintrc",
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/.github\/ISSUE_TEMPLATE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3035,10 +3138,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/foundation-sites\/.github\/PULL_REQUEST_TEMPLATE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3053,12 +3156,14 @@
 		"uCM": 0
 		},
 	"\/bower_components\/foundation-sites\/.sass-lint.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.sass-lint.yml",
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/.travis.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.travis.yml",
@@ -3263,10 +3368,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/code-of-conduct.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3289,6 +3394,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/customizer\/config.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/customizer\/config.yml",
@@ -3303,6 +3409,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/customizer\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/customizer\/index.html",
@@ -3986,6 +4093,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/foundation-sites\/docslink.sh": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/docslink.sh",
@@ -4282,16 +4390,17 @@
 		"tS": 0
 		},
 	"\/bower_components\/foundation-sites\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/LICENSE",
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5307,10 +5416,10 @@
 		"tS": 0
 		},
 	"\/bower_components\/get-size\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5367,10 +5476,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/get-style-property\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5393,6 +5502,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/jquery\/AUTHORS.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/AUTHORS.txt",
@@ -5437,6 +5547,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/dist\/jquery.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/dist\/jquery.min.map",
@@ -5463,6 +5574,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/dist\/jquery.slim.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/dist\/jquery.slim.min.map",
@@ -5489,28 +5601,31 @@
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/LICENSE.txt",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6569,10 +6684,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/lity\/CHANGELOG.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6627,16 +6742,17 @@
 		"tS": 0
 		},
 	"\/bower_components\/lity\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lity\/LICENSE",
 		"oF": 0
 		},
 	"\/bower_components\/lity\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6678,6 +6794,7 @@
 		"sU": 0
 		},
 	"\/bower_components\/lity\/test\/functional\/img\/sample.bmp": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lity\/test\/functional\/img\/sample.bmp",
@@ -6692,6 +6809,7 @@
 		"opt": 0
 		},
 	"\/bower_components\/lity\/test\/functional\/img\/sample.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lity\/test\/functional\/img\/sample.ico",
@@ -6718,6 +6836,7 @@
 		"q": 100
 		},
 	"\/bower_components\/lity\/test\/functional\/img\/sample.jpg.ext": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lity\/test\/functional\/img\/sample.jpg.ext",
@@ -6745,40 +6864,45 @@
 		"prP": 0
 		},
 	"\/bower_components\/lity\/test\/functional\/img\/sample.tif": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lity\/test\/functional\/img\/sample.tif",
 		"oF": 0
 		},
 	"\/bower_components\/lity\/test\/functional\/img\/sample.tiff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lity\/test\/functional\/img\/sample.tiff",
 		"oF": 0
 		},
 	"\/bower_components\/lity\/test\/functional\/img\/sample.webp": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lity\/test\/functional\/img\/sample.webp",
 		"oF": 0
 		},
 	"\/bower_components\/lity\/test\/functional\/stacked.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lity\/test\/functional\/stacked.html",
 		"oF": 0
 		},
 	"\/bower_components\/lity\/test\/functional\/uri.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lity\/test\/functional\/uri.html",
 		"oF": 0
 		},
 	"\/bower_components\/lity\/UPGRADE-2.0.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6819,10 +6943,10 @@
 		"tS": 0
 		},
 	"\/bower_components\/matches-selector\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6901,10 +7025,10 @@
 		"tS": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/animations.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6919,10 +7043,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/classes.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6937,10 +7061,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/configuration.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6955,10 +7079,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/installation.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6973,10 +7097,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/javascript.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6991,10 +7115,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/readme.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7009,10 +7133,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/transitions.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7027,10 +7151,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/wow.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7065,6 +7189,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/motion-ui\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/motion-ui\/LICENSE",
@@ -7102,10 +7227,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/motion-ui\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7422,6 +7547,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/smoothstate\/demos\/barebones\/about.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/smoothstate\/demos\/barebones\/about.html",
@@ -7438,18 +7564,21 @@
 		"tS": 0
 		},
 	"\/bower_components\/smoothstate\/demos\/barebones\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/smoothstate\/demos\/barebones\/index.html",
 		"oF": 0
 		},
 	"\/bower_components\/smoothstate\/demos\/barebones\/submit.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/smoothstate\/demos\/barebones\/submit.html",
 		"oF": 0
 		},
 	"\/bower_components\/smoothstate\/demos\/csstricks\/detail.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/smoothstate\/demos\/csstricks\/detail.html",
@@ -7466,6 +7595,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/smoothstate\/demos\/csstricks\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/smoothstate\/demos\/csstricks\/index.html",
@@ -7532,10 +7662,10 @@
 		"tS": 0
 		},
 	"\/bower_components\/smoothstate\/LICENSE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7558,10 +7688,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/smoothstate\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7602,10 +7732,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/tap-listener\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7646,10 +7776,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/unidragger\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7690,10 +7820,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/unipointer\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7764,6 +7894,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/what-input\/docs\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/docs\/index.html",
@@ -7800,6 +7931,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/what-input\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/LICENSE",
@@ -7814,10 +7946,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/what-input\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7862,6 +7994,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/what-input\/yarn.lock": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/yarn.lock",
@@ -7904,6 +8037,7 @@
 		"oS": 0
 		},
 	"\/bower_components\/wow\/demo.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/wow\/demo.html",
@@ -7940,6 +8074,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/wow\/LICENSE-MIT": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/wow\/LICENSE-MIT",
@@ -7954,10 +8089,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/wow\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7979,7 +8114,8 @@
 		"oAP": "\/bower_components\/wow\/spec\/coffeescripts\/helpers\/SpecHelper.coffee",
 		"oF": 0,
 		"oS": 0,
-		"sC": 1
+		"sC": 1,
+		"tS": 1
 		},
 	"\/bower_components\/wow\/spec\/coffeescripts\/wow-spec.coffee": {
 		"ft": 32,
@@ -7989,15 +8125,18 @@
 		"oAP": "\/bower_components\/wow\/spec\/coffeescripts\/wow-spec.coffee",
 		"oF": 0,
 		"oS": 0,
-		"sC": 1
+		"sC": 1,
+		"tS": 1
 		},
 	"\/bower_components\/wow\/spec\/javascripts\/fixtures\/custom.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/wow\/spec\/javascripts\/fixtures\/custom.html",
 		"oF": 0
 		},
 	"\/bower_components\/wow\/spec\/javascripts\/fixtures\/simple.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/wow\/spec\/javascripts\/fixtures\/simple.html",
@@ -8051,13 +8190,14 @@
 		"oAP": "\/bower_components\/wow\/src\/wow.coffee",
 		"oF": 0,
 		"oS": 0,
-		"sC": 1
+		"sC": 1,
+		"tS": 1
 		},
 	"\/contact.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8072,28 +8212,31 @@
 		"uCM": 0
 		},
 	"\/Gemfile": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Gemfile",
 		"oF": 0
 		},
 	"\/Gemfile.lock": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Gemfile.lock",
 		"oF": 0
 		},
 	"\/humans.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/humans.txt",
 		"oF": 0
 		},
 	"\/index.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8108,10 +8251,10 @@
 		"uCM": 0
 		},
 	"\/LICENSE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8134,10 +8277,10 @@
 		"oS": 1
 		},
 	"\/people.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8152,10 +8295,10 @@
 		"uCM": 0
 		},
 	"\/projects.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8170,10 +8313,10 @@
 		"uCM": 0
 		},
 	"\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8188,16 +8331,17 @@
 		"uCM": 0
 		},
 	"\/robots.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/robots.txt",
 		"oF": 0
 		},
 	"\/ventures.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8240,7 +8384,7 @@
 	"creationDate": 499797547,
 	"displayValue": "EARN Studios",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-crying"
+	"iconImageName": "brackets_gray"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -8776,6 +8920,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -8840,9 +8988,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -8872,6 +9020,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -8881,14 +9033,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -9992,7 +10136,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 2,
@@ -10025,6 +10170,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -10066,7 +10212,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -10098,13 +10245,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -10113,7 +10260,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -10133,7 +10281,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -10161,7 +10310,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
