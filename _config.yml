@@ -33,7 +33,7 @@ plugins:
 - jekyll-feed
 markdown: kramdown
 kramdown:
-  auto_ids: false  
+  auto_ids: false
   input: GFM
   hard_wrap: false
 highlighter: rouge
