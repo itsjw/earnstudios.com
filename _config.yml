@@ -13,7 +13,8 @@ collections:
     output: false
 url: https://www.earnstudios.com
 baseurl: 
-description: EARN is a consultancy for future facing brands. Founded in 2013 to build long term brand love and revenue with brave clients.
+description: EARN is a consultancy for future facing brands. Founded in 2013 to build
+  long term brand love and revenue with brave clients.
 permalink: pretty
 exclude:
 - bower.json
