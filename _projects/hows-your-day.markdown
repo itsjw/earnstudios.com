@@ -14,4 +14,4 @@ At EARN, we believe in the importance of positive psychology and that through sm
 
 The How’s Your Day app and book are designed in collaboration with leading positive psychology expert Bridget Grenville-Cleave. It help’s people track how happy and fulfilled they feel and receive tips on how to increase happiness levels.
 
-Download the app here. (Link to iTunes page) 
+Download the app [here](https://itunes.apple.com/qa/app/hows-your-day/id970969953).
