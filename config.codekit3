@@ -90,6 +90,13 @@
 		"oAP": "\/_includes\/scripts.html",
 		"oF": 0
 		},
+	"\/_layouts\/book.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/book.html",
+		"oF": 0
+		},
 	"\/_layouts\/compress.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -187,6 +194,16 @@
 		"oAP": "\/build\/_site",
 		"oF": 0
 		},
+	"\/_uploads\/book.jpg": {
+		"ft": 16384,
+		"iS": 198828,
+		"oA": 0,
+		"oAP": "\/_uploads\/book.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/diageo.jpg": {
 		"ft": 16384,
 		"iS": 179234,
@@ -245,16 +262,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/merchants-heart.jpg": {
-		"ft": 16384,
-		"iS": 54058,
-		"oA": 0,
-		"oAP": "\/_uploads\/merchants-heart.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/css\/app.css": {
@@ -1087,6 +1094,24 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/book.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/book.md",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/bower.json": {
 		"ft": 524288,
