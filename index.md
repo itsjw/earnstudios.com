@@ -1,7 +1,7 @@
 ---
 title: EARN Studios
 image: "/assets/img/og-image.png"
-hero-title-text: Our ambition is to **invent** businesses that get the world talking.
+hero-title-text: Our ambition is to invent businesses that get the world talking.
 hero-text: We’re an innovation partner for brands that want to invent or grow disruptive
   businesses.
 process-title-text: Everything we invent is designed to deliver three simple objectives.
