@@ -1,7 +1,7 @@
 ---
 title: How's Your Day
 date: 2017-11-02 00:00:00 Z
-position: 4
+position: 3
 image: "/uploads/hows-your-day.jpg"
 description: Our Happiness Trainer App
 brief: 

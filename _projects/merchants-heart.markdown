@@ -1,7 +1,7 @@
 ---
 title: Merchant's Heart
 date: 2017-11-04 00:00:00 Z
-position: 3
+position: 4
 image: "/uploads/merchants-heart.jpg"
 description: A premium mixer range and magazine launched in just six months
 brief: Create a cultural shift to catalyse creativity and innovation across Lucozade
