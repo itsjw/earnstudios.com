@@ -14,4 +14,4 @@ Huel is a revolutionary powdered food that contains all the protein, carbs, fats
 
 Jamal sits on the board of the company and provides strategic consultancy to help them become the global number one ‘complete food’ business. 
 
-Huel has grown phenomenally quickly in its first two years due to ground-breaking products, customer service and a focus on social media marketing (LINK TO INSTAGRAM) 
+Huel has grown phenomenally quickly in its first two years due to ground-breaking products, customer service and a focus on [social media marketing](https://www.instagram.com/huel/).
