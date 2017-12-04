@@ -1,7 +1,7 @@
 ---
 title: Diageo
 date: 2013-03-04 00:00:00 Z
-position: 1
+position: 0
 image: "/uploads/diageo.jpg"
 description: Disrupting the drinks industry across Europe
 brief: Create a cultural shift to catalyse creativity and innovation across Lucozade
