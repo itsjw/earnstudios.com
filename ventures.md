@@ -1,5 +1,0 @@
----
-title: Ventures
-layout: ventures
----
-

@@ -1,82 +1,71 @@
-// Icons
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+
 
 .icon {
-    display: inline-block;
-    width: 1em;
-    height: 1em;
-    stroke-width: 0;
-    stroke: currentColor;
-    fill: currentColor;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
 }
-
-/* =======================================================================================
-Example showing how to change the color/size of the icons:
-.icon-name {
-	font-size: 32px; // works because "width" & "height" were set using em units
-	color: red; // works for single-colored icons, because "fill" was set to "currentColor"
-}
-======================================================================================== */
-
-.index__connect .icon {
-    font-size: 1.5rem;
-}
-
-.footer__bottom__socials .icon {
-    font-size: 1.25rem;
+.icon-logo {
+  width: 1.5em;
 }
 
 .icon-logo {
-  width: 1.5078125em;
+  font-size: 2.5rem;
 }
 
-// Styling
-.icon-logo {
-    font-size: 3.25rem;
+.icon-rectangle {
+  width: 0.763671875em;
+  font-size: 15rem;
+  fill: $color--orange;
+  z-index: -10;
+  transform: rotate(30);
 }
 
-.icon-logo--footer {
-    font-size: 2rem;
+.icon-diagram {
+  width: 0.994140625em;
+  font-size: 15rem;
+  fill: $color--blue;
+  z-index: -10;
 }
 
-svg.icon.icon-envelop2 {
-	vertical-align: text-bottom;
+.icon-moon {
+  width: 0.8076171875em;
+  font-size: 15rem;
+  fill: $color--red;
+  z-index: -10;
+  transform: rotate(45);
 }
 
-.icon-arrow-up8 {
-	font-size: 2rem;
-	color: $color--gray;
-	transition: $primary-transition;
-  &:hover {
-  color: $color--black;
-  }
+.icon-triangle {
+  width: 0.8369140625em;
+  font-size: 15rem;
+  fill: $color--yellow;
+  z-index: -10;
+  transform: rotate(45);
 }
 
-.icon-left-long {
-  font-size: 2rem;
-  margin-right: 1rem;
-  margin-top: 1rem;
-  color: $color--white;
-	transition: $primary-transition;
-  &:hover {
-  color: $color--amber;
-  }
-}
-
-.icon-right-long {
-  font-size: 2rem;
-  margin-top: 1rem;
-  color: $color--white;
-	transition: $primary-transition;
-  &:hover {
-  color: $color--amber;
-  }
-}
-
-.icon-company {
-  font-size: 7.5rem;
-  color: $color--white;
-	transition: $primary-transition;
-  &:hover {
-  color: $color--black;
-  }
+.icon-circle {
+  font-size: 12.5rem;
+  fill: $color--brown;
+  z-index: -10;
 }

@@ -2,12 +2,10 @@
 layout: default
 ---
 
-<!-- Description -->
-<section class="missing">
-	<div class="row">
-		<div class="small-12 medium-10 large-8 columns">
-		<h1>{{ page.content | markdownify }}</h1>
-		</div>
+<!-- Content -->
+<div class="grid-x grid-padding-x">
+	<div class="cell">
+		{{ content }}
 	</div>
-</section>
-<!-- End Description -->
+</div>
+<!-- End Content -->

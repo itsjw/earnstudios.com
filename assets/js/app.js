@@ -2,41 +2,75 @@ $(document).foundation();
 
 $('body').removeClass('fade-out');
 
-// Scroll
-$('a[href*="#"]:not([href="#"])').click(function() {
-if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-  var target = $(this.hash);
-  target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-  if (target.length) {
-    $('html, body').animate({
-      scrollTop: target.offset().top
-    }, 1000);
-    return false;
-  }
-}
+// 2. Animate on Scroll
+// --------------------
+
+$(function() {
+  AOS.init({ 
+   easing: 'ease-in-out-quart', 
+   duration: 600,
+   });   
 });
 
-// Carousel
-$('.carousel').flickity({
-  // options
-  contain: true,
-  setGallerySize: false,
-  wrapAround: true,
-  autoPlay: true,
-  prevNextButtons: true,
-  pageDots: false,
-  arrowShape: 'M100,46.875H11.9688l17.4688-17.4688L25,25L0,50l25,25l4.4062-4.4062L11.9688,53.125H100V46.875z'
+$(function() {
+window.addEventListener('load', AOS.refresh);
 });
 
 
-// Tranistions
-wow = new WOW(
-  {
-  boxClass:     'wow',      // default
-  animateClass: 'animated', // default
-  offset:       0,          // default
-  mobile:       true,       // default
-  live:         true        // default
-}
-)
-wow.init();
+var triangleAnimation = anime({
+  targets: '.icon-triangle',
+  translateX: 250,
+  translatey: -10,
+  rotate: 90,
+  duration: 50000,
+  loop: true,
+  easing: 'linear',
+  direction: 'alternate'
+});
+
+var moonAnimation = anime({
+  targets: '.icon-moon',
+  translateX: -50,
+  translatey: -10,
+  rotate: 90,
+  duration: 50000,
+  loop: true,
+  easing: 'linear',
+  direction: 'alternate'
+});
+
+var diagramAnimation = anime({
+  targets: '.icon-diagram',
+  rotate: 360,
+  duration: 50000,
+  loop: true,
+  easing: 'linear',
+});
+
+var rectangleAnimation = anime({
+  targets: '.icon-rectangle',
+  translateX: 250,
+  translatey: -10,
+  rotate: 90,
+  duration: 50000,
+  loop: true,
+  easing: 'linear',
+});
+
+var circleAnimation = anime({
+  targets: '.icon-circle',
+  translateX: -250,
+  translatey: -10,
+  duration: 50000,
+  loop: true,
+  easing: 'linear',
+});
+
+
+var rellax = new Rellax('.rellax', {
+    speed: -2,
+    center: false,
+    round: true,
+    vertical: true,
+    horizontal: false
+  });

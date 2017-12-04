@@ -1,27 +1,11 @@
 ---
-title: EE Limited Edition
-date: 2015-01-01 00:00:00 Z
-position: 4
+title: EE
+date: 2013-03-04 00:00:00 Z
+position: 1
 image: "/uploads/ee.jpg"
-feature-image: "/uploads/ee-feature.jpg"
-images:
-- "/uploads/ee-one.jpg"
-- "/uploads/ee-two.jpg"
-company: EE
-is-featured: true
-excerpt-text: Our mobile network run by YouTubers made £millions
-carousel-text: Our mobile network run by YouTubers made £millions
-quote: Smart, collaborative, focused
-quote-cite: Spencer McHugh, Marketing Director, EE
-brief-text: To drive trial of PAYG Sims amongst young data hungry people
-solution-text: We created the EE Limited Edition SIMs project, which enabled influential
-  YouTube ambassadors to create their own limited edition SIM experience for their
-  fans. By collaborating directly with the talent we created an authentic and desirable
-  product for their fans who loved the idea of being texted by their heroes.
-results-text: Over 55,000 new customers
-video: 125559691
-has-logo: true
+description: The world’s first mobile network run by YouTubers
+brief: Create a cultural shift to catalyse creativity and innovation across Lucozade Ribena Suntory.
+solution: Shifting the business away from its traditional two-year development cycles, we worked with LRS to invent and launch a range of premium mixers that could go to market within six months. We also launched Merchant’s Heart’s own magazine, KANPAI!, to celebrate and inspire the craft, culture and artistry of bartending and make Merchant’s Heart an essential part of drink culture. Click here to browse of the magazine
+results: Merchant’s Heart was launched in ten beta bars in London during December 2015 – just six months after our first conversation about the project, and this has now grown to over 100 bars across the UK. KANPA! is also stocked in over 300 bars, hotels, members clubs and offices in the UK.
 layout: project
 ---
-
-We created the EE Limited Edition SIMs project, which enabled influential YouTube ambassadors to create their own limited edition SIM experience for their fans. By collaborating directly with the talent we created an authentic and desirable product for their fans who loved the idea of being texted by their heroes.
