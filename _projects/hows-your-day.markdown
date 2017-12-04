@@ -4,9 +4,9 @@ date: 2017-11-02 00:00:00 Z
 position: 4
 image: "/uploads/hows-your-day.jpg"
 description: Our Happiness Trainer App
-brief:
+brief: 
 solution: 
-results:
+results: 
 layout: project
 ---
 

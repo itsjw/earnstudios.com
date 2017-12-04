@@ -4,9 +4,9 @@ date: 2017-11-05 00:00:00 Z
 position: 1
 image: "/uploads/huel.jpg"
 description: Powering the future of food
-brief:
-solution:
-results:
+brief: 
+solution: 
+results: 
 layout: project
 ---
 
