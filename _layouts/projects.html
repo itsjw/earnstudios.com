@@ -5,7 +5,7 @@ layout: default
 <!-- One -->
 <section class="section-one">
   
-      <div class="grid-container">
+      <div class="grid-container" data-aos="fade-in">
         
         <div class="grid-x grid-padding-x grid-padding-y">
           <div class="small-10 small-offset-1 medium-8 medium-offset-1 large-8 large-offset-2 cell">
@@ -27,7 +27,7 @@ layout: default
 <!-- Projects -->
 <div class="grid-container">
   <div class="grid-x">
-    {% assign projects = site.projects | sort: 'date' | reverse %}
+    {% assign projects = site.projects | sort: 'position' %}
     {% for project in projects %}
       <div class="small-12 cell projects__list" data-aos="fade-in">
       {% include item.html %}

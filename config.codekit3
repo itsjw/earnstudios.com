@@ -257,6 +257,13 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/assets\/css\/app.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/app.css.map",
+		"oF": 0
+		},
 	"\/assets\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 321,
@@ -436,7 +443,7 @@
 		},
 	"\/assets\/img\/og-image.png": {
 		"ft": 32768,
-		"iS": 14790,
+		"iS": 6380,
 		"oA": 0,
 		"oAP": "\/assets\/img\/og-image.png",
 		"oF": 0,

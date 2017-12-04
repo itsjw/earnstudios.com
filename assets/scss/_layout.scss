@@ -4,13 +4,14 @@
 //   2. Global
 //   3. Typography
 //   4. Buttons
-//   5. Animations
-//   6. Navigation
-//   7. Lightgallery
-//   8. Sections
-//   9. Section One
-//   10. Section Two
-//   11. Section Three
+//   4. Navigation
+//   5. Sections
+//   6. Section One
+//   7. Section Two
+//   8. Section Three
+//   9. Section Four
+//   10. Projects
+//   11. Contact
 //   12. Footer
 
 
@@ -118,27 +119,29 @@ h1 {
   line-height: 1;
 }
 
-.active {
-  padding-bottom: 0.25rem;
-  border-bottom: 1px $black solid;
+// 4. Navigation
+// -------------
+
+.navigation .menu li {
+  margin-bottom: 0.25rem;
+  border-bottom: 1px transparent solid;
+  transition: $primary-transition;
   &:hover {
-    border-bottom: 1px transparent solid;
+    border-bottom: 1px $color--black solid;
+  }
+  &:active {
+    border-bottom: 1px $color--black solid;
   }
 }
-  
 
-// 5. Animations
-// -------------
-
-// 6. Navigation
-// -------------
-
-.navigation .menu a {
-  padding-left: 0.35rem;
-  padding-right: 0.35rem;
+.navigation .menu li a{
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
 }
 
-// 8. Sections
+
+
+// 5. Sections
 // -----------
 
 section {
@@ -151,7 +154,12 @@ section .vertical.menu li {
   padding-bottom: 1rem;
 }
 
-// 9. Section One
+section .menu a {
+  padding-left: 0rem;
+  padding-bottom: 0rem;
+}
+
+// 6. Section One
 // --------------
 
 .section-one__shape {
@@ -161,7 +169,7 @@ section .vertical.menu li {
   z-index: -10;
 }
 
-// 10. Section Two
+// 7. Section Two
 // ---------------
 
 .section-two__shape {
@@ -178,7 +186,7 @@ section .vertical.menu li {
   z-index: -10;
 }
 
-// 11. Section Three
+// 8. Section Three
 // -----------------
 
 .section-three__shape {
@@ -188,7 +196,7 @@ section .vertical.menu li {
   z-index: -10;
 }
 
-// 11. Section Four
+// 9. Section Four
 // -----------------
 
 .section-four__shape {
@@ -198,7 +206,7 @@ section .vertical.menu li {
   z-index: -10;
 }
 
-// 7. Projects
+// 10. Projects
 // ----------
 
 .projects__list a {
@@ -230,11 +238,8 @@ section .vertical.menu li {
   line-height: 1;
 }
 
-// 12. Footer
-// ---------
 
-
-// X. Home
+// 11. Contact
 // ------
 
 .info__map {
@@ -247,6 +252,5 @@ section .vertical.menu li {
 }
 
 
-.changeColor {
-   background: white;
-}
+// 12. Footer
+// ---------
