@@ -13,7 +13,11 @@ layout: default
   
   <div class="grid-x align-center">
     <div class="small-12 medium-12 cell" data-aos="fade-in">
+      {% if page.secondary-image %}
+      <img src="{{ page.secondary-image}}" alt="{{page.title}}">
+      {% else %}
       <img src="{{ page.image }}" alt="{{page.title}}">
+      {% endif %}
     </div>
   </div>
   
