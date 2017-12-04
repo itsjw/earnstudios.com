@@ -119,6 +119,14 @@ h1 {
   line-height: 1;
 }
 
+p a {
+  padding-bottom: 0.25rem;
+  border-bottom: 1px $black solid;
+  &:hover {
+    border-bottom: 1px transparent solid;
+  }
+}
+
 // 4. Navigation
 // -------------
 
