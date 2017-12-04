@@ -35,7 +35,7 @@ layout: default
         
         <div class="grid-x grid-padding-x grid-padding-y">
           <div class="small-10 small-offset-1 medium-8 medium-offset-1 large-8 large-offset-2 cell">
-              <h1>{{page.process-title-text}}</h1>
+              {{page.process-title-text | markdownify}}
           </div>
         </div>
         
@@ -83,7 +83,7 @@ layout: default
         
         <div class="grid-x grid-padding-x grid-padding-y">
           <div class="small-10 small-offset-1 medium-8 medium-offset-1 large-8 large-offset-2 cell">
-              <h1>{{page.about-title-text}}</h1>
+              {{page.about-title-text | markdownify}}
           </div>
         </div>
         
@@ -110,7 +110,7 @@ layout: default
         
         <div class="grid-x grid-padding-x grid-padding-y">
           <div class="small-10 small-offset-1 medium-8 medium-offset-1 large-8 large-offset-2 cell">
-              <h1>{{page.projects-title-text}}</h1>
+              {{page.projects-title-text | markdownify}}
           </div>
         </div>
         

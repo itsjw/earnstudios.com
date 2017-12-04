@@ -421,6 +421,20 @@
 		"oAP": "\/assets\/fonts\/lg.woff",
 		"oF": 0
 		},
+	"\/assets\/fonts\/tiempos-headline-light-italic.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/tiempos-headline-light-italic.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/tiempos-headline-light-italic.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/fonts\/tiempos-headline-light-italic.woff2",
+		"oF": 0
+		},
 	"\/assets\/icons\/symbol-defs.svg": {
 		"ft": 2097152,
 		"miP": 0,
