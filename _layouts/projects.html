@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- One -->
-<section class="section-one">
+<!-- <section class="section-one"> -->
   
       <div class="grid-container" data-aos="fade-in">
         
@@ -21,15 +21,15 @@ layout: default
         
       </div>
       
-</section>
+<!-- </section> -->
 <!-- End One -->
 
 <!-- Projects -->
 <div class="grid-container">
-  <div class="grid-x">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
     {% assign projects = site.projects | sort: 'position' %}
     {% for project in projects %}
-      <div class="small-12 cell projects__list" data-aos="fade-in">
+      <div class="small-12 medium-10 cell projects__list" data-aos="fade-in">
       {% include item.html %}
       </div>
     {% endfor %}

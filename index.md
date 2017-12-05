@@ -2,15 +2,12 @@
 title: EARN Studios
 image: "/assets/img/og-image.png"
 hero-title-text: "# Our ambition is to *invent* businesses that get the world talking."
-hero-text: We’re an innovation partner for brands that want to invent or grow disruptive
-  businesses.
+hero-text: We’re an innovation partner for brands that want to invent or grow disruptive businesses. We also invest in our own ideas and apply the learnings to our client projects.
 process-title-text: "# Everything we *create* is designed to be shareable and deliver
   long-term revenue"
 process-text: 
 about-title-text: "# Innovation is a *team* game."
-about-text: Our team of inventors work from a studio in Paddington, London, alongside
-  clients, industry experts and commercial partners. We also invest in our own ideas
-  and apply the learnings to the businesses we invent with our clients.
+about-text: Our team of inventors work from a studio in Paddington, London, alongside clients, industry experts and commercial partners. 
 projects-title-text: "# Select Projects."
 layout: home
 ---
