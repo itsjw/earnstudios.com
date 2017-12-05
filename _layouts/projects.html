@@ -1,14 +1,38 @@
 ---
-layout: dark
+layout: default
 ---
 
-<!-- Content -->
-<div class="row expanded collapse">
-	{% assign projects = site.projects | sort: 'date' | reverse %}
-	{% for project in projects %}
-	<div class="small-12 medium-6 large-6 columns">
-	{% include excerpt.html %}
-	</div>
-	{% endfor %}
+<!-- One -->
+<!-- <section class="section-one"> -->
+  
+      <div class="grid-container" data-aos="fade-in">
+        
+        <div class="grid-x grid-padding-x grid-padding-y">
+          <div class="small-10 small-offset-1 medium-8 medium-offset-1 large-8 large-offset-2 cell">
+              {{page.projects-title-text | markdownify}}
+          </div>
+        </div>
+        
+        <div class="grid-x grid-padding-x">
+          <div class="small-10 small-offset-1 medium-8 medium-offset-3 large-6 large-offset-4 xxlarge-offset-5 cell">
+              <h2>{{page.projects-text}}</h2>
+          </div>
+        </div>
+        
+      </div>
+      
+<!-- </section> -->
+<!-- End One -->
+
+<!-- Projects -->
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    {% assign projects = site.projects | sort: 'position' %}
+    {% for project in projects %}
+      <div class="small-12 medium-10 cell projects__list" data-aos="fade-in">
+      {% include item.html %}
+      </div>
+    {% endfor %}
+  </div>
 </div>
-<!-- End Content -->
+<!-- End Projects -->

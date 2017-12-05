@@ -1,14 +1,8 @@
-- title: "About"
-  href: "/about"
-- title: "Projects"
-  href: "/projects"
-- title: "Ventures"
-  href: "/ventures"
-- title: "People"
-  href: "/people"
-- title: "Book"
-  href: "/book"
-- title: "Blog"
-  href: "/blog"
-- title: "Contact"
-  href: "/contact"
+- title: Projects
+  url: /projects/
+  
+- title: Book
+  url: /book/
+
+- title: Contact
+  url: /contact/

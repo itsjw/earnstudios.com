@@ -2,15 +2,6 @@
 title: EARN Studios
 timezone: UTC
 collections:
-  carousel:
-    title: Carousel
-    output: false
-  friends:
-    title: Friends
-    output: false
-  people:
-    title: People
-    output: false
   posts:
     title: Posts
     output: true
@@ -19,125 +10,44 @@ collections:
     output: true
   uploads:
     title: Uploads
-    output: true
-  ventures:
-    title: Ventures
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    image: 
-    author: 
-- scope:
-    path: ''
-    type: projects
-  values:
-    layout: project
-    image: 
-    feature-image: 
-    images:
-    - 
-    company: 
-    is-featured: 
-    excerpt-text: 
-    is-carousel: 
-    carousel-text: 
-    quote: 
-    quote-cite: 
-    brief-text: 
-    solution-text: 
-    results-text: 
-    video: 
-- scope:
-    path: ''
-    type: carousel
-  values:
-    feature-image: 
-    is-carousel: 
-    carousel-text: 
-    link: 
-    has_lightoverlay: 
-    has_darkoverlay: 
-- scope:
-    path: ''
-    type: friends
-  values:
-    image: 
-    link: 
-- scope:
-    path: ''
-    type: people
-  values:
-    image: 
-    job-title: 
-    linkedin: 
-- scope:
-    path: ''
-    type: ventures
-  values:
-    layout: 
-    image: 
-    feature-image: 
-    images:
-    - 
-    company: 
-    is-featured: 
-    excerpt-text: 
-    is-carousel: 
-    carousel-text: 
-    video: 
-    intro: 
-url: http://earnstudios.com
+    output: false
+url: https://www.earnstudios.com
+baseurl: 
+description: EARN is a consultancy for future facing brands. Founded in 2013 to build
+  long term brand love and revenue with brave clients.
 permalink: pretty
-plugins_dir:
+exclude:
+- bower.json
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+- assets/scss
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
 markdown: kramdown
 kramdown:
+  auto_ids: false
   input: GFM
   hard_wrap: false
 highlighter: rouge
-exclude:
-- Gruntfile.js
-- package.json
-- README*
-- node_modules
-- ".gitignore"
-- bower_components
-- config.codekit3
-- CHANGELOG.md
-- LICENSE.md
-- bower.json
-description: EARN is a consultancy for future facing brands. Founded in 2013 to build
-  long term brand love and revenue with brave clients.
+colophon: http://garethjohnsdesign.com
 company: EARN Studios Limited
 email: hello@earnstudios.com
 google_site_verification: rOPaFOZ15OwhQRVRAWah2G1u4wvP83iRa4XpIqkcJyg
 analytics: UA-84661141-1
-logo: "/assets/img/layout/logo.svg"
+logo: "/assets/img/logo.svg"
 per_page: 12
-date_format: "%b %d, %Y"
+date_format: "%d %B %Y"
 future: true
 social:
-  linkedin: company/earn-studios-ltd
-  vimeo: user29030585
-view_project: View Project
-view_venture: View Venture
-view_blog: View Blog
-view_person: View
-complimentary-title: With our compliments
-complimentary-text: If you’re interested in finding out more about our book, please
-  fill out your details and we’ll send you a complimentary sample.
+  instagram: 
 compress_html:
   comments:
   - "<!-- "

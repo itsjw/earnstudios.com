@@ -1,27 +1,15 @@
 ---
-title: EE Limited Edition
-date: 2015-01-01 00:00:00 Z
-position: 4
+title: EE
+date: 2017-11-03 00:00:00 Z
+position: 0
 image: "/uploads/ee.jpg"
-feature-image: "/uploads/ee-feature.jpg"
-images:
-- "/uploads/ee-one.jpg"
-- "/uploads/ee-two.jpg"
-company: EE
-is-featured: true
-excerpt-text: Our mobile network run by YouTubers made £millions
-carousel-text: Our mobile network run by YouTubers made £millions
-quote: Smart, collaborative, focused
-quote-cite: Spencer McHugh, Marketing Director, EE
-brief-text: To drive trial of PAYG Sims amongst young data hungry people
-solution-text: We created the EE Limited Edition SIMs project, which enabled influential
-  YouTube ambassadors to create their own limited edition SIM experience for their
-  fans. By collaborating directly with the talent we created an authentic and desirable
-  product for their fans who loved the idea of being texted by their heroes.
-results-text: Over 55,000 new customers
+description: The world’s first mobile network run by YouTubers
 video: 125559691
-has-logo: true
+brief: Drive sales of PAYG SIM cards amongst young, data-hungry people.
+solution: We created the EE Limited Edition project, which enabled influential YouTube
+  ambassadors to create their own mobile network for their fans. Check out the film
+  for the project here.
+results: Over 50,000 new customers in just 3 months and £millions in revenue for EE.
 layout: project
 ---
 
-We created the EE Limited Edition SIMs project, which enabled influential YouTube ambassadors to create their own limited edition SIM experience for their fans. By collaborating directly with the talent we created an authentic and desirable product for their fans who loved the idea of being texted by their heroes.
