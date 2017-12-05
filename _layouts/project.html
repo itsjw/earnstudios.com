@@ -6,20 +6,25 @@ layout: default
 <div class="grid-container">
   
   <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-11 medium-8 cell" data-aos="fade-in">
+    <div class="small-11 medium-8 cell text-center" data-aos="fade-in">
       <h1>{{page.description}}</h1>
     </div>
   </div>
   
-  <div class="grid-x align-center">
-    <div class="small-12 medium-12 cell" data-aos="fade-in">
-      {% if page.secondary-image %}
-      <img src="{{ page.secondary-image}}" alt="{{page.title}}">
-      {% else %}
-      <img src="{{ page.image }}" alt="{{page.title}}">
-      {% endif %}
+
+  <div class="grid-x grid-padding-x align-center">
+    <div class="small-12 medium-10 large-9 cell">
+      {% if page.video %}
+    	<div class="responsive-embed widescreen">
+    	   <iframe src="https://player.vimeo.com/video/{{ page.video }}?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    	</div>
+    	{% else %}
+    	<img src="{{ page.secondary-image}}" alt="{{page.title}}">
+    	{% endif %}
     </div>
   </div>
+
+
   
   {% if page.brief %}
   <div class="grid-x grid-padding-x grid-padding-y align-center">
@@ -47,16 +52,6 @@ layout: default
     </div>
   </div>
   {% endif %}
-  
-  <!-- Video -->
-<div class="grid-x grid-padding-x  grid-padding-y align-center">
-  <div class="small-11 medium-8 cell">
-  	<div class="responsive-embed widescreen">
-  	   <iframe src="https://player.vimeo.com/video/{{ page.video }}?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  	</div>
-  </div>
-</div>
-<!-- End Video -->
 
   
   <div class="grid-x grid-padding-x grid-padding-y align-center">
@@ -68,7 +63,7 @@ layout: default
 
 <div class="grid-x grid-padding-x align-center">
   <div class="shrink cell text-center">
-    <h3>Next</h3>
+    <h3><a href="{{page.previous.url}}">Next</a></h3>
     <a href="{{page.previous.url}}">
     {{page.previous.title}}
     </a>
