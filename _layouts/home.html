@@ -41,24 +41,14 @@ layout: default
         
         <div class="grid-x grid-padding-x">
           <div class="small-10 small-offset-1 medium-7 medium-offset-3 large-7 large-offset-4 xxlarge-offset-5 cell">
-              
-              <ul class="vertical menu">
+            <ul class="vertical menu">
+              {% for process in page.process-list %}
               <li>
-              <h3>Revenue</h3>
-              <h3>Something people are willing to invest in.</h3>
+              <h3>{{process.title}}</h3>
+              <h3>{{process.text}}</h3>
               </li>
-              
-              <li>
-              <h3>Shareable</h3>
-              <h3>Earns word of mouth and organic growth.</h3>
-              </li>
-              
-              <li>
-              <h3>Longevity</h3>
-              <h3>Built to have lasting cultural relevance.</h3>
-              </li>
-              </ul>
-            
+              {% endfor %}
+            </ul>
           </div>
         </div>
         
@@ -117,6 +107,19 @@ layout: default
         <div class="grid-x grid-padding-x">
           <div class="small-10 small-offset-1 medium-7 medium-offset-3 large-7 large-offset-4 xxlarge-offset-5 cell">
               
+<ul class="vertical menu">
+{% assign projects = site.projects | sort: 'position' | where: "is-featured", "true" %}
+{% for project in projects %}
+<li>
+<a href="{{project.url}}">
+<h3>{{project.title}}</h3>
+<h3>{{project.description}} →</h3>
+</a>
+</li>
+{% endfor %}
+</ul>
+
+<!--
               <ul class="vertical menu">
               
               <li>
@@ -135,6 +138,7 @@ layout: default
               </li>
               
               </ul>
+-->
               
               <a href="/projects" class="underline">View All</a>
             

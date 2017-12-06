@@ -1,5 +1,5 @@
 ---
-title: How's Your Day
+title: How's Your Day?
 date: 2017-11-02 00:00:00 Z
 position: 3
 image: "/uploads/hows-your-day.jpg"
