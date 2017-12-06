@@ -7,10 +7,14 @@ hero-text: We’re an innovation partner for brands that want to invent or grow 
   client projects.
 process-title-text: "# Everything we *create* is designed to be shareable and deliver
   long-term revenue."
-process-text: 
+process-list:
+- title: Revenue
+  text: Something people are willing to invest in
+- title: Shareable
+  text: Earns word of mouth and organic growth.
 about-title-text: "# Innovation is a *team* game."
-about-text: Our team of inventors work from a studio in Paddington, London, alongside
-  clients, industry experts and commercial partners.
+about-text: Our entrepreneurial team of inventors work from a studio in Paddington,
+  London, alongside clients, industry experts and commercial partners.
 projects-title-text: "# Select Projects."
 layout: home
 ---
