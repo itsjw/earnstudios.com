@@ -13,7 +13,6 @@ section-three-text: |-
   Brand Love answers these questions through case studies of businesses well-adapted to the digital age; that build multi-billion dollar market caps without significant sums spent on advertising; and defy the expectations of both investors and their category by breaking the rules.
 
   If you’re interested in finding out more about the book, please fill out your details and we’ll send you a complimentary sample.
-  * denotes required field
 layout: book
 ---
 

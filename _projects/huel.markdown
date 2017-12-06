@@ -8,6 +8,7 @@ description: Powering the future of food
 brief: 
 solution: 
 results: 
+is-featured: true
 layout: project
 ---
 
