@@ -2,7 +2,9 @@
 title: EARN Studios
 image: "/assets/img/og-image.png"
 hero-title-text: "# Our ambition is to *invent* businesses that get the world talking."
-hero-text: We’re an innovation partner for brands that want to invent or grow disruptive businesses. We also invest in our own ventures to apply first-hand experience to client projects.
+hero-text: We’re an innovation partner for brands that want to invent or grow disruptive
+  businesses. We also invest in our own ventures to apply first-hand experience to
+  client projects.
 process-title-text: "# Everything we *create* is designed to be shareable and deliver
   long-term revenue."
 process-text: 
