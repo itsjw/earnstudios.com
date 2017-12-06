@@ -60,7 +60,7 @@ layout: default
     </div>
   </div>
 
-
+{% if page.previous %}
 <div class="grid-x grid-padding-x align-center">
   <div class="shrink cell text-center">
     <h3><a href="{{page.previous.url}}">Next</a></h3>
@@ -69,7 +69,8 @@ layout: default
     </a>
   </div>
 </div>
-<!-- End Mobile Pagination -->
+{% endif %}
+
   
 </div>
 <!-- End Projects -->

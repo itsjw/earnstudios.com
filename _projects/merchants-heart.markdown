@@ -2,7 +2,7 @@
 title: Merchant's Heart
 date: 2017-11-04 00:00:00 Z
 position: 4
-image: "/uploads/merchants-heart.jpg"
+image: "/uploads/merchants-heart-one.jpg"
 secondary-image: "/uploads/merchants-heart-two.jpg"
 description: A premium mixer range and magazine launched in just six months
 brief: Launch LRS into the premium mixer category with style and agility.
