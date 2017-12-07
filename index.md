@@ -5,8 +5,8 @@ hero-title-text: "# Our ambition is to *invent* businesses that get the world ta
 hero-text: We’re an innovation partner for brands that want to invent or grow disruptive
   businesses. We also invest in our own ventures to apply first-hand experience to
   client projects.
-process-title-text: "# Everything we *create* is designed to be shareable and deliver
-  long-term revenue."
+process-title-text: "# Everything we create is designed to *earn* long-term revenue
+  and word of mouth"
 process-list:
 - title: Revenue
   text: Something people are willing to invest in
