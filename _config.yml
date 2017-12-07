@@ -41,7 +41,7 @@ colophon: http://garethjohnsdesign.com
 company: EARN Studios Limited
 email: hello@earnstudios.com
 google_site_verification: rOPaFOZ15OwhQRVRAWah2G1u4wvP83iRa4XpIqkcJyg
-analytics: UA-84661141-1
+analytics: "UA-84661141-1"
 logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%d %B %Y"
