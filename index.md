@@ -9,7 +9,7 @@ process-title-text: "# Everything we create is designed to *earn* long-term reve
   and word of mouth"
 process-list:
 - title: Revenue
-  text: Something people are willing to invest in
+  text: Something people are willing to invest in.
 - title: Shareable
   text: Earns word of mouth and organic growth.
 - title: Longevity
