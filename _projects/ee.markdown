@@ -1,6 +1,6 @@
 ---
 title: EE
-date: 2017-11-03 00:00:00 Z
+date: 2017-01-06 00:00:00 Z
 position: 0
 image: "/uploads/ee.jpg"
 description: The world’s first mobile network run by YouTubers

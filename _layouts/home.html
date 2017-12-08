@@ -38,29 +38,23 @@ layout: default
               {{page.process-title-text | markdownify}}
           </div>
         </div>
-        
-        <div class="grid-x grid-padding-x">
-          <div class="small-10 small-offset-1 medium-7 medium-offset-3 large-7 large-offset-4 xxlarge-offset-5 cell">
-            <ul class="vertical menu">
-              {% for process in page.process-list %}
-              <li>
-              <h3>{{process.title}}</h3>
-              <h3>{{process.text}}</h3>
-              </li>
-              {% endfor %}
-            </ul>
+          
+
+        <div class="grid-x grid-padding-x grid-padding-y">
+          <div class="small-12 cell">
+            <div class="section-two__diagram rellax" data-rellax-speed="-1">
+            <svg class="icon icon-diagram"><use xlink:href="/assets/icons/symbol-defs.svg#icon-diagram"></use></svg>
+            </div>
           </div>
         </div>
         
       </div>
       
-      <div class="section-two__shape rellax" data-rellax-speed="1">
-        <svg class="icon icon-moon"><use xlink:href="/assets/icons/symbol-defs.svg#icon-moon"></use></svg>
-      </div>
       
-      <div class="section-two__diagram rellax show-for-medium" data-rellax-speed="-1">
-        <svg class="icon icon-diagram"><use xlink:href="/assets/icons/symbol-defs.svg#icon-diagram"></use></svg>
-      </div>
+
+      
+      
+
 
 </section>
 <!-- End Two -->

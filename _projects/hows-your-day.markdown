@@ -1,6 +1,6 @@
 ---
 title: Our Digital Happiness Trainer
-date: 2017-11-02 00:00:00 Z
+date: 2017-01-03 00:00:00 Z
 position: 3
 image: "/uploads/hows-your-day.jpg"
 description: Our Digital Happiness Trainer

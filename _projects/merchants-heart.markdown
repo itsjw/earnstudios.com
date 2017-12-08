@@ -1,6 +1,6 @@
 ---
 title: Merchant's Heart
-date: 2017-11-04 00:00:00 Z
+date: 2017-01-02 00:00:00 Z
 position: 4
 image: "/uploads/merchants-heart-one.jpg"
 secondary-image: "/uploads/merchants-heart-two.jpg"
