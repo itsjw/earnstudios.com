@@ -5,9 +5,9 @@ book-title-text: "# How to build a business *worth* talking about"
 section-one-text: |-
   Co-authored by our founder [Jamal Benmiloud](https://www.jamalbenmiloud.com), Brand Love is a book that takes you on a journey around the world in search of the most innovative businesses both fans and industry analysts are talking about.
 
-  Monster Energy drinks has become the most successful energy drinks brand in the US, without a single dollar spent on advertising.
+  Monster Energy drinks has become the most successful energy drinks business in the US with a market cap of $35billion, without a single dollar spent on advertising.
 
-  When Chinese mobile brand Xiaomi launched their new tablet, stock sold out in 2.7 seconds.
+  When Chinese mobile brand Xiaomi, the world’s most valuable tech start up with a valuation of over $50bn, launched their new tablet it sold out in 2.7 seconds.
 
   LEGO continues to defy critics and analyst expectations selling billions of dollars of analogue toys in the digital age.
 section-three-text: |-
