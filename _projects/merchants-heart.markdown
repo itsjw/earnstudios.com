@@ -5,7 +5,8 @@ position: 4
 image: "/uploads/merchants-heart-one.jpg"
 secondary-image: "/uploads/merchants-heart-two.jpg"
 description: A premium mixer range and magazine launched in just six months
-brief: Launch LRS into the premium mixer category with style and agility.
+brief: Launch Lucozade Ribena Suntory into the premium mixer category with style and
+  agility.
 solution: Shifting the business away from its traditional two-year development cycles,
   we worked with LRS to invent and launch a range of premium mixers within six months.
   To make Merchant’s Heart an essential part of drink culture we also launched it’s
