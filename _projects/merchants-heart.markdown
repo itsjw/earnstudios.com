@@ -4,7 +4,7 @@ date: 2017-11-04 00:00:00 Z
 position: 4
 image: "/uploads/merchants-heart-one.jpg"
 secondary-image: "/uploads/merchants-heart-two.jpg"
-description: A premium mixer range and magazine launched in just six months
+description: A premium mixer range and magazine launched in six months
 brief: Launch Lucozade Ribena Suntory into the premium mixer category with style and
   agility.
 solution: Shifting the business away from its traditional two-year development cycles,
