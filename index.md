@@ -6,7 +6,7 @@ hero-text: We’re an innovation partner for brands that want to invent or grow 
   businesses. We also invest in our own ventures to apply first-hand experience to
   client projects.
 process-title-text: "# Everything we create is designed to *earn* long-term revenue
-  and word of mouth"
+  and word of mouth."
 process-list:
 - title: Revenue
   text: Something people are willing to invest in.
