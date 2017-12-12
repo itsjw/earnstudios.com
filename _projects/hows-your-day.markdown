@@ -1,9 +1,9 @@
 ---
-title: Our Digital Happiness Trainer
+title: Our digital happiness trainer
 date: 2017-01-03 00:00:00 Z
 position: 3
 image: "/uploads/hows-your-day.jpg"
-description: Our Digital Happiness Trainer
+description: Our digital happiness trainer
 video: 154205367
 brief: 
 solution: 
