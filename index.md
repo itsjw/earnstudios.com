@@ -16,7 +16,7 @@ process-list:
   text: Built to have lasting cultural relevance.
 about-title-text: "# Innovation is a *team* game."
 about-text: EARN is a team of entrepreneurs and inventors. We work from a studio in
-  Paddington, London, alongside our client partners and industry experts.
+  Paddington, London, alongside our clients and industry experts.
 projects-title-text: "# Select Projects."
 layout: home
 ---
