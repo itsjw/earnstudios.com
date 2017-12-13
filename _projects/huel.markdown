@@ -4,7 +4,7 @@ date: 2017-01-04 00:00:00 Z
 position: 2
 image: "/uploads/huel.jpg"
 secondary-image: "/uploads/huel-two.jpg"
-description: The future of food is going global
+description: 'The future of food '
 brief: 
 solution: 
 results: 
