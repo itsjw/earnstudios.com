@@ -11,16 +11,36 @@ layout: default
 <!-- End Content -->
 
 
-<!-- Content -->
-<div class="grid-x grid-padding-x grid-padding-y align-center">
-  <div class="small-10 cell">
-    
-    <div class="grid-x grid-padding-x grid-padding-y">
-    	<div class="small-12 large-4 cell">
-        Test
-    	</div>
-    </div> 	
-    	
+<!-- Logos -->
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y small-up-2 medium-up-3 large-up-4">
+    {% for client in page.clients %}
+    <div class="cell">
+        <a href="{{ client.url }}" target="_blank"><img src="{{ client.image }}" alt="{{client.title}}"></a>
+    </div>
+    {% endfor %}
   </div>
 </div>
+<!-- End Logos -->
+
+
+<!-- Content -->
+<div class="grid-x grid-padding-x grid-padding-y align-center">
+	<div class="shrink cell">
+		<h1>Testimonials</h1>
+	</div>
+</div>
 <!-- End Content -->
+
+<!-- Testimonials -->
+<div class="grid-container">
+  {% for quote in page.quotes %}
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 cell text-center">
+      <h3>{{quote.text}}</h3>
+      <h5>{{quote.cite}} – {{quote.company}}</h5>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<!-- End Testimonials -->

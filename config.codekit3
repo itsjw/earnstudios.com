@@ -211,6 +211,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/bp.png": {
+		"ft": 32768,
+		"iS": 57108,
+		"oA": 0,
+		"oAP": "\/_uploads\/bp.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/castrol.png": {
+		"ft": 32768,
+		"iS": 43024,
+		"oA": 0,
+		"oAP": "\/_uploads\/castrol.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_uploads\/diageo-two.jpg": {
 		"ft": 16384,
 		"iS": 144653,
@@ -231,6 +253,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/diageo.png": {
+		"ft": 32768,
+		"iS": 28511,
+		"oA": 0,
+		"oAP": "\/_uploads\/diageo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_uploads\/ee.jpg": {
 		"ft": 16384,
 		"iS": 43392,
@@ -238,7 +271,29 @@
 		"oAP": "\/_uploads\/ee.jpg",
 		"oF": 0,
 		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_uploads\/ee.png": {
+		"ft": 32768,
+		"iS": 32360,
+		"oA": 0,
+		"oAP": "\/_uploads\/ee.png",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/first-direct.png": {
+		"ft": 32768,
+		"iS": 23362,
+		"oA": 0,
+		"oAP": "\/_uploads\/first-direct.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/_uploads\/hows-your-day-two.jpg": {
@@ -261,6 +316,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/huel-rev.jpg": {
+		"ft": 16384,
+		"iS": 105191,
+		"oA": 0,
+		"oAP": "\/_uploads\/huel-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/huel-two.jpg": {
 		"ft": 16384,
 		"iS": 370603,
@@ -278,7 +343,51 @@
 		"oAP": "\/_uploads\/huel.jpg",
 		"oF": 0,
 		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_uploads\/huel.png": {
+		"ft": 32768,
+		"iS": 21096,
+		"oA": 0,
+		"oAP": "\/_uploads\/huel.png",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/itv.png": {
+		"ft": 32768,
+		"iS": 25633,
+		"oA": 0,
+		"oAP": "\/_uploads\/itv.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/lucozade-ribena-suntory.png": {
+		"ft": 32768,
+		"iS": 38394,
+		"oA": 0,
+		"oAP": "\/_uploads\/lucozade-ribena-suntory.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/mccormick.png": {
+		"ft": 32768,
+		"iS": 37141,
+		"oA": 0,
+		"oAP": "\/_uploads\/mccormick.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/_uploads\/merchants-heart-one.jpg": {
@@ -291,6 +400,16 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/_uploads\/merchants-heart-three.jpg": {
+		"ft": 16384,
+		"iS": 106265,
+		"oA": 0,
+		"oAP": "\/_uploads\/merchants-heart-three.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/merchants-heart-two.jpg": {
 		"ft": 16384,
 		"iS": 146542,
@@ -299,6 +418,61 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/pepsico.png": {
+		"ft": 32768,
+		"iS": 33549,
+		"oA": 0,
+		"oAP": "\/_uploads\/pepsico.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/qualcomm.png": {
+		"ft": 32768,
+		"iS": 31181,
+		"oA": 0,
+		"oAP": "\/_uploads\/qualcomm.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/samsung.png": {
+		"ft": 32768,
+		"iS": 30676,
+		"oA": 0,
+		"oAP": "\/_uploads\/samsung.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/slimfast.png": {
+		"ft": 32768,
+		"iS": 35231,
+		"oA": 0,
+		"oAP": "\/_uploads\/slimfast.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/universal-studios.png": {
+		"ft": 32768,
+		"iS": 36777,
+		"oA": 0,
+		"oAP": "\/_uploads\/universal-studios.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/_uploads\/universal-two.jpg": {

@@ -2,7 +2,7 @@
 title: Huel
 date: 2017-01-04 00:00:00 Z
 position: 2
-image: "/uploads/huel.jpg"
+image: "/uploads/huel-rev.jpg"
 secondary-image: "/uploads/huel-two.jpg"
 description: 'The future of food '
 brief: 
