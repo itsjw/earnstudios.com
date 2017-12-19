@@ -44,6 +44,17 @@ Clients:
 - Title: McCormick
   Image: "/uploads/mccormick.png"
   Link: https://www.mccormick.com
+Quotes:
+- Text: "“Very innovative, driven, lean, agile and fun inventors that get the job
+    done.”"
+  Cite: Andrew Garrihy, CMO
+  Company: Qualcomm
+- Text: "“EARN have helped transform our culture to live and breathe innovative thinking”"
+  Cite: Peter Harding, COO
+  Company: Lucozade Ribena Suntory
+- Text: '"EARN are brilliant, smart and push the boundaries as our business partners."'
+  Cite: Michelle Topping, Head of Marketing
+  Company: PepsiCo
 layout: clients
 ---
 
