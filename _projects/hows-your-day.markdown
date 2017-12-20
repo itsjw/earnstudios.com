@@ -1,7 +1,7 @@
 ---
 title: Our digital happiness trainer
 date: 2017-01-03 00:00:00 Z
-position: 3
+position: 5
 image: "/uploads/hows-your-day.jpg"
 description: Our digital happiness trainer
 video: 154205367
