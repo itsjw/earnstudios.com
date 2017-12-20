@@ -296,6 +296,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_uploads\/game.png": {
+		"ft": 32768,
+		"iS": 27004,
+		"oA": 0,
+		"oAP": "\/_uploads\/game.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_uploads\/hows-your-day-two.jpg": {
 		"ft": 16384,
 		"iS": 107054,
@@ -682,6 +693,16 @@
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/tiempos-headline-light-italic.woff2",
 		"oF": 0
+		},
+	"\/assets\/icons\/symbol-defs.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/icons\/symbol-defs.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/assets\/img\/logo.svg": {
 		"ft": 2097152,

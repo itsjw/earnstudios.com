@@ -11,6 +11,9 @@ clients:
 - title: Pepsico
   image: "/uploads/pepsico.png"
   link: http://www.pepsico.co.uk
+- title: Game
+  image: "/uploads/game.png"
+  link: http://www.game.co.uk
 - title: Qualcomm
   image: "/uploads/qualcomm.png"
   link: https://www.qualcomm.com
