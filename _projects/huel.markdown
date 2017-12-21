@@ -9,6 +9,7 @@ brief:
 solution: 
 results: 
 is-featured: true
+logo: huel
 layout: project
 ---
 

@@ -251,6 +251,15 @@ section .menu a {
   line-height: 1;
 }
 
+.projects__list a .item__logo {
+  position: absolute;
+  bottom: 0rem;
+  left: 0rem;
+  padding: 2rem;
+  color: $white;
+  line-height: 1;
+}
+
 .projects__list a .item__title h1 {
   color: $white;
   line-height: 1;

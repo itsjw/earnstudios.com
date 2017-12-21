@@ -16,6 +16,7 @@ results: Merchant’s Heart was launched in ten beta bars in London during Decem
   2015 – just six months after our first conversation about the project, and this
   has now grown to over 100 bars across the UK. KANPA! is also stocked in over 300
   bars, hotels, members clubs and offices in the UK.
+logo: lrs
 layout: project
 ---
 

@@ -10,6 +10,7 @@ solution: In partnership with Diageo’s European Innovation team, we’re devel
   30+ product and business concepts to cement their position as the world’s leading
   premium spirits company for years to come.
 results: To be launched across 2018-2020.
+logo: diageo
 is-featured: true
 layout: project
 ---

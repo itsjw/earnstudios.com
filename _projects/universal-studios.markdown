@@ -12,6 +12,7 @@ solution: We created a collection of 12 bespoke digital posters and rewarded fan
 results: Smashed global box office record, previously held by Star Wars, and activated
   in 52 markets with 37 languages – the largest film promotion uptake in Universal’s
   history.
+logo: universal
 layout: project
 ---
 

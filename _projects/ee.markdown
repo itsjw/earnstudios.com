@@ -9,6 +9,7 @@ brief: Drive sales of EE SIM cards amongst young, data hungry people.
 solution: We created the EE Limited Edition project, which enabled influential YouTube
   ambassadors to create their own mobile network for their fans.
 results: Over 50,000 new customers in just 3 months and £millions in revenue for EE.
+logo: ee
 is-featured: true
 layout: project
 ---
