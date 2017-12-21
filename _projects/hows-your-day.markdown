@@ -8,6 +8,7 @@ video: 154205367
 brief: 
 solution: 
 results: 
+logo: logo
 layout: project
 ---
 
