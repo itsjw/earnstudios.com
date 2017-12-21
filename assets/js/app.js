@@ -40,7 +40,7 @@ var moonAnimation = anime({
 });
 
 var diagramAnimation = anime({
-  targets: '.icon-diagram',
+  targets: '.icon-diagram-rev',
   rotate: 360,
   duration: 50000,
   loop: true,

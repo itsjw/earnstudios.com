@@ -2,8 +2,8 @@
 title: Merchant's Heart
 date: 2017-01-02 00:00:00 Z
 position: 4
-image: "/uploads/merchants-heart-one.jpg"
-secondary-image: "/uploads/merchants-heart-two.jpg"
+image: "/uploads/merchants-heart-three.jpg"
+secondary-image: "/uploads/merchants-heart-one.jpg"
 description: A premium mixer range and magazine launched in six months
 brief: Launch Lucozade Ribena Suntory into the premium mixer category with style and
   agility.

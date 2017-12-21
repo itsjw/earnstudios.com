@@ -1,8 +1,11 @@
+- title: Clients
+  url: /clients/
+
 - title: Projects
   url: /projects/
   
 - title: Book
   url: /book/
-
+  
 - title: Contact
   url: /contact/

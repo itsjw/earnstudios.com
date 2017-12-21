@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<!-- Content -->
+<div class="grid-x grid-padding-x grid-padding-y align-center">
+	<div class="shrink cell">
+		<h1>{{page.description}}</h1>
+	</div>
+</div>
+<!-- End Content -->
+
+
+<!-- Logos -->
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y small-up-2 medium-up-3 large-up-5">
+    {% for client in page.clients %}
+    <div class="cell">
+        <img src="{{ client.image }}" alt="{{client.title}}">
+    </div>
+    {% endfor %}
+  </div>
+</div>
+<!-- End Logos -->
+
+
+<!-- Content -->
+<div class="grid-x grid-padding-x grid-padding-y align-center">
+	<div class="shrink cell">
+		<h1>Testimonials</h1>
+	</div>
+</div>
+<!-- End Content -->
+
+<!-- Testimonials -->
+<div class="grid-container">
+  {% for quote in page.quotes %}
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 cell text-center">
+      <h3>{{quote.text}}</h3>
+      <h5>{{quote.cite}} – {{quote.company}}</h5>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<!-- End Testimonials -->
