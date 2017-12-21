@@ -11,12 +11,12 @@ clients:
 - title: Diageo
   image: "/uploads/diageo.png"
   link: https://www.diageo.com
-- title: First Direct
-  image: "/uploads/first-direct.png"
-  link: http://www1.firstdirect.com/1/2/
 - title: EE
   image: "/uploads/ee.png"
   link: http://ee.co.uk
+- title: First Direct
+  image: "/uploads/first-direct.png"
+  link: http://www1.firstdirect.com/1/2/
 - title: Game
   image: "/uploads/game.png"
   link: http://www.game.co.uk
