@@ -97,13 +97,6 @@
 		"oAP": "\/_layouts\/book.html",
 		"oF": 0
 		},
-	"\/_layouts\/clients.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/clients.html",
-		"oF": 0
-		},
 	"\/_layouts\/compress.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -211,38 +204,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/bp.png": {
-		"ft": 32768,
-		"iS": 57108,
-		"oA": 0,
-		"oAP": "\/_uploads\/bp.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/castrol.png": {
-		"ft": 32768,
-		"iS": 43024,
-		"oA": 0,
-		"oAP": "\/_uploads\/castrol.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/diageo-two.jpg": {
-		"ft": 16384,
-		"iS": 144653,
-		"oA": 0,
-		"oAP": "\/_uploads\/diageo-two.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_uploads\/diageo.jpg": {
 		"ft": 16384,
 		"iS": 179234,
@@ -253,17 +214,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/diageo.png": {
-		"ft": 32768,
-		"iS": 28511,
-		"oA": 0,
-		"oAP": "\/_uploads\/diageo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/_uploads\/ee.jpg": {
 		"ft": 16384,
 		"iS": 43392,
@@ -271,80 +221,27 @@
 		"oAP": "\/_uploads\/ee.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_uploads\/ee.png": {
-		"ft": 32768,
-		"iS": 32360,
-		"oA": 0,
-		"oAP": "\/_uploads\/ee.png",
-		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"\/_uploads\/first-direct.png": {
-		"ft": 32768,
-		"iS": 23362,
-		"oA": 0,
-		"oAP": "\/_uploads\/first-direct.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/game.png": {
-		"ft": 32768,
-		"iS": 27004,
-		"oA": 0,
-		"oAP": "\/_uploads\/game.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/hows-your-day-two.jpg": {
+	"\/_uploads\/fast-and-furious.jpg": {
 		"ft": 16384,
-		"iS": 107054,
+		"iS": 400993,
 		"oA": 0,
-		"oAP": "\/_uploads\/hows-your-day-two.jpg",
+		"oAP": "\/_uploads\/fast-and-furious.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/hows-your-day.jpg": {
 		"ft": 16384,
-		"iS": 99509,
+		"iS": 43581,
 		"oA": 0,
 		"oAP": "\/_uploads\/hows-your-day.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/huel-rev.jpg": {
-		"ft": 16384,
-		"iS": 105191,
-		"oA": 0,
-		"oAP": "\/_uploads\/huel-rev.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/huel-two.jpg": {
-		"ft": 16384,
-		"iS": 370603,
-		"oA": 0,
-		"oAP": "\/_uploads\/huel-two.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
 		"q": 100
 		},
 	"\/_uploads\/huel.jpg": {
@@ -354,76 +251,12 @@
 		"oAP": "\/_uploads\/huel.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_uploads\/huel.png": {
-		"ft": 32768,
-		"iS": 21096,
-		"oA": 0,
-		"oAP": "\/_uploads\/huel.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/itv.png": {
-		"ft": 32768,
-		"iS": 25633,
-		"oA": 0,
-		"oAP": "\/_uploads\/itv.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/lucozade-ribena-suntory.png": {
-		"ft": 32768,
-		"iS": 38394,
-		"oA": 0,
-		"oAP": "\/_uploads\/lucozade-ribena-suntory.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/mccormick.png": {
-		"ft": 32768,
-		"iS": 37141,
-		"oA": 0,
-		"oAP": "\/_uploads\/mccormick.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/merchants-heart-one.jpg": {
-		"ft": 16384,
-		"iS": 189055,
-		"oA": 0,
-		"oAP": "\/_uploads\/merchants-heart-one.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_uploads\/merchants-heart-three.jpg": {
-		"ft": 16384,
-		"iS": 106265,
-		"oA": 0,
-		"oAP": "\/_uploads\/merchants-heart-three.jpg",
-		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/merchants-heart-two.jpg": {
 		"ft": 16384,
-		"iS": 146542,
+		"iS": 189055,
 		"oA": 0,
 		"oAP": "\/_uploads\/merchants-heart-two.jpg",
 		"oF": 0,
@@ -431,76 +264,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/pepsico.png": {
-		"ft": 32768,
-		"iS": 33549,
-		"oA": 0,
-		"oAP": "\/_uploads\/pepsico.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/qualcomm.png": {
-		"ft": 32768,
-		"iS": 31181,
-		"oA": 0,
-		"oAP": "\/_uploads\/qualcomm.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/samsung.png": {
-		"ft": 32768,
-		"iS": 30676,
-		"oA": 0,
-		"oAP": "\/_uploads\/samsung.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/slimfast.png": {
-		"ft": 32768,
-		"iS": 35231,
-		"oA": 0,
-		"oAP": "\/_uploads\/slimfast.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/universal-studios.png": {
-		"ft": 32768,
-		"iS": 36777,
-		"oA": 0,
-		"oAP": "\/_uploads\/universal-studios.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/universal-two.jpg": {
+	"\/_uploads\/merchants-heart.jpg": {
 		"ft": 16384,
-		"iS": 360141,
+		"iS": 146542,
 		"oA": 0,
-		"oAP": "\/_uploads\/universal-two.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_uploads\/universal.jpg": {
-		"ft": 16384,
-		"iS": 400993,
-		"oA": 0,
-		"oAP": "\/_uploads\/universal.jpg",
+		"oAP": "\/_uploads\/merchants-heart.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -694,6 +462,16 @@
 		"oAP": "\/assets\/fonts\/tiempos-headline-light-italic.woff2",
 		"oF": 0
 		},
+	"\/assets\/icons\/symbol-defs.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/icons\/symbol-defs.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/assets\/img\/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -722,7 +500,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/js\/min\/app-min.js",
 		"oF": 0,
-		"sC": 0,
+		"sC": 1,
 		"tS": 0
 		},
 	"\/assets\/js\/min\/app-min.js": {
@@ -1375,7 +1153,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/animejs\/anime.min.js",
 		"oF": 0,
 		"sC": 1,
@@ -2114,7 +1892,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/aos\/dist\/aos.js",
 		"oF": 0,
 		"sC": 1,
@@ -3665,7 +3443,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/foundation.js",
 		"oF": 0,
 		"sC": 1,
@@ -8813,7 +8591,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/motion-ui\/dist\/motion-ui.js",
 		"oF": 0,
 		"sC": 1,
@@ -9453,7 +9231,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/rellax\/rellax.js",
 		"oF": 0,
 		"sC": 1,
@@ -9891,24 +9669,6 @@
 		"oAP": "\/bower_components\/what-input\/yarn.lock",
 		"oF": 0
 		},
-	"\/clients.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/clients.md",
-		"oF": 1,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/contact.md": {
 		"cB": 0,
 		"cS": 0,
@@ -10041,45 +9801,15 @@
 "manualImportLinks": {
 	"\/assets\/js\/app.js": [
 		{
-			"followForSyntaxChecking": 0,
+			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/bower_components\/jquery\/dist\/jquery.js",
 			"position": 0,
 			"type": 0
 			},
 		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/foundation-sites\/dist\/js\/foundation.js",
-			"position": 1,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/animejs\/anime.min.js",
-			"position": 2,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/aos\/dist\/aos.js",
-			"position": 3,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
+			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/bower_components\/flickity\/dist\/flickity.pkgd.js",
-			"position": 4,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/rellax\/rellax.js",
-			"position": 5,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/motion-ui\/dist\/motion-ui.js",
-			"position": 6,
+			"position": 1,
 			"type": 0
 			}
 		]
